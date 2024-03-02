@@ -1,5 +1,6 @@
 # Table of contents
 
-* [📔 Installation Instructions](README.md)
+* [🧑‍✈️ Introduction](README.md)
+* [📔 Installation Instructions](<README (1).md>)
 * [🎮 Orqa Controller](orqa-controller.md)
 * [🖥️ System Requirements](system-requirements.md)
