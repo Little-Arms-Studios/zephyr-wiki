@@ -1,9 +1,5 @@
 # 🎮 Supported Controllers
 
-Below is a list of known supported controllers to use with the Zephyr Drone Simulator.
-
-
-
 {% hint style="info" %}
 There may be compatible controllers not on this list. We are actively testing and adding support for popular controllers and newer Mac computers. If your controller is not currently supported please check back on this page as it updates or reach out to support@littlearms.com
 {% endhint %}
