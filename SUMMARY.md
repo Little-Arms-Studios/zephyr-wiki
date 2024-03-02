@@ -7,5 +7,5 @@
 
 ## 📜 Certifications
 
-* [🧑‍✈️ Introduction](certifications/introduction.md)
+* [✅ Current Certifications](certifications/current-certifications.md)
 * [📘 Instructions](certifications/instructions.md)
