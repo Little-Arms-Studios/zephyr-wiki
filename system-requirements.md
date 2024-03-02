@@ -1,7 +1,5 @@
 # 🖥️ System Requirements
 
-In order to run Zephyr, you need:
-
 1. A computer that meets the minimum requirements to run Zephyr (see below)
 2. [A supported controller or transmitter](supported-controllers.md) with our USB adapter (if applicable)
 3. An internet connection\
