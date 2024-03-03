@@ -202,7 +202,7 @@ Both modes are displayed and accessible in Zephyr. By default, the camera can be
 
 Zephyr logs flight time in the simulator, which is stored and can be accessed later online through the integrated learning management system. If you are idle for too long in the simulator, it will not count your report/flight time for that module. The simulator will notify you if this occurs. This is done to keep logged flight time meaningful and to accurately report the amount of time a user flies in the simulator.
 
-We also have an optional integration with DroneLogbook where you can send your reports automatically from Zephyr to the DroneLogbook system to be included in your simulated flight time.
+We also have an optional integration with [DroneLogbook](dronelogbook.md) where you can send your reports automatically from Zephyr to the [DroneLogbook](dronelogbook.md) system to be included in your simulated flight time.
 
 </details>
 
