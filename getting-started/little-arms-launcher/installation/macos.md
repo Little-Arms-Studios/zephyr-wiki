@@ -14,8 +14,6 @@ Once logged in and at the Dashboard, on the left hand Sidebar you should see a s
 
 Your platform will be automatically detected if you are using Windows or macOS and display an appropriate clickable link to download the Little Arms Launcher. &#x20;
 
-## macOS
-
 Navigate to where you downloaded the Little-Arms-Launcher-x.x.x.dmg and double click on it.
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
