@@ -15,3 +15,15 @@ Access to private content through [https://zephyr-sim.com](https://zephyr-sim.co
 Amazon's AWS follows and leads most of the industries best practices and is [compliant with major security standards](https://aws.amazon.com/compliance/resources/).
 
 </details>
+
+<details>
+
+<summary>Is customer data encrypted?</summary>
+
+Yes all customer data is encrypted at rest and in-transit.
+
+* In transit we use HTTPS TLC 1.2 to encrypt all traffic served to end users.
+* At rest on Amazon Web Services (AWS) we use AES-256
+
+</details>
+

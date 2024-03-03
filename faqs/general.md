@@ -229,3 +229,16 @@ For the majority of countries, the answer is yes. However, please be aware that 
 The only information that’s required to register an account on Zephyr is an email. First Name/Last Name/Date of Birth is optional
 
 </details>
+
+<details>
+
+<summary><strong>What web/IP addresses/ports need to be whitelisted to access the site and sim?</strong></summary>
+
+* littlearms.com
+* \*.littlearms.com
+* zephyr-sim.com
+* \*.zephyr-sim.com
+* https://littlearms.us.auth0.com
+* port 443
+
+</details>
