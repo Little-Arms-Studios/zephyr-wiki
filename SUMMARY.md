@@ -16,10 +16,10 @@
 
 ## 🎓 Learning Management System
 
-* [📚 Overview](learning-management-system/overview.md)
 * [🪪 License Management](learning-management-system/license-management.md)
 * [🧑‍🎓 Courses](learning-management-system/courses.md)
 * [🧑‍🏫 Assignments](learning-management-system/assignments.md)
+* [💸 Billing](learning-management-system/billing.md)
 
 ## 📜 Certifications
 

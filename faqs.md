@@ -224,6 +224,14 @@ For the majority of countries, the answer is yes. However, please be aware that 
 
 </details>
 
+<details>
+
+<summary>What kind of personal information is collected on student accounts?</summary>
+
+The only information that’s required to register an account on Zephyr is an email. First Name/Last Name/Date of Birth is optional
+
+</details>
+
 ## Certifications
 
 <details>

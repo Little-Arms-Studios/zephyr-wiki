@@ -1,4 +1,8 @@
-# 🪪 License Management
+# 💸 Billing
+
+We offer three different billing solutions in order to satisfy the different needs for our clients.
+
+## Site Licensing
 
 Site Licensing is a type of licensing offered on Zephyr that allows institution the freedom to assign/un-assign/reassign licenses to their users as needed!
 
@@ -13,3 +17,7 @@ When your cycle approaches 30 days from the end, you will receive an automated e
 If you choose not to renew, we’d love to hear why or have the opportunity to discuss your options for renewal. But ultimately, if you decide not to renew, then your licenses will expire at the end of your billing cycle (plus a few extra days that we give them by default).
 
 If you choose to renew, then you’ll receive an invoice from us after discussing renewal options with a team member. Once the invoice is paid you don’t need to do anything else! If you requested an increase or decrease in license number, these licenses will be available to you immediately and you can continue using Zephyr normally.
+
+## Bill Me Later
+
+## Point of Transaction
