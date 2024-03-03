@@ -6,8 +6,12 @@ Still not finding what your looking for? Contact us at [support@littlearms.com](
 
 <summary>Where and how is my data stored?</summary>
 
-All user data and content is stored in the USA 🇺🇸 on Amazon Web Services (AWS), which is backed by the same infrastrucutre and security that Amazon uses for its own services.
+All user data and content is stored in the USA 🇺🇸 on [Amazon Web Services (AWS)](https://aws.amazon.com), which is backed by the same infrastructure and security that Amazon uses for its own services.
 
-Customer data is stored in USA data centers.  https://zephyr-sim.com and its assets may be cached in other geographic locations by AWS's CDN service CloudFront.&#x20;
+Customer data is stored in USA data centers.  The website [https://zephyr-sim.com](https://zephyr-sim.com) and its assets may be cached in other geographic locations by AWS's CDN service CloudFront.
+
+Access to private content through [https://zephyr-sim.com](https://zephyr-sim.com) is always validated through our API using a permission system.
+
+Amazon's AWS follows and leads most of the industries best practices and is [compliant with major security standards](https://aws.amazon.com/compliance/resources/).
 
 </details>
