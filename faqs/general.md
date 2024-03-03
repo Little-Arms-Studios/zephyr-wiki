@@ -1,8 +1,4 @@
-# ⁉️ FAQs
-
-Still not finding what your looking for? Contact us at [support@littlearms.com](mailto:support@littlearms.com) with your support question.  We will respond as soon as we receive your message.
-
-## General
+# ❓ General
 
 <details>
 
@@ -75,7 +71,7 @@ Note: if you can login to the website, but not the simulator, you may still need
 
 <summary>Is my controller compatible with Zephyr?</summary>
 
-You can find the list of the latest supported controllers [here](supported-controllers.md).
+You can find the list of the latest supported controllers [here](../supported-controllers.md).
 
 </details>
 
@@ -91,7 +87,7 @@ You may have another controller or HID device connected that could be conflictin
 
 <summary>What are the system requirements to use Zephyr?</summary>
 
-You can find the current system requirements [here](system-requirements.md).
+You can find the current system requirements [here](../system-requirements.md).
 
 </details>
 
@@ -204,7 +200,7 @@ Both modes are displayed and accessible in Zephyr. By default, the camera can be
 
 Zephyr logs flight time in the simulator, which is stored and can be accessed later online through the integrated learning management system. If you are idle for too long in the simulator, it will not count your report/flight time for that module. The simulator will notify you if this occurs. This is done to keep logged flight time meaningful and to accurately report the amount of time a user flies in the simulator.
 
-We also have an optional integration with [Drone Logbook](drone-logbook.md) where you can send your reports automatically from Zephyr to the [Drone Logbook](drone-logbook.md) system to be included in your simulated flight time.
+We also have an optional integration with [Drone Logbook](../drone-logbook.md) where you can send your reports automatically from Zephyr to the [Drone Logbook](../drone-logbook.md) system to be included in your simulated flight time.
 
 </details>
 
@@ -220,7 +216,7 @@ No, Zephyr is a PC and Mac based platform. There is a free mobile controller ava
 
 <summary>Is Zephyr available in my country?</summary>
 
-For the majority of countries, the answer is yes. However, please be aware that Zephyr is currently localized to the United States and focuses on the US Federal Aviation Administration laws and regulations.  You can find the complete list of countries Zephyr is [NOT AVAILABLE here.](country-availability.md)
+For the majority of countries, the answer is yes. However, please be aware that Zephyr is currently localized to the United States and focuses on the US Federal Aviation Administration laws and regulations.  You can find the complete list of countries Zephyr is [NOT AVAILABLE here.](../country-availability.md)
 
 </details>
 
@@ -229,151 +225,5 @@ For the majority of countries, the answer is yes. However, please be aware that 
 <summary>What kind of personal information is collected on student accounts?</summary>
 
 The only information that’s required to register an account on Zephyr is an email. First Name/Last Name/Date of Birth is optional
-
-</details>
-
-## Certifications
-
-<details>
-
-<summary>What are the requirements to fulfill a certification?</summary>
-
-Each certification has varying requirements. Some may require a minimum amount of flight time, others may require a video recording of a flight attempt.
-
-For example, the APSA Virtual BPERP Certification requires the pilot to record their screen and camera while they attempt the BPERP Scenario Test. That recording is then saved to a shareable platform and submitted as their certification attempt on Zephyr. Once the attempt is reviewed by a BPERP Proctor, te pilot will receive a status update on their certification.
-
-Other certifications may require a level of currency to maintain the "Current" status. For example, if a certification requires a certain number of flight hours in the simulator each month, you will need to make sure that you meet those requirements. Your certification's status will not be "Current" until you meet those requirements.
-
-</details>
-
-<details>
-
-<summary>Do I need a Zephyr account to purchase and fulfill a certification?</summary>
-
-Yes. If you do not already have a Zephyr account, you will be prompted to register on purchasing your certification.
-
-</details>
-
-<details>
-
-<summary>How do i receive my certification?</summary>
-
-You will receive a digital copy of your certification once it is approved. You can also view and show your certification status through your Zephyr Public Profile page. To view and modify your Zephyr Public Profile settings, log in to your Zephyr account and click the "Settings" (Cog) icon in the navigation bar on the top of the screen.
-
-Your user settings window will pop up. Scroll to the bottom under the Public Profile section
-
-Click the Enable Public Profile toggle
-
-Select which items you would like shared from the menu that appears (First Name, Last Name, etc.)
-
-</details>
-
-<details>
-
-<summary>How long is my certification valid for?</summary>
-
-It depends. Terms for certifications vary. Details within the description of the certification will outline how long a certification is valid for.
-
-</details>
-
-<details>
-
-<summary>What if I do not have a Zephyr license required to fulfill the Certification?</summary>
-
-When you purchase a certification, if you do not own the relevant license required for the certification, you will be granted a temporary license with enough time to familiarize yourself with the simulator and scenario.
-
-</details>
-
-<details>
-
-<summary>How long does it take for my certification attempt to be reviewed?</summary>
-
-It depends. We, and our partners, try our best to review certifications in a timely manner. Details within the certification description will outline the review process and any estimations that we can provide.
-
-</details>
-
-<details>
-
-<summary>What if my certification attempt is denied?</summary>
-
-In the event that your certification attempt is denied, you will need to repurchase the certification in order to reattempt.
-
-</details>
-
-<details>
-
-<summary>My certification status says "Awaiting Reattempt." What should I do?</summary>
-
-If you receive a notification that your certification is "Awaiting Reattempt", that means that the reviewer found a minor issue with your submission and is allowing you to reattempt the certification without requiring another certification purchase. The reviewer will provide notes that will contain details on why the attempt was temporarily denied.
-
-</details>
-
-## Reviewer
-
-<details>
-
-<summary>Cannot read the ID of pilot in video</summary>
-
-In the event you cannot verify the ID of the pilot in their submission video, you may request a copy of their ID via email. Zephyr does not support uploading, storing, or sharing ID images through the website.
-
-</details>
-
-<details>
-
-<summary>Video format unrecognized or will not play</summary>
-
-In the event that the submission video cannot be played through the pilot’s sharing platform of choice, you may download the video to attempt the review.
-
-If your computer cannot natively play the video format, we recommend using[ VLC Media Player](https://www.videolan.org/vlc/) to try playing the video or converting the video using [Handbrake](https://handbrake.fr/) to a recognized format.
-
-</details>
-
-<details>
-
-<summary>Video link is set to private or taken down</summary>
-
-Sometimes a pilot might not set their link to shareable. In this case, you may mark the submission as “reattempt required” with a note saying the video link is not accessible.
-
-Sometimes YouTube or other sharing platforms might block or remove specific content that violate their terms of service. In this case, you may mark the submission as “reattempt required” with a note saying the video is not accessible.
-
-</details>
-
-<details>
-
-<summary>How do I know how many submissions I’ve done?</summary>
-
-On the home dashboard of your reviewer account, a table will show how many submissions you reviewed during a given time period with date/time stamps.
-
-</details>
-
-<details>
-
-<summary>What if the certification that I’m supposed to review has a “Reviewing” status?</summary>
-
-This means that some reviewer has assigned the certification to themselves to review. Contact your certification coordinator to resolve the issue.
-
-</details>
-
-<details>
-
-<summary>How long to I have to review a certification once I claim it?</summary>
-
-7 days
-
-</details>
-
-<details>
-
-<summary>If I allow a reattempt, will I automatically be reassigned to the certification to review it?</summary>
-
-Yes, when the reattempt it submitted on a certification that you performed the original review, the certification will automatically be claimed by you. However, you still have 7 days from that date to review the certification. Otherwise it will be released for another reviewer to pick up.
-
-</details>
-
-<details>
-
-<summary>Can I approve or deny a certification without the pilot submitting an attempt?</summary>
-
-Yes, you may claim a certification that has the **Awaiting Attempt** status. You will need to note the circumstances when you approve or deny the certification in the _notes_ field.
 
 </details>
