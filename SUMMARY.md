@@ -16,3 +16,7 @@
 
 * [✅ Current Certifications](certifications/current-certifications.md)
 * [📘 Instructions](certifications/instructions.md)
+
+***
+
+* [⁉️ FAQs](faqs.md)
