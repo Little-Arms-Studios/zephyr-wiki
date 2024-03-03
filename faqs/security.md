@@ -22,7 +22,7 @@ Amazon's AWS follows and leads most of the industries best practices and is [com
 
 Yes all customer data is encrypted at rest and in-transit.
 
-* In transit we use HTTPS TLC 1.2 to encrypt all traffic served to end users.
+* In transit we use HTTPS TLS 1.2 to encrypt all traffic served to end users.
 * At rest on Amazon Web Services (AWS) we use AES-256
 
 </details>
