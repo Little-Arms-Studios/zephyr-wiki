@@ -41,13 +41,13 @@ Note: The Zephyr Simulator may be running on a different Desktop window than the
 Zoom will highlight the border of the Desktop you will be sharing. Make sure the Zephyr simulator will be running in that window.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Your Zoom call window should automatically minimize and a Zoom Toolbar should appear next to a smaller window that displays your webcam video
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Press the “… More” button on the Zoom Toolbar and select “Record”
 

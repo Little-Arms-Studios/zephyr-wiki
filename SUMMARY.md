@@ -14,7 +14,7 @@
 
 ## 📜 Certifications
 
-* [✅ Current Certifications](certifications/current-certifications.md)
+* [✅ Overview](certifications/overview.md)
 * [📘 Instructions](certifications/instructions.md)
 
 ***
