@@ -32,7 +32,7 @@
 ***
 
 * [📒 Drone Logbook](drone-logbook.md)
-* [⁉️ FAQs](faqs/README.md)
+* [⁉️ FAQs](faqs.md)
   * [❓ General](faqs/general.md)
   * [❓ Certifications](faqs/certifications.md)
   * [❓ Reviewer](faqs/reviewer.md)
