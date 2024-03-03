@@ -21,22 +21,20 @@ Start a Zoom meeting with yourself and start recording the meeting
 
 1. Open Zoom and select “New Meeting”
 
-<figure><img src="blob:https://app.gitbook.com/f28a0155-95da-41a0-8349-108118b5d5c5" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 2\. Your meeting should start and you should see your webcam recording and a prompt to “Join audio.” Click “Join with Computer Audio”
 
-<figure><img src="blob:https://app.gitbook.com/ebe03a8f-5150-4f4c-b85f-26111b0598a8" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 3\. Ensure your microphone is working by selecting the dropdown arrow on the Microphone Icon, then selecting “Test Speaker & Microphone…” This will walk you through instructions to verify that your microphone and speakers are working properly
 
-<figure><img src="blob:https://app.gitbook.com/967ade11-25a0-4c72-8a0a-97e52e0a355e" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click “Share Screen” at the bottom of the Zoom call and select the “Desktop #” window that you will be using for Zephyr (in the example “Desktop 2” is where we will be running Zephyr)
 
 {% hint style="info" %}
-Note: The Zephyr Simulator may be running on a different Desktop window than the one in the example image. Make sure the simulator will be running/visible in the selected Desktop window.
+The Zephyr Simulator may be running on a different Desktop window than the one in the example image. Make sure the simulator will be running/visible in the selected Desktop window.
 
 Zoom will highlight the border of the Desktop you will be sharing. Make sure the Zephyr simulator will be running in that window.
 {% endhint %}
