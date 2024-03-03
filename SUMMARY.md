@@ -24,7 +24,10 @@
 ## 📜 Certifications
 
 * [✅ Overview](certifications/overview.md)
-* [📘 Instructions](certifications/instructions.md)
+* [📘 Instructions](certifications/instructions/README.md)
+  * [🛩️ Attempt A Certification](certifications/instructions/attempt-a-certification.md)
+  * [📝 Reviewer](certifications/instructions/reviewer/README.md)
+    * [📧 Email Events](certifications/instructions/reviewer/email-events.md)
 
 ***
 

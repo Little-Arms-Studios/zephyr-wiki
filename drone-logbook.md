@@ -8,7 +8,7 @@
    2. Or click the “Settings Cog” in the nav bar
 3. Scroll down to the Drone Logbook section and click “Link Drone Logbook Account”
 
-<figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. &#x20;Enter your Drone Logbook login information in the Link Drone Logbook Account window
 
