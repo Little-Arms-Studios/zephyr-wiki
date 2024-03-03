@@ -19,5 +19,5 @@
 
 ***
 
-* [📒 DroneLogbook](dronelogbook.md)
+* [📒 Drone Logbook](drone-logbook.md)
 * [⁉️ FAQs](faqs.md)
