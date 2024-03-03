@@ -6,7 +6,7 @@ A Zephyr Administrator will send you an invite link to register on [zephyr-sim.c
 
 If you already have a Zephyr account, a Zephyr Administrator will add the Reviewer role to your account. The next time you sign in on [zephyr-sim.com](http://zephyr-sim.com/) you will see a role select option in the navigation bar.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ## Reviewer Dashboard <a href="#reviewer-dashboard" id="reviewer-dashboard"></a>
 
@@ -20,17 +20,17 @@ The _Reviews Complete_ card will show the number of certifications that you have
 
 The most important dashboard page for a reviewer is the **Certifications** tab
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the **Certifications** tab, you will be able to manage and review certifications
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 The _My Certifications_ table displays certifications that you have personally purchased. This tab will be seldom used as a Reviewer.
 
 The _Manage Certifications_ table is where the majority of Reviewer work is done
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Certifications in the _Manage Certifications_ table can have the following statuses:
 
@@ -47,7 +47,7 @@ Certifications in the _Manage Certifications_ table can have the following statu
 
 Depending on the certification’s status, you will have different options when clicking the gear icon. Regardless of status, though, you will have a “View” option where you can see details about the certification
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Reviewing a Certification <a href="#reviewing-a-certification" id="reviewing-a-certification"></a>
 
@@ -61,7 +61,7 @@ To review a certification, you will need to:
    2. Note: you may also claim certifications that are **Awaiting Attempt**. Under special circumstances, you may bypass the attempt submission process. For instance, if you live-proctor an attempt either in person or through a virtual meeting, you may bypass the attempt submission process. In the _notes_ field when you are approving or denying the certification, you will need to note these circumstances.
 5. Click the “Cog” Icon for the Certification then click “Claim”
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 “Claiming” a certification simply reserves that certification for you to review it. This prevents other Reviewers from reviewing the same certification
@@ -69,9 +69,9 @@ To review a certification, you will need to:
 
 6. Once the Certification is Claimed, you will be able to summon the “Review Certification Attempt” window
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Click the “View” button to open the user’s attempt in a separate window
 

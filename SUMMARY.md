@@ -10,6 +10,9 @@
 
 * [🎉 Create an Account](getting-started/create-an-account.md)
 * [🦖 Little Arms Launcher](getting-started/little-arms-launcher/README.md)
+  * [⭐ Installation](getting-started/little-arms-launcher/installation/README.md)
+    * [🍎 macOS](getting-started/little-arms-launcher/installation/macos.md)
+    * [🪟 Windows](getting-started/little-arms-launcher/installation/windows.md)
   * [⭐ Distributing Little Arms Launcher and Zephyr](getting-started/little-arms-launcher/distributing-little-arms-launcher-and-zephyr.md)
   * [⭐ Microsoft's Configuration Manager](getting-started/little-arms-launcher/microsofts-configuration-manager.md)
   * [⭐ Deployment Strategy using Mapped Network Drive](getting-started/little-arms-launcher/deployment-strategy-using-mapped-network-drive.md)
