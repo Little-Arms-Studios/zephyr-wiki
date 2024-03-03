@@ -4,7 +4,7 @@ Zephyr is available in a majority of the world. However, please be aware that Ze
 
 
 
-Due to U.S. international trade regulations we do not license to the following countries:
+Due to U.S. international trade regulations we do <mark style="color:red;">**NOT**</mark> license to the following countries:
 
 * Bahrain 🇧🇭
 * China 🇨🇳
