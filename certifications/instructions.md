@@ -5,7 +5,7 @@ You will need a webcam and a microphone in order to successfully record a certif
 {% endhint %}
 
 {% hint style="warning" %}
-**NOTE:** If you already know how to record your screen and camera, you only need to follow **Steps 3, 4.4, 4.5, and 5.** Just make sure, whatever recording service you use, that you are recording **your camera** **and your screen at the same time**.
+If you already know how to record your screen and camera, you only need to follow **Steps 3, 4.4, 4.5, and 5.** Just make sure, whatever recording service you use, that you are recording **your camera** **and your screen at the same time**.
 {% endhint %}
 
 ### Step 1: Create Zoom Account <a href="#step-1-create-zoom-account" id="step-1-create-zoom-account"></a>
