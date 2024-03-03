@@ -1,5 +1,7 @@
 # ⁉️ FAQs
 
+Still not finding what your looking for? Contact us at [support@littlearms.com](mailto:support@littlearms.com) with your support question.  We will respond as soon as we receive your message.
+
 <details>
 
 <summary>Who should use Zephyr?</summary>
@@ -95,7 +97,7 @@ You can find the current system requirements [here](system-requirements.md).
 
 <summary>Do we offer discounts for bulk purchases?</summary>
 
-For large enterprise/educational orders we can offer volume discounts. A minimum of 100 licenses is required in a single order for these discounts to apply. For more information on these purchases please reach out to sales@littlearms.com and we will help find the solution that is right for you.
+For large enterprise/educational orders we can offer volume discounts. A minimum of 100 licenses is required in a single order for these discounts to apply. For more information on these purchases please reach out to [sales@littlearms.com](mailto:sales@littlearms.com) and we will help find the solution that is right for you.
 
 </details>
 
