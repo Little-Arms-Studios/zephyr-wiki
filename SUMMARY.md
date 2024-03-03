@@ -4,6 +4,15 @@
 * [🎮 Supported Controllers](supported-controllers.md)
 * [🖥️ System Requirements](system-requirements.md)
 * [🌎 Country Availability](country-availability.md)
+* [🗓️ Roadmap](roadmap.md)
+
+## 🚀 Getting Started
+
+* [🎉 Create an Account](getting-started/create-an-account.md)
+* [🦖 Little Arms Launcher](getting-started/little-arms-launcher/README.md)
+  * [⭐ Distributing Little Arms Launcher and Zephyr](getting-started/little-arms-launcher/distributing-little-arms-launcher-and-zephyr.md)
+  * [⭐ Microsoft's Configuration Manager](getting-started/little-arms-launcher/microsofts-configuration-manager.md)
+  * [⭐ Deployment Strategy using Mapped Network Drive](getting-started/little-arms-launcher/deployment-strategy-using-mapped-network-drive.md)
 
 ## 🎓 Learning Management System
 
