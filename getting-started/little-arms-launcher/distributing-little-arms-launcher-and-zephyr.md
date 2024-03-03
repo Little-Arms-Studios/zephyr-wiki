@@ -13,5 +13,3 @@ The key points about these applications and their interactions are as follows:
 ### Distribution Examples
 
 [Microsoft's Configuration Manager](microsofts-configuration-manager.md)
-
-MicMic
