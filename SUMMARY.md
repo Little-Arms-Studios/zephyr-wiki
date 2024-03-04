@@ -22,7 +22,7 @@
 * [🪪 License Management](learning-management-system/license-management.md)
 * [🧑‍🎓 Courses](learning-management-system/courses.md)
 * [🧑‍🏫 Assignments](learning-management-system/assignments.md)
-* [💸 Billing](learning-management-system/billing.md)
+* [💸 Enterprise Billing](learning-management-system/enterprise-billing.md)
 
 ## 📜 Certifications
 
