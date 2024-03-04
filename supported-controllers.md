@@ -5,7 +5,7 @@ There may be compatible controllers not on this list. We are actively testing an
 {% endhint %}
 
 {% hint style="warning" %}
-Most DJI Controllers are unfortunately not compatible with Zephyr at this time. They have not given third parties like us a good way to read the output from their controllers. We hope this will change in the future.
+Unfortunately Most DJI Controllers are not compatible with Zephyr at this time. They have not given third parties like us a good way to read the output from their controllers. We hope this will change in the future.
 {% endhint %}
 
 ### &#x20;<a href="#drone-controllers" id="drone-controllers"></a>
