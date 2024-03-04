@@ -11,11 +11,11 @@
 | Minimum                                                                                                            | Recommended                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:yellow;">OS:</mark>  Windows 10                                                                 | <mark style="color:yellow;">OS:</mark> Windows 11                                                                       |
-| <mark style="color:yellow;">CPU:</mark> Intel Core i5 @ 3.4 GHz or equivalent                                      | <mark style="color:yellow;">CPU:</mark> Intel Core i7 @ 3.6 GHz or equivalent                                           |
-| <mark style="color:yellow;">Memory:</mark> 4 GB of RAM                                                             | <mark style="color:yellow;">Memory:</mark> 8 GB of RAM                                                                  |
-| <mark style="color:yellow;">Hard Drive:</mark> 8 GB available in hard disk                                         | <mark style="color:yellow;">Hard Drive:</mark> 8 GB available on hard disk                                              |
-| <mark style="color:yellow;">Graphics:</mark> Direct X 10 or higher compatible graphics card (GTX660 or equivalent) | <mark style="color:yellow;">Graphics:</mark> Direct X or higher compatible graphics card (GTX 660 equivalent or higher) |
-| <mark style="color:yellow;">Internet Connection:</mark> DSL or Higher                                              | <mark style="color:yellow;">Internet Connection:</mark> DSL or Higher                                                   |
+| <mark style="color:blue;">CPU:</mark> Intel Core i5 @ 3.4 GHz or equivalent                                        | <mark style="color:yellow;">CPU:</mark> Intel Core i7 @ 3.6 GHz or equivalent                                           |
+| <mark style="color:purple;">Memory:</mark> 4 GB of RAM                                                             | <mark style="color:yellow;">Memory:</mark> 8 GB of RAM                                                                  |
+| <mark style="color:green;">Hard Drive:</mark> 8 GB available in hard disk                                          | <mark style="color:yellow;">Hard Drive:</mark> 8 GB available on hard disk                                              |
+| <mark style="color:orange;">Graphics:</mark> Direct X 10 or higher compatible graphics card (GTX660 or equivalent) | <mark style="color:yellow;">Graphics:</mark> Direct X or higher compatible graphics card (GTX 660 equivalent or higher) |
+| <mark style="color:red;">Internet Connection:</mark> DSL or Higher                                                 | <mark style="color:yellow;">Internet Connection:</mark> DSL or Higher                                                   |
 {% endtab %}
 
 {% tab title="macOS 🍎" %}
