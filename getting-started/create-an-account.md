@@ -12,7 +12,7 @@ Select the plan you would like!&#x20;
 
 Zephyr has with a Free plan that doesn't require any payment information.
 
-The click **Proceed to Checkout**
+Click **Proceed to Checkout**
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
