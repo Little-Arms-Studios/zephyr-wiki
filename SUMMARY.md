@@ -4,7 +4,7 @@
 * [🎮 Supported Controllers](supported-controllers.md)
 * [🖥️ System Requirements](system-requirements.md)
 * [🌎 Country Availability](country-availability.md)
-* [🗓️ Roadmap](roadmap.md)
+* [🗺️ Roadmap](roadmap.md)
 
 ## 🚀 Getting Started
 
@@ -27,10 +27,9 @@
 ## 📜 Certifications
 
 * [✅ Overview](certifications/overview.md)
-* [📘 Instructions](certifications/instructions/README.md)
-  * [🛩️ Attempt A Certification](certifications/instructions/attempt-a-certification.md)
-  * [📝 Reviewer](certifications/instructions/reviewer/README.md)
-    * [📧 Email Events](certifications/instructions/reviewer/email-events.md)
+* [🛩️ Attempt A Certification](certifications/attempt-a-certification.md)
+* [📝 Reviewing A Certification](certifications/reviewing-a-certification/README.md)
+  * [📧 Email Events](certifications/reviewing-a-certification/email-events.md)
 
 ***
 
