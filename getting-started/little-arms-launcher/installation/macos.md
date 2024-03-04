@@ -8,11 +8,13 @@ First you'll need to download the Little Arms Launcher which is used to install 
 
 Login by going to [https://zephyr-sim.com/login](https://zephyr-sim.com/login)
 
-Once logged in and at the Dashboard, on the left hand Sidebar you should see a section called Downloads. &#x20;
+Once logged in and at the Dashboard, the top navigation bar will display an orange <mark style="color:orange;">**Get Zephyr**</mark> button. &#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-03 at 10.17.53 PM.png" alt=""><figcaption></figcaption></figure>
+Click it.
 
-Your platform will be automatically detected if you are using Windows or macOS and display an appropriate clickable link to download the Little Arms Launcher. &#x20;
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+Your platform will be automatically detected if you are using Windows or macOS and download the Little Arms Launcher. &#x20;
 
 Navigate to where you downloaded the `Little-Arms-Launcher-x.x.x.dmg` and double click on it.
 
