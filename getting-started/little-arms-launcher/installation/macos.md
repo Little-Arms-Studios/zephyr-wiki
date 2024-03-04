@@ -26,7 +26,11 @@ Then Navigate to your Applications folder and double click the Little Arms Launc
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-If you are prompted with a window saying "Little Arms Launcher" is an app downloaded from the internet are you sure you want to open it? click open.
+If you are prompted with a window saying&#x20;
+
+> "Little Arms Launcher" is an app downloaded from the internet are you sure you want to open it?
+
+&#x20;click open.
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
