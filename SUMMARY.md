@@ -18,7 +18,8 @@
     * [⭐ 1.8.43](patch-notes/zephyr/1.8.43.md)
     * [⭐ 1.8.40](patch-notes/zephyr/1.8.40.md)
     * [⭐ 1.8.12](patch-notes/zephyr/1.8.12.md)
-  * [🦖 Little Arms Launcher](patch-notes/little-arms-launcher.md)
+  * [🦖 Little Arms Launcher](patch-notes/little-arms-launcher/README.md)
+    * [⭐ 0.8.62](patch-notes/little-arms-launcher/0.8.62.md)
 * [🗺️ Roadmap](roadmap.md)
 
 ## 🚀 Getting Started
