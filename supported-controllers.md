@@ -45,7 +45,9 @@ _\*must be used with a wired USB connection_
   * Model 1914 _**(Unknown)**_
 * PlayStation 3 Controller \[M1 Mac or newer only]\*
 * PlayStation 4 controller\*
+  * [macOS Instructions](https://support.apple.com/en-us/111100)
 * PlayStation 5 controller
+  * [macOS Instructions](https://support.apple.com/en-us/111100)
 * iBuffalo Classic Controller\*
 * 8Bitdo NES30 Pro Controller
 * 8Bitdo SF30 Pro Controller
