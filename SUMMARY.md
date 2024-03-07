@@ -4,6 +4,7 @@
 * [🎮 Supported Controllers](supported-controllers.md)
 * [🖥️ System Requirements](system-requirements.md)
 * [🌎 Country Availability](country-availability.md)
+* [🗺️ Roadmap (Live)](roadmap-live.md)
 * [🗒️ Patch Notes](patch-notes/README.md)
   * [⭐ 1.8.155](patch-notes/1.8.155.md)
   * [⭐ 1.8.154](patch-notes/1.8.154.md)
