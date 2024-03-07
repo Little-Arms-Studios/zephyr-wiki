@@ -1,5 +1,9 @@
 # 🗺️ Roadmap
 
+## Live Board
+
+{% embed url="https://miro.com/app/board/uXjVNj4-t7k=/?share_link_id=268644183625" %}
+
 ## Upcoming Features
 
 | Feature                                                                                                                                               |
