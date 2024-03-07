@@ -5,7 +5,7 @@
 * [🖥️ System Requirements](system-requirements.md)
 * [🌎 Country Availability](country-availability.md)
 * [🗒️ Patch Notes](patch-notes/README.md)
-  * [⭐ 1.8.55](patch-notes/1.8.55.md)
+  * [⭐ 1.8.155](patch-notes/1.8.155.md)
   * [⭐ 1.8.154](patch-notes/1.8.154.md)
   * [⭐ 1.8.138](patch-notes/1.8.138.md)
   * [⭐ 1.8.129](patch-notes/1.8.129.md)
