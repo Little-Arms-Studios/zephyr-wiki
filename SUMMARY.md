@@ -52,3 +52,4 @@
   * [❓ Certifications](faqs/certifications.md)
   * [❓ Reviewer](faqs/reviewer.md)
   * [❓ Security](faqs/security.md)
+* [🌀 Status](https://status.zephyr-sim.com)
