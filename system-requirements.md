@@ -1,10 +1,8 @@
 # 🖥️ System Requirements
 
-1. A computer that meets the minimum requirements to run Zephyr (see below)
+1. A computer that meets the minimum requirements to run Zephyr
 2. [A supported controller or transmitter](supported-controllers.md) with our USB adapter (if applicable)
-3. An internet connection\
-   \
-
+3. An internet connection
 
 {% tabs %}
 {% tab title="Windows 🪟" %}
