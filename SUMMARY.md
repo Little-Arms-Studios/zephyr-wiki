@@ -45,13 +45,16 @@
   * [📧 Email Events](certifications/instructions/reviewer/email-events.md)
 * [✅ Verify A Certification](certifications/verify-a-certification.md)
 
-***
+## 🤝 Integrations
 
-* [📒 Drone Logbook](drone-logbook.md)
-* [⁉️ FAQs](faqs.md)
-  * [❓ General](faqs/general.md)
-  * [❓ Certifications](faqs/certifications.md)
-  * [❓ Reviewer](faqs/reviewer.md)
-  * [❓ Security](faqs/security.md)
-* [🌀 Status](https://status.zephyr-sim.com)
+* [📒 Drone Logbook](integrations/drone-logbook.md)
+
+## &#x20; <a href="#help" id="help"></a>
+
+* [⁉️ FAQs](help/faqs/README.md)
+  * [❓ General](help/faqs/general.md)
+  * [❓ Certifications](help/faqs/certifications.md)
+  * [❓ Reviewer](help/faqs/reviewer.md)
+  * [❓ Security](help/faqs/security.md)
 * [🛟 Support](mailto:support@littlearms.com)
+* [🌀 Status](https://status.zephyr-sim.com)
