@@ -47,5 +47,5 @@ If you have older reports that were not synced to Drone Logbook before linked yo
 3. If your Drone Logbook account is linked, you will see a “Sync Drone LogBook” button available at the top of the reports table
 
 {% hint style="warning" %}
-NOTE: Reports created before 11/26/2020 cannot be synced to DroneLogbook. Depending on the number of syncable reports, this process can take up to a few minutes to finish. You will receive an email when the sync process finishes. At that time you can refresh the reports page or log back in to verify your reports have been synced.
+Reports created before 11/26/2020 cannot be synced to DroneLogbook. Depending on the number of syncable reports, this process can take up to a few minutes to finish. You will receive an email when the sync process finishes. At that time you can refresh the reports page or log back in to verify your reports have been synced.
 {% endhint %}

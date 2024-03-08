@@ -8,8 +8,6 @@ There may be compatible controllers not on this list. We are actively testing an
 Unfortunately Most DJI Controllers are not compatible with Zephyr at this time. They have not given third parties like us a good way to read the output from their controllers. We hope this will change in the future.
 {% endhint %}
 
-### &#x20;<a href="#drone-controllers" id="drone-controllers"></a>
-
 ### Drone Controllers <a href="#drone-controllers" id="drone-controllers"></a>
 
 * FlySky FS-i6s\*
@@ -31,8 +29,6 @@ Unfortunately Most DJI Controllers are not compatible with Zephyr at this time. 
 * Volantex RC Controller \[PC only]\*
 
 _\*must be used with a wired USB connection_
-
-
 
 ### Gamepads <a href="#gamepads" id="gamepads"></a>
 
