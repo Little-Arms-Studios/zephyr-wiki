@@ -2,7 +2,7 @@
 
 PDF or printed certifications contain a QR code that you can scan using the camera app on your phone. &#x20;
 
-This is a verification link that will direct you to the Zephyr Sim website&#x20;
+The QR code is a verification link that will direct you to the Zephyr Sim website&#x20;
 
 EX: https://zephyr-sim.com/verification/the-certification-id
 
