@@ -43,6 +43,7 @@
 * [🛩️ Attempt A Certification](certifications/instructions/attempt-a-certification.md)
 * [📝 Reviewing A Certification](certifications/instructions/reviewer/README.md)
   * [📧 Email Events](certifications/instructions/reviewer/email-events.md)
+* [✅ Verify A Certification](certifications/verify-a-certification.md)
 
 ***
 
