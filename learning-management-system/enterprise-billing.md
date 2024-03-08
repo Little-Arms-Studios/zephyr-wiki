@@ -1,4 +1,4 @@
-# 💸 Billing
+# 💸 Enterprise Billing
 
 We offer three different billing solutions in order to satisfy the different needs for our clients.
 
@@ -27,7 +27,7 @@ Bill Me Later is an on demand licensing solution offered to organizations that n
 Point of Transaction is another on demand licensing solution offered to organizations that prefer to pay for the seats at the time they are needed.  The selected quantity of seats are added after finishing the checkout process.
 
 {% hint style="warning" %}
-Both Bill Me Later and Point of Transaction Seats are deducted from the organization when an invite is sent to a Student to join the organization.  If the invitation is deleted before it was accepted, the seat is reiumbursed to the organization.  If the invitation is deleted after it was accepted, the seat will not be reimbursed.
+Both Bill Me Later and Point of Transaction Seats are deducted from the organization when an invite is sent to a Student to join the organization.  If the invitation is deleted before it was accepted, the seat is reimbursed to the organization.  If the invitation is deleted after it was accepted, the seat will not be reimbursed.
 {% endhint %}
 
 {% hint style="warning" %}
