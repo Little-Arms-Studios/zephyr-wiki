@@ -21,6 +21,7 @@ Due to U.S. international trade regulations we do <mark style="color:red;">**NOT
 * Oman 🇴🇲
 * Pakistan 🇵🇰
 * Qatar 🇶🇦
+* Russian Federation 🇷🇺
 * Saudi Arabia 🇸🇦
 * Syria 🇸🇾
 * United Arab Emirates 🇦🇪
