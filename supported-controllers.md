@@ -32,10 +32,10 @@ _\*must be used with a wired USB connection_
 
 ### Gamepads <a href="#gamepads" id="gamepads"></a>
 
-* [XBox 360 Controller\*](https://littlearms.atlassian.net/wiki/spaces/ZW/pages/2550038603/How-to+articles#mac360)
+* XBox 360 Controller\*
 * Afterglow Xbox 360 Controller \[PC only]\*
 * Air Flo PS3 Controller \[PC only]\*
-* [XBox One Controllers (models below)](https://littlearms.atlassian.net/wiki/spaces/ZW/pages/2550038603/How-to+articles#mac360)
+* XBox One Controllers
   * Model 1537 _**(Not Supported)**_
   * Model 1708 \[M1 Mac or newer only)\*\*
   * Model 1914 _**(Unknown)**_
