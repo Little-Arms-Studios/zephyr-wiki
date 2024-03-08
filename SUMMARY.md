@@ -53,3 +53,4 @@
   * [❓ Reviewer](faqs/reviewer.md)
   * [❓ Security](faqs/security.md)
 * [🌀 Status](https://status.zephyr-sim.com)
+* [🛟 Support](mailto:support@littlearms.com)
