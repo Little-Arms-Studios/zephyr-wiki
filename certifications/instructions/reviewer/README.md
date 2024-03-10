@@ -20,17 +20,17 @@ The _Reviews Complete_ card will show the number of certifications that you have
 
 The most important dashboard page for a reviewer is the **Certifications** tab
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the **Certifications** tab, you will be able to manage and review certifications
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The _My Certifications_ table displays certifications that you have personally purchased. This tab will be seldom used as a Reviewer.
 
 The _Manage Certifications_ table is where the majority of Reviewer work is done
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Certifications in the _Manage Certifications_ table can have the following statuses:
 
@@ -47,7 +47,7 @@ Certifications in the _Manage Certifications_ table can have the following statu
 
 Depending on the certification’s status, you will have different options when clicking the gear icon. Regardless of status, though, you will have a “View” option where you can see details about the certification
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Reviewing a Certification <a href="#reviewing-a-certification" id="reviewing-a-certification"></a>
 

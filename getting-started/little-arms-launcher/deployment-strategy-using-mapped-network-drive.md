@@ -12,7 +12,7 @@ By default, the Little Arms Launcher and Zephyr are installed in the following l
 
 `C:\Little Arms Studios\Apps\Zephyr`
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Default Location for Zephyr App</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Default Location for Zephyr App</p></figcaption></figure>
 
 In order to change the installation location of Zephyr, please follow the following steps:
 
@@ -21,15 +21,15 @@ In order to change the installation location of Zephyr, please follow the follow
    2. Selecting "Change"
    3. Choosing the new desired drive location
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>The Settings tab within the Little Arms Launcher</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The Settings tab within the Little Arms Launcher</p></figcaption></figure>
 
 2. Any files in the old location will be copied over to the new location
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>This message appears within the Little Arms Launcher</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>This message appears within the Little Arms Launcher</p></figcaption></figure>
 
 3. As an example, we have chosen to change the target location to the computer's "D" drive and to place the contents into a folder named "TestLocation".
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of moving the installation location to a different folder on a different drive</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of moving the installation location to a different folder on a different drive</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of folder structure in new installation location after the move</p></figcaption></figure>
 
