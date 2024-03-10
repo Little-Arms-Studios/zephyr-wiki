@@ -17,7 +17,7 @@ There are two ways to get to the “Create a Course” interface:
 1. Click the “CREATE COURSE” button on your dashboard’s quick-links section
 2. Click “MANAGE” > “COURSES” to drop down the courses table. Then click the “Plus” symbol in the Courses table toolbar
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Four fields are required for creating a course:
 

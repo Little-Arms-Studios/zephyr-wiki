@@ -6,7 +6,7 @@ To create an account on Zephyr, all you need is an `email` and `password`.
 
 Click **Purchase** on the far right side of the top navigation bar next to Login
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the plan you would like!&#x20;
 
@@ -14,7 +14,7 @@ Zephyr has with a Free plan that doesn't require any payment information.
 
 Click **Proceed to Checkout**
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -22,13 +22,13 @@ Type in your `email` address and select the country where you reside and provide
 
 Click **Continue to Payment**
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 You'll see  "Zephyr is Free as a bird!"
 
 Click **Purchase**
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 You'll be shown that your order has successfully been completed and prompted to create your account.
 
@@ -40,7 +40,7 @@ You'll be shown a page with the `email` you typed earlier prefilled in the email
 
 Alternatively you can press `Continue with Microsoft` and youll be routed to Microsoft's 365 login flow, where you'll have to login with your Microsoft 365 account.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 And thats it! 🎊
 
