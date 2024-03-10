@@ -59,7 +59,7 @@
   * [⭐ Syma X5C](getting-started/drones/syma-x5c.md)
   * [⭐ X-Star](getting-started/drones/x-star.md)
   * [⭐ Bepop 2](getting-started/drones/bepop-2.md)
-  * [⭐ Mavic](getting-started/drones/mavic.md)
+  * [⭐ Mavic Pro](getting-started/drones/mavic-pro.md)
   * [⭐ Typhoon](getting-started/drones/typhoon.md)
   * [⭐ Titan](getting-started/drones/titan.md)
   * [⭐ AG-6A](getting-started/drones/ag-6a.md)
