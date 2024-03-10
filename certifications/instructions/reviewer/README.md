@@ -61,7 +61,7 @@ To review a certification, you will need to:
    2. Note: you may also claim certifications that are **Awaiting Attempt**. Under special circumstances, you may bypass the attempt submission process. For instance, if you live-proctor an attempt either in person or through a virtual meeting, you may bypass the attempt submission process. In the _notes_ field when you are approving or denying the certification, you will need to note these circumstances.
 5. Click the “Cog” Icon for the Certification then click “Claim”
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 “Claiming” a certification simply reserves that certification for you to review it. This prevents other Reviewers from reviewing the same certification

@@ -104,7 +104,7 @@ End the Zoom meeting, save the recording, review the recording, upload the recor
 
 1. End the Zoom meeting by pressing the “End” button then select “End Meeting for All”
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Once you end the Zoom call, a prompt should appear that says “Converting meeting recording”
 

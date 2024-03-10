@@ -31,7 +31,7 @@ In order to change the installation location of Zephyr, please follow the follow
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of moving the installation location to a different folder on a different drive</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of folder structure in new installation location after the move</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of folder structure in new installation location after the move</p></figcaption></figure>
 
 {% hint style="warning" %}
 Please note that the new location still maintains the "Little Arms Studios/Apps/Zephyr" folder structures within the new location.
