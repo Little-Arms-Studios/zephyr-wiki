@@ -6,14 +6,14 @@
 
 {% tabs %}
 {% tab title="Windows 🪟" %}
-| Minimum                                                                                                              | Recommended                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**OS:**</mark>  Windows 10                                                                 | <mark style="color:blue;">**OS:**</mark> Windows 11                                                                       |
-| <mark style="color:blue;">**CPU:**</mark> Intel Core i5 @ 3.4 GHz or equivalent                                      | <mark style="color:blue;">**CPU:**</mark> Intel Core i7 @ 3.6 GHz or equivalent                                           |
-| <mark style="color:blue;">**Memory:**</mark> 4 GB of RAM                                                             | <mark style="color:blue;">**Memory:**</mark> 8 GB of RAM                                                                  |
-| <mark style="color:blue;">**Hard Drive:**</mark> 8 GB available in hard disk                                         | <mark style="color:blue;">**Hard Drive:**</mark> 8 GB available on hard disk                                              |
-| <mark style="color:blue;">**Graphics:**</mark> Direct X 10 or higher compatible graphics card (GTX660 or equivalent) | <mark style="color:blue;">**Graphics:**</mark> Direct X or higher compatible graphics card (GTX 660 equivalent or higher) |
-| <mark style="color:blue;">**Internet Connection:**</mark> DSL or Higher                                              | <mark style="color:blue;">**Internet Connection:**</mark> DSL or Higher                                                   |
+| Minimum                                                                                                              | Recommended                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:blue;">**OS:**</mark>  Windows 10                                                                 | <mark style="color:blue;">**OS:**</mark> Windows 11                                                                          |
+| <mark style="color:blue;">**CPU:**</mark> Intel Core i5 @ 3.4 GHz or equivalent                                      | <mark style="color:blue;">**CPU:**</mark> Intel Core i7 @ 3.6 GHz or equivalent                                              |
+| <mark style="color:blue;">**Memory:**</mark> 4 GB of RAM                                                             | <mark style="color:blue;">**Memory:**</mark> 8 GB of RAM                                                                     |
+| <mark style="color:blue;">**Hard Drive:**</mark> 8 GB available in hard disk                                         | <mark style="color:blue;">**Hard Drive:**</mark> 8 GB available on hard disk                                                 |
+| <mark style="color:blue;">**Graphics:**</mark> Direct X 10 or higher compatible graphics card (GTX660 or equivalent) | <mark style="color:blue;">**Graphics:**</mark> Direct X 10 or higher compatible graphics card (GTX 970 equivalent or higher) |
+| <mark style="color:blue;">**Internet Connection:**</mark> DSL or Higher                                              | <mark style="color:blue;">**Internet Connection:**</mark> DSL or Higher                                                      |
 {% endtab %}
 
 {% tab title="macOS 🍎" %}
