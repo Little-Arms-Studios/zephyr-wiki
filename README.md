@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/Screenshot 2024-03-10 at 3.37.06 PM.png
+coverY: 15
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🧑‍✈️ Introduction
 
 **What is Zephyr?**
