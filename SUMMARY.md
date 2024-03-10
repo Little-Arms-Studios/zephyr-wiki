@@ -63,7 +63,7 @@
   * [⭐ Typhoon](getting-started/drones/typhoon.md)
   * [⭐ Titan](getting-started/drones/titan.md)
   * [⭐ AG-6A](getting-started/drones/ag-6a.md)
-  * [⭐ Loki MK2](getting-started/drones/loki-mk2.md)
+  * [⭐ Loki Mkii](getting-started/drones/loki-mkii.md)
   * [⭐ Skydio 2](getting-started/drones/skydio-2.md)
   * [⭐ Autel Evo II](getting-started/drones/autel-evo-ii.md)
   * [⭐ HD Racer](getting-started/drones/hd-racer.md)
