@@ -16,5 +16,5 @@ The third generation of the Phantom series from DJI.  This quadcopter includes a
 | Camera Stabilization | 3-axis gimbal |
 | GPS                  | Yes           |
 | Top Speed            | 16 m/s        |
-| Released             | 2015          |
 | Flight Time          | 25 minutes    |
+| Released             | 2015          |
