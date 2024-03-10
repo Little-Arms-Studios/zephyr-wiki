@@ -65,7 +65,7 @@
   * [⭐ AG-6A](getting-started/drones/ag-6a.md)
   * [⭐ Loki Mkii](getting-started/drones/loki-mkii.md)
   * [⭐ Skydio 2](getting-started/drones/skydio-2.md)
-  * [⭐ Autel Evo II](getting-started/drones/autel-evo-ii.md)
+  * [⭐ Autel EVO II](getting-started/drones/autel-evo-ii.md)
   * [⭐ HD Racer](getting-started/drones/hd-racer.md)
   * [⭐ Alta X](getting-started/drones/alta-x.md)
   * [⭐ Arrowhead](getting-started/drones/arrowhead.md)

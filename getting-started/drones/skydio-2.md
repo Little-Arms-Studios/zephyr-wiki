@@ -19,4 +19,4 @@ The Skydio 2 is a more consumer-friendly follow up to the Skydio R1.  Feature ri
 |   **Operating Temperature Range** | 23° to 104℉ (-5° to 40℃) |
 |                     **Max Speed** | 36mph or 16.1 m/s        |
 |               **Max Flight Time** | Approx. 23 minutes       |
-|                          Released | 2019                     |
+|                      **Released** | 2019                     |
