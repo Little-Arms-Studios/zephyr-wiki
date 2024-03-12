@@ -10,7 +10,21 @@ The fourth generation of the Phantom series from DJI.  This quadcopter includes 
 
 ### Aircraft
 
-<table data-full-width="false"><thead><tr><th align="right"></th><th></th></tr></thead><tbody><tr><td align="right"><strong>Model</strong></td><td>Phantom 4</td></tr><tr><td align="right"><strong>Manufacturer</strong></td><td>DJI</td></tr><tr><td align="right"><strong>Copter</strong></td><td>Quadcopter</td></tr><tr><td align="right"><strong>Satellite Positioning Systems</strong></td><td>GPS</td></tr><tr><td align="right"><strong>Operating Temperature Range</strong></td><td>32° to 104℉ (0° to 40℃)</td></tr><tr><td align="right"><strong>Max Ascent Speed</strong></td><td>6 m/s</td></tr><tr><td align="right"><strong>Max Descent Speed</strong></td><td>3 m/s</td></tr><tr><td align="right"><strong>Max Speed</strong></td><td>20 m/s</td></tr><tr><td align="right"><strong>Max Pitch Angle</strong></td><td>35°</td></tr><tr><td align="right"><strong>Max Angular Speed</strong></td><td>150°/s</td></tr><tr><td align="right"><strong>Max Flight Time</strong></td><td>Approx. 28 minutes</td></tr><tr><td align="right"><strong>Hover Accuracy Range</strong></td><td>Vertical:<br>±0.5 m<br>Horizontal:<br>±1.5 m</td></tr><tr><td align="right"><strong>Released</strong></td><td>2016</td></tr></tbody></table>
+|                                   |                                                     |
+| --------------------------------: | --------------------------------------------------- |
+|                         **Model** | Phantom 4                                           |
+|                  **Manufacturer** | DJI                                                 |
+|                        **Copter** | Quadcopter                                          |
+| **Satellite Positioning Systems** | GPS                                                 |
+|   **Operating Temperature Range** | 32° to 104℉ (0° to 40℃)                             |
+|              **Max Ascent Speed** | 6 m/s                                               |
+|             **Max Descent Speed** | 3 m/s                                               |
+|                     **Max Speed** | 20 m/s                                              |
+|               **Max Pitch Angle** | 35°                                                 |
+|             **Max Angular Speed** | 150°/s                                              |
+|               **Max Flight Time** | Approx. 28 minutes                                  |
+|          **Hover Accuracy Range** | <p>Vertical:<br>±0.5 m<br>Horizontal:<br>±1.5 m</p> |
+|                      **Released** | 2016                                                |
 
 ### Gimbal
 
