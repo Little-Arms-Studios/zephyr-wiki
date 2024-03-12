@@ -20,6 +20,10 @@ You'll have a plethora of drones to select from in this scenario, but we'll stic
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+In this scneario crashing the drone will stop the module and you'll have to retry the module.
+{% endhint %}
+
 ## Throttle Control
 
 Use the `Left Stick` or `W` and `S` on the keyboard to stay within the designated area.
@@ -46,10 +50,6 @@ Land inside of the designated areas.  Repeat these steps for:
 * Landing 4
 * Landing 5
 * Landing 6
-
-{% hint style="danger" %}
-Crashing the drone will stop the module and you'll have to retry.
-{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
