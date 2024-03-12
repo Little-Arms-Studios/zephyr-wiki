@@ -10,7 +10,21 @@ The X-Star is often considered a solid beginner drone.  This quadcopter includes
 
 ### Aircraft
 
-<table data-full-width="false"><thead><tr><th align="right"></th><th></th></tr></thead><tbody><tr><td align="right"><strong>Model</strong></td><td>X-Star</td></tr><tr><td align="right"><strong>Manufacturer</strong></td><td>Autel Robotics</td></tr><tr><td align="right"><strong>Copter</strong></td><td>Quadcopter</td></tr><tr><td align="right"><strong>Satellite Positioning Systems</strong></td><td>GPS</td></tr><tr><td align="right"><strong>Operating Temperature Range</strong></td><td>14° to 113℉ (-10° to 45℃)</td></tr><tr><td align="right"><strong>Max Ascent Speed</strong></td><td>6 m/s</td></tr><tr><td align="right"><strong>Max Descent Speed</strong></td><td>3 m/s</td></tr><tr><td align="right"><strong>Max Speed</strong></td><td>15 m/s</td></tr><tr><td align="right"><strong>Max Pitch Angle</strong></td><td>35°</td></tr><tr><td align="right"><strong>Max Angular Speed</strong></td><td>150°/s</td></tr><tr><td align="right"><strong>Max Flight Time</strong></td><td>Approx. 25 minutes</td></tr><tr><td align="right"><strong>Hover Accuracy Range</strong></td><td>Vertical:<br>±1 m<br>Horizontal:<br>±2.5 m</td></tr><tr><td align="right"><strong>Released</strong></td><td>2016</td></tr></tbody></table>
+|                                   |                                                   |
+| --------------------------------: | ------------------------------------------------- |
+|                         **Model** | X-Star                                            |
+|                  **Manufacturer** | Autel Robotics                                    |
+|                        **Copter** | Quadcopter                                        |
+| **Satellite Positioning Systems** | GPS                                               |
+|   **Operating Temperature Range** | 14° to 113℉ (-10° to 45℃)                         |
+|              **Max Ascent Speed** | 6 m/s                                             |
+|             **Max Descent Speed** | 3 m/s                                             |
+|                     **Max Speed** | 15 m/s                                            |
+|               **Max Pitch Angle** | 35°                                               |
+|             **Max Angular Speed** | 150°/s                                            |
+|               **Max Flight Time** | Approx. 25 minutes                                |
+|          **Hover Accuracy Range** | <p>Vertical:<br>±1 m<br>Horizontal:<br>±2.5 m</p> |
+|                      **Released** | 2016                                              |
 
 ### Gimbal
 

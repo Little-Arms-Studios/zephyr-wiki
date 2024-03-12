@@ -10,7 +10,18 @@ Known as the first smart drone, the 3DR Solo played an important role in modern 
 
 ### Aircraft
 
-<table data-full-width="false"><thead><tr><th align="right"></th><th></th></tr></thead><tbody><tr><td align="right"><strong>Model</strong></td><td>Solo</td></tr><tr><td align="right"><strong>Manufacturer</strong></td><td>3DR</td></tr><tr><td align="right"><strong>Copter</strong></td><td>Quadcopter</td></tr><tr><td align="right"><strong>Satellite Positioning Systems</strong></td><td>GPS</td></tr><tr><td align="right"><strong>Operating Temperature Range</strong></td><td>32° to 113℉ (0° to 45℃)</td></tr><tr><td align="right"><strong>Max Ascent Speed</strong></td><td>4.9 m/s</td></tr><tr><td align="right"><strong>Max Descent Speed</strong></td><td>2.6 m/s</td></tr><tr><td align="right"><strong>Max Speed</strong></td><td>24.5 m/s</td></tr><tr><td align="right"><strong>Max Flight Time</strong></td><td>Approx. 20 minutes</td></tr><tr><td align="right"><strong>Released</strong></td><td>2015</td></tr></tbody></table>
+|                                   |                         |
+| --------------------------------: | ----------------------- |
+|                         **Model** | Solo                    |
+|                  **Manufacturer** | 3DR                     |
+|                        **Copter** | Quadcopter              |
+| **Satellite Positioning Systems** | GPS                     |
+|   **Operating Temperature Range** | 32° to 113℉ (0° to 45℃) |
+|              **Max Ascent Speed** | 4.9 m/s                 |
+|             **Max Descent Speed** | 2.6 m/s                 |
+|                     **Max Speed** | 24.5 m/s                |
+|               **Max Flight Time** | Approx. 20 minutes      |
+|                      **Released** | 2015                    |
 
 ### Gimbal
 

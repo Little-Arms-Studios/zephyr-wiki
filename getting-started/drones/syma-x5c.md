@@ -10,4 +10,11 @@ The X5C is a small, lightweight drone that is often recommended for beginners.  
 
 ### Aircraft
 
-<table data-full-width="false"><thead><tr><th align="right"></th><th></th></tr></thead><tbody><tr><td align="right"><strong>Model</strong></td><td>X5C</td></tr><tr><td align="right"><strong>Manufacturer</strong></td><td>Syma</td></tr><tr><td align="right"><strong>Copter</strong></td><td>Quadcopter</td></tr><tr><td align="right"><strong>Operating Temperature Range</strong></td><td>32° to 104℉ (0° to 40℃)</td></tr><tr><td align="right"><strong>Max Flight Time</strong></td><td>Approx. 7 minutes</td></tr><tr><td align="right"><strong>Released</strong></td><td>2014</td></tr></tbody></table>
+|                                 |                         |
+| ------------------------------: | ----------------------- |
+|                       **Model** | X5C                     |
+|                **Manufacturer** | Syma                    |
+|                      **Copter** | Quadcopter              |
+| **Operating Temperature Range** | 32° to 104℉ (0° to 40℃) |
+|             **Max Flight Time** | Approx. 7 minutes       |
+|                    **Released** | 2014                    |

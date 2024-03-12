@@ -10,7 +10,18 @@ The second generation of the Bepop series from Parrot.  This quadcopter includes
 
 ### Aircraft
 
-<table data-full-width="false"><thead><tr><th align="right"></th><th></th></tr></thead><tbody><tr><td align="right"><strong>Model</strong></td><td>Bepop 2</td></tr><tr><td align="right"><strong>Manufacturer</strong></td><td>Parrot</td></tr><tr><td align="right"><strong>Copter</strong></td><td>Quadcopter</td></tr><tr><td align="right"><strong>Satellite Positioning Systems</strong></td><td>GPS</td></tr><tr><td align="right"><strong>Operating Temperature Range</strong></td><td>32° to 104℉ (0° to 40℃)</td></tr><tr><td align="right"><strong>Max Ascent Speed</strong></td><td>6 m/s</td></tr><tr><td align="right"><strong>Max Descent Speed</strong></td><td>3 m/s</td></tr><tr><td align="right"><strong>Max Speed</strong></td><td>16.64 m/s</td></tr><tr><td align="right"><strong>Max Flight Time</strong></td><td>Approx. 25 minutes</td></tr><tr><td align="right"><strong>Released</strong></td><td>2015</td></tr></tbody></table>
+|                                   |                         |
+| --------------------------------: | ----------------------- |
+|                         **Model** | Bepop 2                 |
+|                  **Manufacturer** | Parrot                  |
+|                        **Copter** | Quadcopter              |
+| **Satellite Positioning Systems** | GPS                     |
+|   **Operating Temperature Range** | 32° to 104℉ (0° to 40℃) |
+|              **Max Ascent Speed** | 6 m/s                   |
+|             **Max Descent Speed** | 3 m/s                   |
+|                     **Max Speed** | 16.64 m/s               |
+|               **Max Flight Time** | Approx. 25 minutes      |
+|                      **Released** | 2015                    |
 
 ### Gimbal
 
