@@ -10,10 +10,14 @@ The ANAFI USA GOV was designed for the U.S. Army, but it's focus on adaptibility
 
 ### Aircraft
 
-|                  |            |
-| ---------------: | ---------- |
-|        **Model** | ANAFI USA  |
-| **Manufacturer** | Parrot     |
-|       **Copter** | Quadcopter |
-|    **Max Speed** | 14.7 m/s   |
-|     **Released** | 2022       |
+|                                 |                              |
+| ------------------------------: | ---------------------------- |
+|                       **Model** | ANAFI USA                    |
+|                **Manufacturer** | Parrot                       |
+|                      **Copter** | Quadcopter                   |
+| **Operating Temperature Range** | -31° to 120.2℉ (-35° to 49℃) |
+|            **Max Ascent Speed** | 4 m/s                        |
+|           **Max Descent Speed** | 4 m/s                        |
+|                   **Max Speed** | 14.7 m/s                     |
+|           **Max Angular Speed** | 300°/s                       |
+|                    **Released** | 2022                         |
