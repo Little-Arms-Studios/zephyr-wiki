@@ -4,7 +4,7 @@
 
 Basic Training is a comprehensive training scenario that contains 25 modules to test the skills of the operator. &#x20;
 
-Basic Scenario covers:
+Basic Training covers:
 
 1. Throttle Control
 2. Landing
