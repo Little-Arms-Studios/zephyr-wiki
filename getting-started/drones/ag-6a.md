@@ -10,4 +10,11 @@ the AG-6A is equipped with technology for precision agriculture applications.  T
 
 ### Aircraft
 
-<table data-full-width="false"><thead><tr><th align="right"></th><th></th></tr></thead><tbody><tr><td align="right"><strong>Model</strong></td><td>AG-61</td></tr><tr><td align="right"><strong>Manufacturer</strong></td><td>HSE</td></tr><tr><td align="right"><strong>Copter</strong></td><td>Hexacopter</td></tr><tr><td align="right"><strong>Satellite Positioning Systems</strong></td><td>GPS</td></tr><tr><td align="right"><strong>Operating Temperature Range</strong></td><td>32° to 104℉ (0° to 40℃)</td></tr><tr><td align="right"><strong>Max Flight Time</strong></td><td>Approx. 15 minutes</td></tr></tbody></table>
+|                                   |                         |
+| --------------------------------: | ----------------------- |
+|                         **Model** | AG-61                   |
+|                  **Manufacturer** | HSE                     |
+|                        **Copter** | Hexacopter              |
+| **Satellite Positioning Systems** | GPS                     |
+|   **Operating Temperature Range** | 32° to 104℉ (0° to 40℃) |
+|               **Max Flight Time** | Approx. 15 minutes      |
