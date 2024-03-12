@@ -242,11 +242,3 @@ The only information that’s required to register an account on Zephyr is an em
 * port 443
 
 </details>
-
-<details>
-
-<summary>Does the Orqa controller work on my Intel Based Mac?</summary>
-
-The minimum requirements for the Orqa controller to work is macOS Big Sur. &#x20;
-
-</details>
