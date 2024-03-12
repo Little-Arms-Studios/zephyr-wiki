@@ -32,7 +32,7 @@
 * [🌌 Scenarios](getting-started/scenarios/README.md)
   * [🏀 Tutorial](getting-started/scenarios/tutorial.md)
   * [🔰 Basic Training](getting-started/scenarios/basic-training.md)
-  * [⛰️ The Hill](getting-started/scenarios/the-hill.md)
+  * [🍄 The Hill](getting-started/scenarios/the-hill.md)
   * [🪤 Obstacle Course](getting-started/scenarios/obstacle-course.md)
   * [⛲ Community Park](getting-started/scenarios/community-park.md)
   * [🅿️ Parking Lot](getting-started/scenarios/parking-lot.md)
