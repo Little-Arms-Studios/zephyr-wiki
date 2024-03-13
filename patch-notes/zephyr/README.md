@@ -1,6 +1,6 @@
 # 🪽 Zephyr
 
-## 🗒 1.8.155
+## v1.8.155
 
 ### January 19, 2024 <a href="#id-1.8.55-january-19-2024" id="id-1.8.55-january-19-2024"></a>
 
@@ -12,7 +12,7 @@ _This hotfix addresses a bug that appeared after the 1.8.54 update._
 
 
 
-## 🗒️  1.8.154
+## v1.8.154
 
 ### January 18, 2024 <a href="#id-1.8.54-january-18-2024" id="id-1.8.54-january-18-2024"></a>
 
@@ -39,7 +39,7 @@ _This update includes a rework to the Tutorial scenario, a new flyable drone, an
 
 
 
-## 🗒️ 1.8.138
+## v1.8.138
 
 ### October 04, 2023 <a href="#id-1.8.138-october-04-2023" id="id-1.8.138-october-04-2023"></a>
 

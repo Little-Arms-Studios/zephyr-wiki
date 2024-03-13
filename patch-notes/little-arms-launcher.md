@@ -1,6 +1,6 @@
 # 🦖 Little Arms Launcher
 
-## 🗒️ 0.8.62 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+## v0.8.62 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
 
 ### January 10, 2024 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
 
@@ -12,7 +12,7 @@ _This update includes an update to user credential handling_
 
 
 
-## 🗒️  0.8.52
+## v0.8.52
 
 ### July 11, 2023 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
 
@@ -30,7 +30,7 @@ _This update includes improvements and bug fixes_
 
 
 
-## &#x20;🗒️ 0.8.48
+## v0.8.48
 
 ### July 6, 2023
 
