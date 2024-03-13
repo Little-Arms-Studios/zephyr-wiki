@@ -18,7 +18,7 @@ Your platform will be automatically detected if you are using Windows or macOS a
 
 Navigate to where you downloaded the `Little-Arms-Launcher-x.x.x.dmg` and double click on it.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Drag and drop the Little Arms Launcher program into the Applications folder.
 

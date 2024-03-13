@@ -39,17 +39,17 @@ The Zephyr Simulator may be running on a different Desktop window than the one i
 Zoom will highlight the border of the Desktop you will be sharing. Make sure the Zephyr simulator will be running in that window.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Your Zoom call window should automatically minimize and a Zoom Toolbar should appear next to a smaller window that displays your webcam video
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Press the “… More” button on the Zoom Toolbar and select “Record”
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 You should hear “Recording in progress” to verify that your meeting it being recorded
@@ -82,7 +82,7 @@ If you have a blurred or other background effect in Zoom, you may need to disabl
 Feel free to hide any other information on your ID, but ensure that **your name** and **your photo** are visible to the camera
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Launch Zephyr (if you have not already) and load the module that corresponds to the certification you are attempting
 
@@ -92,7 +92,7 @@ If you have multiple displays, make sure Zephyr is running on the display that y
 
 4. Fly through and complete the scenario. When you reach the report/score screen you may stop the Zoom recording by selecting the “… More” button on the Zoom Toolbar and selecting “Stop Recording”
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Your recording will not be processed and saved until you end the Zoom call
@@ -104,11 +104,11 @@ End the Zoom meeting, save the recording, review the recording, upload the recor
 
 1. End the Zoom meeting by pressing the “End” button then select “End Meeting for All”
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Once you end the Zoom call, a prompt should appear that says “Converting meeting recording”
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Your video should be automatically saved once it’s processed to your Zoom folder on your computer. For details, follow this Zoom Documentation [Finding and viewing local recordings - Zoom Support](https://support.zoom.us/hc/en-us/articles/206277393-Finding-and-viewing-local-recordings)

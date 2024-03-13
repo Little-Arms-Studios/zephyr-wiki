@@ -18,7 +18,7 @@ Bridge Inspection contains 6 modules (Excluding the Tutorial Web Page Link)
 4. Bridge Module Four
 5. Bridge Module Five
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
