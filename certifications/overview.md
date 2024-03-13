@@ -6,7 +6,7 @@
 
 Our first certification is offered in partnership with the Airborne Public Safety Association [(APSA)](https://publicsafetyaviation.org/). APSA has developed an APSA-NIST Basic Proficiency Evaluation for Remote Pilot [(BPERP) Certificate](https://publicsafetyaviation.org/apsa-basic-proficiency-evaluation-for-remote-pilots-bperp-certificate-application) in accordance with the [NIST Open Lane Test Methods](https://www.nist.gov/el/intelligent-systems-division-73500/standard-test-methods-response-robots/aerial-systems/open-test) for Small Unmanned Aircraft Systems. Zephyr offers a BPERP training scenario and Virtual Certification option, too.
 
-<figure><img src="../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Get started with the BPERP Certification [here](https://zephyr-sim.com/certifications).
 

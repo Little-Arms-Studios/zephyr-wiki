@@ -17,7 +17,7 @@ Obstacle Course has 2 modules:
 Obstacle Course is limited to the drones shown below. Some drones may need to be purchased from other packages.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Timed Race
 
