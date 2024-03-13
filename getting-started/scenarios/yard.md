@@ -24,7 +24,7 @@ You are able to fly all of the drones in The Yard scenario, however some drones 
 Explore The Yard to complete the objectives.  You will be tested with multiple types of objectives in this scenario including hovering, looking at different objects with the drone camera and landing the drone.
 
 * Hover over the house
-* Hover over teh hot tub for 5 seconds
+* Hover over the hot tub for 5 seconds
 * Make a quick loop in front of the house
 * Look at the car
 * Land

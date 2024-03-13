@@ -8,11 +8,11 @@
    2. Or click the “Settings Cog” in the nav bar
 3. Scroll down to the Drone Logbook section and click “Link Drone Logbook Account”
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. &#x20;Enter your Drone Logbook login information in the Link Drone Logbook Account window
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you do not have a custom Drone Logbook server, then leave the Server URL field blank
@@ -32,7 +32,7 @@ If successful, your Zephyr and Drone Logbook accounts will now be linked. Every 
    2. Or click the “Settings Cog” in the nav bar
 3. Scroll down to the Drone Logbook section and click “Unlink Drone Logbook Account”
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Your Drone Logbook account is now unlinked from your Zephyr account
