@@ -6,7 +6,7 @@ To create an account on Zephyr, all you need is an `email` and `password`.
 
 Click **Purchase** on the far right side of the top navigation bar next to Login
 
-<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the plan you would like!&#x20;
 
@@ -14,7 +14,7 @@ Zephyr has with a Free plan that doesn't require any payment information.
 
 Click **Proceed to Checkout**
 
-<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 

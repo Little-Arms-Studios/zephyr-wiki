@@ -13,7 +13,7 @@ Flight Path Practice contains 4 modules
 
 <figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You are able to fly all of the drones in Flight Path Practice, however some drones may need to be purchased from other packages.
