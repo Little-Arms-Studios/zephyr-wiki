@@ -25,11 +25,11 @@ Start a Zoom meeting with yourself and start recording the meeting
 
 2\. Your meeting should start and you should see your webcam recording and a prompt to “Join audio.” Click “Join with Computer Audio”
 
-<figure><img src="../../.gitbook/assets/image (20) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Ensure your microphone is working by selecting the dropdown arrow on the Microphone Icon, then selecting “Test Speaker & Microphone…” This will walk you through instructions to verify that your microphone and speakers are working properly
 
-<figure><img src="../../.gitbook/assets/image (21) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click “Share Screen” at the bottom of the Zoom call and select the “Desktop #” window that you will be using for Zephyr (in the example “Desktop 2” is where we will be running Zephyr)
 

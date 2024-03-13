@@ -12,7 +12,7 @@ Once logged in and at the Dashboard, the top navigation bar will display an oran
 
 Click it.
 
-<figure><img src="../../../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Your platform will be automatically detected if you are using Windows or macOS and download the Little Arms Launcher. &#x20;
 

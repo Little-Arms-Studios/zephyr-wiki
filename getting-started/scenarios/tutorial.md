@@ -11,7 +11,7 @@ The tutorial contains 4 modules that will help walk you through the basics of co
 
 <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 For all of the modules we will use the Phantom 4
 
@@ -51,19 +51,19 @@ In most flight modes the drone will move relative to the direction it is facing,
 
 Try changing the yaw of the drone and pitching forward or backward to reach the purple boxes
 
-<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Rotation around the forward to backward axis is known as roll. To chane the roll of the drone, press the `Right Stick` left or right or press the `Right` or `Left` arrow keys on the keyboard.
 
 Try moving the drone into both of the purple boxes.
 
-<figure><img src="../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now try changing the yaw of the drone and rolling left or right to reach the purple boxes
 
-<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Congratulations! you know understand the basics of piloting a drone.  Please spend some time trying out the full range of controls.
 
@@ -73,7 +73,7 @@ Congratulations! you know understand the basics of piloting a drone.  Please spe
 
 A large overlay that shows the orientation of the drone can be toggled on or off with left shift on the keyboard. This allows the user to control the drone better when it is far away.
 
-<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Use the overlay to pilot the drone to the two purple boxes.
 
@@ -85,7 +85,7 @@ To switch modes press `F1` on the keyboard
 
 In GPS Mode the drone will adjust itself to maintain its position in space when the operator stops giving input.
 
-<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Attitude Mode (ATTI)
 
@@ -95,7 +95,7 @@ To switch modes press `F1` on the keyboard
 
 In ATTI mode the drone has no positional stabilization, so it tends to drift after the operator stops giving input.
 
-<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 To switch control modes press `F2` on the keyboard
@@ -121,7 +121,7 @@ Not all drones in Zephyr have the ability to move their cameras up and down
 
 To switch cameras press the button on the back left of the transmitter or `Spacebar` on the keyboard.
 
-<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To move the drone camera up and down turn the dials on the transmitter up and down or press the `Home` and `End` keys on the keyboard.
 
