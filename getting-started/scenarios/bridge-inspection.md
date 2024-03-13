@@ -2,21 +2,7 @@
 
 ## Introduction
 
-Bridge Scenario to learn and practice bridge inspection piloting skills.
-
-Bridge Inspection contains 6 modules (Excluding the Tutorial Web Page Link)
-
-### Free Flight
-
-1. Free Flight
-
-### Bridge Inspection
-
-1. Bridge Module One
-2. Bridge Module Two
-3. Bridge Module Three
-4. Bridge Module Four
-5. Bridge Module Five
+The Bridge Inspection scenario is designed to expose the pilot to flying with the intention of inspecting various parts of a bridge. In this tutorial we will walk you through how to identify cracks on the bridge, how to capture the cracks, and the differences between the learning modules.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -27,10 +13,6 @@ Bridge Inspection is limited to the drones shown below. Some drones may need to 
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
-
-## Tutorial
-
-The Bridge Inspection scenario is designed to expose the pilot to flying with the intention of inspecting various parts of a bridge. In this tutorial we will walk you through how to identify cracks on the bridge, how to capture the cracks, and the differences between the learning modules.
 
 ### Identifying Cracks and Grading
 
