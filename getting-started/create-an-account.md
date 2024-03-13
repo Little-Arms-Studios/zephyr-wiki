@@ -40,7 +40,7 @@ You'll be shown a page with the `email` you typed earlier prefilled in the email
 
 Alternatively you can press `Continue with Microsoft` and youll be routed to Microsoft's 365 login flow, where you'll have to login with your Microsoft 365 account.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 And thats it! 🎊
 

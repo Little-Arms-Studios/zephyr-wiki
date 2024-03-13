@@ -20,11 +20,11 @@ The _Reviews Complete_ card will show the number of certifications that you have
 
 The most important dashboard page for a reviewer is the **Certifications** tab
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the **Certifications** tab, you will be able to manage and review certifications
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The _My Certifications_ table displays certifications that you have personally purchased. This tab will be seldom used as a Reviewer.
 

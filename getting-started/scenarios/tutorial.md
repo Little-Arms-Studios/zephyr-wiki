@@ -133,7 +133,7 @@ To move the drone camera up and down turn the dials on the transmitter up and do
 
 In this module we learn the first type of objective which is the Path objective.  The goal is to ocmplete the path objectives in sequence from left to right.  And indicator will appear on the blue cube and begind to fill as we approach it.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
