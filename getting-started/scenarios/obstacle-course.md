@@ -4,12 +4,18 @@
 
 A timed, and very challenging obstacle course designed to test the limits of the operators abilities.&#x20;
 
-Obstacle Course has two modules:
+Obstacle Course has 2 modules:
 
 1. Free Flight
 2. Timed Race
 
 <figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Obstacle Course is limited to the drones shown below. Some drones may need to be purchased from other packages.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

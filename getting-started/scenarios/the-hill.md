@@ -11,6 +11,8 @@ The Hill has two modules
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 You are able to fly all of the drones in this scenario, however some drones may need to be purchased from other packages.
 {% endhint %}
