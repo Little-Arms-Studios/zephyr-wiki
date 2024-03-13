@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/image (1).png
+cover: ../../.gitbook/assets/image (1) (1).png
 coverY: 0
 layout:
   cover:
@@ -25,7 +25,7 @@ The NIST Open Lane Test is the only nationally recognized flight proficiency exa
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -41,7 +41,7 @@ The Zephyr simulation has a “NIST Training Course” and “NIST Testing Cours
 
 The Open Lane Test requires the user to complete five maneuvers which are titled Position, Traverse, Recon, Orbit and Spiral. To complete these maneuvers, the user will align the aircraft around a series of “bucket stands.” Points are earned by capturing a picture of a target located at the bottom of the appropriate bucket.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Bucket Anatomy
 
@@ -51,7 +51,7 @@ The closest bucket stand is called stand 1. The second closest stand to the laun
 
 The letters indicate a specific bucket of the stand and is labeled in a clockwise pattern. Bucket A will point towards the launch pad, while C points away. Bucket B points to the left in relation to the launch pad and D points to the right.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 The user will be told which target they need to capture by being told first the stand number and then the bucket letter.
 
@@ -69,7 +69,7 @@ Note, the Orbit test does not have an altitude requirement. You may capture buck
 
 As previously mentioned, the pilot is awarded points by capturing pictures of targets at the bottom of the buckets. The targets have a green ring around the outside perimeter. To earn a point, the target must be completely aligned so that the green ring is continuous around the target.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you are aligned, press the capture button. By default, the capture button is `P` on the keyboard, the underside/right button of the FS-i6S controller, or the `down` button on the `D-Pad` on a gamepad. If you wish to change this configuration, you can do so in the Controller -> Mapping Menu in Zephyr. You will only get one capture attempt per objective in the Test scenario so it is important to make sure you are aligned before capturing the image.
 

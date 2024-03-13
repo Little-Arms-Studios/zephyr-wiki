@@ -14,13 +14,13 @@ Operators will be challenged in different ways to inspect each tower such as lin
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You are able to fly all of the drones in the Tower Inspection scenario, however some drones may need to be purchased from other packages.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 For each tower you will have to perform a different type of inspection facing the tower.  You'll have to repeat these inspections while facing line of site signal feed loss, as well as random signal feed loss.
 

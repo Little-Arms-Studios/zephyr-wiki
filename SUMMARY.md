@@ -71,10 +71,8 @@
 
 ## 🎓 Learning Management System
 
-* [🪪 License Management](learning-management-system/license-management.md)
-* [🧑‍🎓 Courses](learning-management-system/courses.md)
-* [🧑‍🏫 Assignments](learning-management-system/assignments.md)
 * [💸 Enterprise Billing](learning-management-system/enterprise-billing.md)
+* [🧑‍🎓 Courses](learning-management-system/courses.md)
 
 ## 📜 Certifications
 
@@ -96,4 +94,3 @@
   * [❓ Reviewer](help/faqs/reviewer.md)
   * [❓ Security](help/faqs/security.md)
 * [🛟 Support](mailto:support@littlearms.com)
-* [🌀 Status](https://zephyr.statuspage.io)

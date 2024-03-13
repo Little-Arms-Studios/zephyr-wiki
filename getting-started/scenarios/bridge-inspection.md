@@ -4,7 +4,7 @@
 
 The Bridge Inspection scenario is designed to expose the pilot to flying with the intention of inspecting various parts of a bridge. In this tutorial we will walk you through how to identify cracks on the bridge, how to capture the cracks, and the differences between the learning modules.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
