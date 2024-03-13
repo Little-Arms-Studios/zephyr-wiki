@@ -9,6 +9,8 @@ The Hill has two modules
 1. Free Flight
 2. Mushroom Landing
 
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 You are able to fly all of the drones in this scenario, however some drones may need to be purchased from other packages.
 {% endhint %}

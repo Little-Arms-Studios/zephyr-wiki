@@ -9,6 +9,8 @@ The tutorial contains 4 modules that will help walk you through the basics of co
 3. Camera Controls
 4. Objectives
 
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 For all of the modules we will use the Phantom 4
