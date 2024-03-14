@@ -10,8 +10,8 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:orange;">**\[Sim]**</mark> Thermal Imaging                                                                                         |
 | <mark style="color:orange;">**\[Sim]**</mark>** **<mark style="color:yellow;">**\[Launcher]**</mark> Splitting up Scenarios into Downloadable Content |
-| <mark style="color:purple;">**\[Drone]**</mark>** Skydio X2D**                                                                                        |
-| <mark style="color:purple;">**\[Drone]**</mark>** ANAFI USA**                                                                                         |
+| <mark style="color:purple;">**\[Drone]**</mark> Skydio X2D                                                                                            |
+| <mark style="color:purple;">**\[Drone]**</mark> ANAFI USA                                                                                             |
 
 ## Released Features
 
