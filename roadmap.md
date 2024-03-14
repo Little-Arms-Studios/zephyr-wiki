@@ -10,7 +10,8 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <mark style="color:orange;">**\[Sim]**</mark> Thermal Imaging                                                                                         |
 | <mark style="color:orange;">**\[Sim]**</mark>** **<mark style="color:yellow;">**\[Launcher]**</mark> Splitting up Scenarios into Downloadable Content |
-|                                                                                                                                                       |
+| <mark style="color:purple;">**\[Drone]**</mark>** Skydio X2D**                                                                                        |
+| <mark style="color:purple;">**\[Drone]**</mark>** ANAFI USA**                                                                                         |
 
 ## Released Features
 
@@ -23,3 +24,11 @@
 | <mark style="color:blue;">**\[Scenario]**</mark> NIST Park                                                             | NIST Park scenario for NIST tests                                  | 04-21-2023   |
 | <mark style="color:purple;">**\[Drone]**</mark> Arrowhead                                                              | Added Arrowhead from Uniform Sierra                                | 04-21-2023   |
 | <mark style="color:orange;">**\[Sim]**</mark> Xbox Controller support macOS                                            | Added Xbox Controller support for macOS                            | 02-06-2023   |
+| <mark style="color:blue;">**\[Scenario]**</mark> The Island                                                            | Added an Island Scenario                                           | 01-04-2023   |
+| <mark style="color:purple;">**\[Drone]**</mark> Alta X                                                                 | Added Alta X from Freefly Systems                                  | 01-04-2023   |
+| <mark style="color:blue;">**\[Scenario]**</mark> Warehouse                                                             | Added a Warehouse Scenario                                         | 09-14-2022   |
+| <mark style="color:purple;">**\[Drone]**</mark> Skydio 2                                                               | Added Skydio 2 from Skydio                                         | 09-14-2022   |
+| <mark style="color:purple;">**\[Drone]**</mark> Autel EVO II                                                           | Added Autel EVO II from Autel                                      | 09-14-2022   |
+| <mark style="color:blue;">**\[Scenario]**</mark> APSA                                                                  | Added APSA Training Scenario                                       | 04-20-2022   |
+| <mark style="color:orange;">**\[Sim]**</mark> Grass system                                                             | New grass system                                                   | 04-20-2022   |
+| <mark style="color:orange;">**\[Sim]**</mark> Login from Launcher                                                      | Sim now supports passing Login from the launcher                   | 04-20-2022   |
