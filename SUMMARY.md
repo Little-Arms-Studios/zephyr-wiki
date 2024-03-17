@@ -47,6 +47,7 @@
   * [🌉 Bridge Inspection](getting-started/scenarios/bridge-inspection.md)
   * [🪣 NIST & APSA](getting-started/scenarios/nist-and-apsa.md)
 * [🚁 Drones](getting-started/drones/README.md)
+  * [🆕 ANAFI USA](getting-started/drones/anafi-usa.md)
   * [⭐ Phantom 3](getting-started/drones/phantom-3.md)
   * [⭐ Phantom 4](getting-started/drones/phantom-4.md)
   * [⭐ Inspire 1](getting-started/drones/inspire-1.md)
@@ -65,7 +66,6 @@
   * [⭐ HD Racer](getting-started/drones/hd-racer.md)
   * [⭐ Alta X](getting-started/drones/alta-x.md)
   * [⭐ Arrowhead](getting-started/drones/arrowhead.md)
-  * [⭐ ANAFI USA](getting-started/drones/anafi-usa.md)
   * [⭐ Matrice](getting-started/drones/matrice.md)
   * [⭐ Matrice 30](getting-started/drones/matrice-30.md)
 
