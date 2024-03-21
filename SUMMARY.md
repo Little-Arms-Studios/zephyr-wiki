@@ -94,3 +94,4 @@
   * [❓ Reviewer](help/faqs/reviewer.md)
   * [❓ Security](help/faqs/security.md)
 * [🛟 Support](mailto:support@littlearms.com)
+* [🌀 Status](https://zephyr.statuspage.io)
