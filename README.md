@@ -25,3 +25,18 @@ Zephyr Drone Simulator is a full-featured drone training software for drone inst
 
 
 
+**Real Flight Physics**
+
+Each sUAS platform has a unique physics profile making for the most accurate flight physics of any commercially available drone simulator.
+
+
+
+**Multi-Disciplinary Training Scenarios**
+
+Zephyr provides a variety of environments and multi-disciplinary training modules to grow skills for any level of operator or industry setting.
+
+
+
+**Shorten Time to Proficiency**
+
+Fly without risking hardware, having to charge drone batteries, and worrying about weather. Users can train wherever and whenever they want.
