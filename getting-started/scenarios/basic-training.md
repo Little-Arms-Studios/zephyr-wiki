@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (53).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🔰 Basic Training
 
 ## Introduction
@@ -11,8 +30,6 @@ Basic Training covers:
 3. Hovering
 4. Forward Flight
 5. Horizontal Flight
-
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 

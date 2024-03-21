@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (54).png
+coverY: 54
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🍄 The Hill
 
 ## Introduction
@@ -8,8 +27,6 @@ The Hill has two modules
 
 1. Free Flight
 2. Mushroom Landing
-
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 

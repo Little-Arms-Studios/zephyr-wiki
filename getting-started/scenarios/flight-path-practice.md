@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (60).png
+coverY: 51
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🛡️ Flight Path Practice
 
 ## Introduction
@@ -10,8 +29,6 @@ Flight Path Practice contains 4 modules
 2. Figure 8
 3. Rectangle
 4. Circuit
-
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 

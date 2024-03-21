@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (55).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🪤 Obstacle Course
 
 ## Introduction
@@ -8,8 +27,6 @@ Obstacle Course has 2 modules:
 
 1. Free Flight
 2. Timed Race
-
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 

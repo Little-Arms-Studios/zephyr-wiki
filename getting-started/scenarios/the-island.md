@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (62).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🏝️ The Island
 
 ## Introduction
@@ -20,8 +39,6 @@ The Island contains 9 modules including the Free Flight module
 6. Dock Shuttle
 7. Lighthouse Ascent
 8. Duck Scavenger Hunt
-
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (56).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # ⛲ Community Park
 
 ## Introduction
@@ -9,8 +28,6 @@ Community Park has 3 modules
 1. Free Flight
 2. Basic Exploration
 3. Playground Challenge
-
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 

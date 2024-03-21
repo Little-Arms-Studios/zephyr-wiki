@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (64).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🗼 Tower Inspection
 
 ## Introduction
@@ -11,8 +30,6 @@ The different styles of towers are
 3. Guyed
 
 Operators will be challenged in different ways to inspect each tower such as line of sight signal loss feed, and random signal loss feed.
-
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 

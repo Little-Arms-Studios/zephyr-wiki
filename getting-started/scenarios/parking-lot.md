@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (57).png
+coverY: 49
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🅿️ Parking Lot
 
 ## Introduction
@@ -8,8 +27,6 @@ Parking Lot has 2 modules
 
 1. Free Flight
 2. Zig Zag
-
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 

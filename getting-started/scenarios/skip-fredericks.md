@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (65).png
+coverY: 75.29599999999999
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🏈 Skip Fredericks
 
 ## Introduction
@@ -12,8 +31,6 @@ Skip Fredericks contains 8 modules to test basic to advanced skills on a footbal
 6. Reveal 1
 7. Reveal 2
 8. Cones 5
-
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 

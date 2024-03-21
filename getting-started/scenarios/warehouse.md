@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (63).png
+coverY: 60
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📦 Warehouse
 
 ## Introduction
@@ -21,8 +40,6 @@ The Warehouse contains 10 modules
 6. Warehouse Circuit 3
 7. Shelf Maze 1
 8. Shelf Maze 2
-
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 

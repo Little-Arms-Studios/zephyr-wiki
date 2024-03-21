@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (52).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🏀 Tutorial
 
 ## Introduction
@@ -8,8 +27,6 @@ The tutorial contains 4 modules that will help walk you through the basics of co
 2. Guide Drone, Flight Modes, and Control Modes
 3. Camera Controls
 4. Objectives
-
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

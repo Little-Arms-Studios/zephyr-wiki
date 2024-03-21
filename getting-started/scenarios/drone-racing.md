@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (58).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🏁 Drone Racing
 
 ## Introduction
@@ -5,8 +24,6 @@
 An open drone race track with various obstacles.
 
 There is only 1 module in the Drone Racing scenario and thats Free Flight.  Enjoy doing laps and attempting to be the fastest racer in Zephyr!
-
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 

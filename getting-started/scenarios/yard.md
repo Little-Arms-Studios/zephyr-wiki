@@ -1,3 +1,22 @@
+---
+cover: ../../.gitbook/assets/image (59).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🏡 Yard
 
 ## Introduction
@@ -8,8 +27,6 @@ The Yard contains 2 modules
 
 1. Free Flight
 2. Basic Exploration
-
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
