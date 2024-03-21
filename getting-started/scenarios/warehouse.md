@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/image (63).png
-coverY: 60
+coverY: 90.89066666666666
 layout:
   cover:
     visible: true

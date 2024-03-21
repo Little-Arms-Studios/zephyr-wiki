@@ -1,10 +1,10 @@
 ---
 cover: ../../.gitbook/assets/image (59).png
-coverY: 0
+coverY: 102.32533333333333
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
