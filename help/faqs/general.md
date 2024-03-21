@@ -232,7 +232,7 @@ The only information that’s required to register an account on Zephyr is an em
 
 <details>
 
-<summary><strong>What web/IP addresses/ports need to be whitelisted to access the site and sim?</strong></summary>
+<summary>What web/IP addresses/ports need to be whitelisted to access the site and sim?</summary>
 
 * littlearms.com
 * \*.littlearms.com

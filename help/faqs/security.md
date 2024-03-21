@@ -29,7 +29,7 @@ Yes all customer data is encrypted at rest and in-transit.
 
 <details>
 
-<summary><strong>What web/IP addresses/ports need to be whitelisted to access the site and sim?</strong></summary>
+<summary>What web/IP addresses/ports need to be whitelisted to access the site and sim?</summary>
 
 * littlearms.com
 * \*.littlearms.com
