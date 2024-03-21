@@ -18,11 +18,13 @@ If you choose not to renew, we’d love to hear why or have the opportunity to d
 
 If you choose to renew, then you’ll receive an invoice from us after discussing renewal options with a team member. Once the invoice is paid you don’t need to do anything else! If you requested an increase or decrease in license number, these licenses will be available to you immediately and you can continue using Zephyr normally.
 
-## Bill Me Later
+## Legacy Pricing
+
+### Bill Me Later
 
 Bill Me Later is an on demand licensing solution offered to organizations that need to add seats on an as needed basis throughout a billing period.  They are then invoiced at the end of the billing period for the quantity seats they added during that billing period. &#x20;
 
-## Point of Transaction
+### Point of Transaction
 
 Point of Transaction is another on demand licensing solution offered to organizations that prefer to pay for the seats at the time they are needed.  The selected quantity of seats are added after finishing the checkout process.
 
@@ -31,5 +33,5 @@ Both Bill Me Later and Point of Transaction Seats are deducted from the organiza
 {% endhint %}
 
 {% hint style="warning" %}
-Both Bill Me Later Seats and Point of Transaction Seats are NOT transferrable between Users.&#x20;
+Both Bill Me Later Seats and Point of Transaction Seats are NOT transferable between Users.&#x20;
 {% endhint %}
