@@ -27,3 +27,15 @@ Yes all customer data is encrypted at rest and in-transit.
 
 </details>
 
+<details>
+
+<summary><strong>What web/IP addresses/ports need to be whitelisted to access the site and sim?</strong></summary>
+
+* littlearms.com
+* \*.littlearms.com
+* zephyr-sim.com
+* \*.zephyr-sim.com
+* https://littlearms.us.auth0.com
+* port 443
+
+</details>
