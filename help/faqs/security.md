@@ -39,3 +39,23 @@ Yes all customer data is encrypted at rest and in-transit.
 * port 443
 
 </details>
+
+<details>
+
+<summary>How are users authenticated?</summary>
+
+By default, all customer data can only be accessed by themselves or Little Arms Studios Administrators.  If a customer accepts an invitation to join an Organization as a Student, then their data can be access by the Instructors or Administrators of that Organization.
+
+Customers may also choose to make some of their data public on their personal profile to showcase their flight time, achievements and obtained certifications.
+
+</details>
+
+<details>
+
+<summary>Which data is required to operate on Zephyr?</summary>
+
+The only required piece of information to sign up and start using Zephyr is an **email address.**
+
+When purchasing a Certification test such as the BPERP, personal information such as first name, last name and email address is required and provided to the [Airborne Public Safety Association](https://publicsafetyaviation.org/apsa-basic-proficiency-evaluation-for-remote-pilots-bperp-certificate-application), which review and approve the BPERP certification.
+
+</details>
