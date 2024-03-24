@@ -95,5 +95,5 @@
   * [❓ Security](help/faqs/security.md)
 * [🛟 Support](mailto:support@littlearms.com)
 * [🌀 Status](https://zephyr.statuspage.io)
-* [Terms](https://zephyr-sim.com/terms-and-conditions)
-* [Privacy](https://zephyr-sim.com/privacy-policy)
+* [📃 Terms](https://zephyr-sim.com/terms-and-conditions)
+* [🔏 Privacy](https://zephyr-sim.com/privacy-policy)
