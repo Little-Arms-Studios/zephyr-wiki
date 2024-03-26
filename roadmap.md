@@ -2,7 +2,7 @@
 
 ## Live Board
 
-{% embed url="https://miro.com/app/board/uXjVNj4-t7k=/?share_link_id=268644183625" %}
+{% embed url="https://miro.com/app/live-embed/uXjVNj4-t7k=/?embedId=742077153094&moveToViewport=-1031,-499,1439,760" %}
 
 ## Upcoming Features
 
