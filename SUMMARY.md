@@ -78,22 +78,26 @@
 
 * [📚 Overview](certifications/overview.md)
 * [🛩️ Attempt A Certification](certifications/instructions/attempt-a-certification.md)
+* [❓ Certification FAQ](certifications/certification-faq.md)
 * [📝 Reviewing A Certification](certifications/instructions/reviewer/README.md)
   * [📧 Email Events](certifications/instructions/reviewer/email-events.md)
+  * [❓ Reviewer FAQ](certifications/reviewing-a-certification/reviewer-faq.md)
 * [✅ Verify A Certification](certifications/verify-a-certification.md)
 
 ## 🤝 Integrations
 
 * [📒 Drone Logbook](integrations/drone-logbook.md)
 
+## 🕵️ Privacy and Security
+
+* [🔐 Security](privacy-and-security/security/README.md)
+  * [🔀 Subprocessors](privacy-and-security/security/subprocessors.md)
+  * [❓ Security FAQ](privacy-and-security/security/security-faq.md)
+* [📃 Terms of Service](privacy-and-security/terms-of-service.md)
+
 ## &#x20; <a href="#help" id="help"></a>
 
-* [⁉️ FAQs](help/faqs/README.md)
-  * [❓ General](help/faqs/general.md)
-  * [❓ Certifications](help/faqs/certifications.md)
-  * [❓ Reviewer](help/faqs/reviewer.md)
-  * [❓ Security](help/faqs/security.md)
+* [⁉️ FAQs](help/faqs.md)
 * [🛟 Support](mailto:support@littlearms.com)
 * [🌀 Status](https://zephyr.statuspage.io)
-* [📃 Terms](https://zephyr-sim.com/terms-and-conditions)
 * [🔏 Privacy](https://zephyr-sim.com/privacy-policy)

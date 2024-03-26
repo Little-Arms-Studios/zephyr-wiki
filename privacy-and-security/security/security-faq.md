@@ -1,6 +1,16 @@
-# ❓ Security
+# ❓ Security FAQ
 
 Still not finding what your looking for? Contact us at [support@littlearms.com](mailto:support@littlearms.com) with your support question.  We will respond as soon as we receive your message.
+
+<details>
+
+<summary>What is Little Arms Studios?</summary>
+
+Little Arms Studios is a tech startup incorporated in the USA 🇺🇸
+
+&#x20;as `Little Arms Studios Inc.`
+
+</details>
 
 <details>
 
