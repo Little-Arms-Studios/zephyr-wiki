@@ -45,7 +45,7 @@
   * [🗼 Tower Inspection](getting-started/scenarios/tower-inspection.md)
   * [🏈 Skip Fredericks](getting-started/scenarios/skip-fredericks.md)
   * [🌉 Bridge Inspection](getting-started/scenarios/bridge-inspection.md)
-  * [🪣 NIST & APSA](getting-started/scenarios/nist-and-apsa.md)
+  * [🪣 NIST](getting-started/scenarios/nist.md)
 * [🚁 Drones](getting-started/drones/README.md)
   * [🆕 ANAFI USA](getting-started/drones/anafi-usa.md)
   * [⭐ Phantom 3](getting-started/drones/phantom-3.md)
