@@ -93,6 +93,7 @@
 * [🔐 Security](privacy-and-security/security/README.md)
   * [🔀 Subprocessors](privacy-and-security/security/subprocessors.md)
   * [❓ Security FAQ](privacy-and-security/security/security-faq.md)
+* [🔏 Privacy Statement](privacy-and-security/privacy-statement.md)
 
 ## &#x20; <a href="#help" id="help"></a>
 
@@ -100,4 +101,3 @@
 * [📃 Terms of Service](help/terms-of-service.md)
 * [🛟 Support](mailto:support@littlearms.com)
 * [🌀 Status](https://zephyr.statuspage.io)
-* [🔏 Privacy](https://zephyr-sim.com/privacy-policy)
