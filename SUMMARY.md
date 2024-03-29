@@ -95,6 +95,9 @@
   * [❓ Security FAQ](privacy-and-security/security/security-faq.md)
 * [🔏 Privacy Statement](privacy-and-security/privacy-statement/README.md)
   * [🍪 Cookies](privacy-and-security/privacy-statement/cookies.md)
+  * [💼 Archive](privacy-and-security/privacy-statement/archive/README.md)
+    * [⭐ Privacy Statement May 26, 2018](privacy-and-security/privacy-statement/archive/privacy-statement-may-26-2018.md)
+    * [⭐ Privacy Statement July 28, 2016](privacy-and-security/privacy-statement/archive/privacy-statement-july-28-2016.md)
 
 ## &#x20; <a href="#help" id="help"></a>
 
