@@ -103,5 +103,7 @@
 
 * [⁉️ FAQs](help/faqs.md)
 * [📃 Terms of Service](help/terms-of-service.md)
+* [🚚 Shipping Policy](help/shipping-policy.md)
+* [↩️ Return Policy](help/return-policy.md)
 * [🛟 Support](mailto:support@littlearms.com)
 * [🌀 Status](https://zephyr.statuspage.io)
