@@ -16,4 +16,4 @@ If you have any trouble getting your hardware hooked up or believe it is damaged
 
 If you have any questions about our Returns and Refunds Policy, please contact us:
 
-* By email: support@littlearms.com
+* By email: [support@littlearms.com](mailto:support@littlearms.com)

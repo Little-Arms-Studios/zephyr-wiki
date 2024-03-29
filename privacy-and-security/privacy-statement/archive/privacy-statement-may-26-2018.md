@@ -1,4 +1,4 @@
-# ⭐ Privacy Statement May 26, 2018
+# 🔏 Privacy Statement May 26, 2018
 
 Effective date: **May 26, 2018**
 
@@ -192,7 +192,7 @@ Please note that we may ask you to verify your identity before responding to suc
 {% hint style="warning" %}
 **Plain and Simple**
 
-You are absolutely entitled to tell us what you do and do not want tracked and stored on our Service. If we do not have a way for you to personally change this under your account settings, just send us an email at privacy@littlearms.com and we'll do our best to update your preferences in a timely manner. You can also ask us for a copy of your existing data on our Service. Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us at privacy@littlearms.com to make the required changes.
+You are absolutely entitled to tell us what you do and do not want tracked and stored on our Service. If we do not have a way for you to personally change this under your account settings, just send us an email at [privacy@littlearms.com](mailto:privacy@littlearms.com) and we'll do our best to update your preferences in a timely manner. You can also ask us for a copy of your existing data on our Service. Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us at [privacy@littlearms.com](mailto:privacy@littlearms.com) to make the required changes.
 {% endhint %}
 
 ## Service Providers
@@ -265,5 +265,5 @@ We will change this policy in the future, but we will let you know beforehand in
 
 If you have any questions about this Privacy Policy, please contact us:
 
-* By email: privacy@littlearms.com
-* By visiting this page on our website: https://zephyr-sim.com/contact
+* By email: [privacy@littlearms.com](mailto:privacy@littlearms.com)
+* By visiting this page on our website: [https://zephyr-sim.com/contact](https://zephyr-sim.com/contact)

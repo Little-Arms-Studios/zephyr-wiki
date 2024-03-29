@@ -99,11 +99,15 @@
     * [🔏 Privacy Statement May 26, 2018](privacy-and-security/privacy-statement/archive/privacy-statement-may-26-2018.md)
     * [🔏 Privacy Statement July 28, 2016](privacy-and-security/privacy-statement/archive/privacy-statement-july-28-2016.md)
 
+## 📂 Policies
+
+* [📃 Terms of Service](policies/terms-of-service.md)
+* [🚚 Shipping Policy](policies/shipping-policy.md)
+* [↩️ Return Policy](policies/return-policy.md)
+
 ## &#x20; <a href="#help" id="help"></a>
 
 * [⁉️ FAQs](help/faqs.md)
-* [📃 Terms of Service](help/terms-of-service.md)
-* [🚚 Shipping Policy](help/shipping-policy.md)
-* [↩️ Return Policy](help/return-policy.md)
+* [🦖 Little Arms Studios](help/little-arms-studios.md)
 * [🛟 Support](mailto:support@littlearms.com)
 * [🌀 Status](https://zephyr.statuspage.io)
