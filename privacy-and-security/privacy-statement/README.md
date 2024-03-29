@@ -225,7 +225,7 @@ We will not store or collect your payment card details. That information is prov
 
 The payment processors we work with are:
 
-* PayPal or Braintree Their Privacy Policy can be viewed [here](https://www.paypal.com/webapps/mpp/ua/privacy-full).
+* **PayPal or Braintree** Their Privacy Policy can be viewed [here](https://www.paypal.com/webapps/mpp/ua/privacy-full).
 
 {% hint style="warning" %}
 **Plain and Simple**
