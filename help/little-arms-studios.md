@@ -8,7 +8,7 @@ To provide a safe, engaging, and effective environment for people to learn and p
 
 We make High-end software platforms and solutions to solve modern challenges and training needs.
 
-## Over 75 Years Of Combined experience in&#x20;
+## Over 75 years of experience in
 
 * Simulation, Video Game, and Mobile Application development
 * Information Technology including Network and Device Administration
