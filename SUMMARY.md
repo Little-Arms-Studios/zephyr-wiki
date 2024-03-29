@@ -93,7 +93,8 @@
 * [🔐 Security](privacy-and-security/security/README.md)
   * [🔀 Subprocessors](privacy-and-security/security/subprocessors.md)
   * [❓ Security FAQ](privacy-and-security/security/security-faq.md)
-* [🔏 Privacy Statement](privacy-and-security/privacy-statement.md)
+* [🔏 Privacy Statement](privacy-and-security/privacy-statement/README.md)
+  * [🍪 Cookies](privacy-and-security/privacy-statement/cookies.md)
 
 ## &#x20; <a href="#help" id="help"></a>
 
