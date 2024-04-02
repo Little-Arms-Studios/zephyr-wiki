@@ -74,7 +74,7 @@
 * [💸 Enterprise Billing](learning-management-system/enterprise-billing.md)
 * [🧑‍🎓 Courses](learning-management-system/courses.md)
 
-## 📜 Certifications
+## 🏅 Certifications
 
 * [📚 Overview](certifications/overview.md)
 * [🛩️ Attempt A Certification](certifications/instructions/attempt-a-certification.md)
@@ -99,7 +99,7 @@
     * [🔏 Privacy Statement May 26, 2018](privacy-and-security/privacy-statement/archive/privacy-statement-may-26-2018.md)
     * [🔏 Privacy Statement July 28, 2016](privacy-and-security/privacy-statement/archive/privacy-statement-july-28-2016.md)
 
-## 📂 Policies
+## 📜 Policies
 
 * [📃 Terms of Service](policies/terms-of-service.md)
 * [🚚 Shipping Policy](policies/shipping-policy.md)
