@@ -8,7 +8,7 @@ There may be compatible controllers not on this list. We are actively testing an
 Unfortunately Most DJI Controllers are not compatible with Zephyr at this time. They have not given third parties like us a good way to read the output from their controllers. We hope this will change in the future.
 {% endhint %}
 
-### Drone Controllers <a href="#drone-controllers" id="drone-controllers"></a>
+## Drone Controllers
 
 * FlySky FS-i6s\*
 * ORQA FPV.Ctrl\*
@@ -30,7 +30,7 @@ Unfortunately Most DJI Controllers are not compatible with Zephyr at this time. 
 
 _\*must be used with a wired USB connection_
 
-### Gamepads <a href="#gamepads" id="gamepads"></a>
+## Gamepads
 
 * XBox 360 Controller\*
 * Afterglow Xbox 360 Controller \[PC only]\*
@@ -67,8 +67,6 @@ _\*must be used with a wired USB connection_
 _\*must be used with a wired USB connection_
 
 _\*\*must be used via Bluetooth connection_
-
-
 
 {% hint style="info" %}
 Zephyr supports other controllers that use OpenTX; however, they may require rebinding the inputs inside of the Zephyr program. This is only recommended for advanced users.
