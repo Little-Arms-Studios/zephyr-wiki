@@ -150,6 +150,6 @@ This License shall be deemed to have been made and subject to the laws and juris
 
 End User hereby acknowledges that he/she has read and understands the foregoing License and agrees that the action of installing the Program is an acknowledgment of End User's agreement to be bound by the terms and conditions of this License. End User also acknowledges and agrees that this License is the complete and exclusive statement of the agreement between the Licensor and End User.
 
-## Contact Us
+### Contact Us
 
 If you have any questions about these Terms, please contact us.
