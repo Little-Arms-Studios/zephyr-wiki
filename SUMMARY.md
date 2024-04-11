@@ -18,6 +18,7 @@
       * [⭐ v1.8.40](patch-notes/zephyr/archive/v1.8.40.md)
       * [⭐ v1.8.12](patch-notes/zephyr/archive/v1.8.12.md)
   * [🦖 Little Arms Launcher](patch-notes/little-arms-launcher.md)
+  * [🌐 Zephyr Dashboard](patch-notes/zephyr-dashboard.md)
 
 ## 🚀 Getting Started
 
