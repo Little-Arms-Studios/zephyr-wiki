@@ -1,5 +1,36 @@
 # 🪽 Zephyr
 
+## v1.8.171
+
+### April 15, 2024
+
+_This update includes a new flyable drone, new UI features, and a multitude of bug fixes._
+
+**New Features ✨**
+
+* Gimbal Crosshair
+  * Added a Gimbal Crosshair as a togglabe UI element.  It is disabled by default and can be enabled from the Settings Menu
+* New Flyable Drones
+  * Skydio X2D
+    * The rugged and portable X2D was designed with reconnaissance in mind.  This impressive camera ensamble and 35 minutes of flight time make the X2D a desireable option for inspection and patrol tasks.
+* Thermal Vision (Preview)
+  * Thermal  Vision drone camera view is now available as a feature preview.  Toggling thermal vision is mapped to `CTRL + T` by default
+
+**Improvements** 🙌
+
+* Scenario Updates
+  * Updated the drone rostsrs of modules sim-wide
+
+**Bug Fixes 🪲**
+
+* Fixed an issue impacting controller mapping where attempting to remap certain commands would freeze the simulator
+* Fixed an issue impacting Xbox One controller usage on Mac systems
+* Fixed lighting in the Bridge Inspection scenario
+* Fixed issue where controller UI could disappear
+* Fixed an issue with the description for the Autel Evo II
+* Fixed a lighting issue in all scenarios causing discrepancies between weather and non-weather
+* Fixed missing collision on ceiling windows in Warehouse
+
 ## v1.8.155
 
 ### January 19, 2024 <a href="#id-1.8.55-january-19-2024" id="id-1.8.55-january-19-2024"></a>

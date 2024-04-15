@@ -8,15 +8,15 @@
 
 | Feature                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:orange;">**\[Sim]**</mark> Thermal Imaging                                                                                         |
 | <mark style="color:orange;">**\[Sim]**</mark>** **<mark style="color:yellow;">**\[Launcher]**</mark> Splitting up Scenarios into Downloadable Content |
-| <mark style="color:purple;">**\[Drone]**</mark> Skydio X2D                                                                                            |
-| <mark style="color:purple;">**\[Drone]**</mark> ANAFI USA                                                                                             |
 
 ## Released Features
 
 | Feature                                                                                                                | Description                                                        | Release date |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------ |
+| <mark style="color:orange;">**\[Sim]**</mark> Thermal Imaging (Preview)                                                | Thermal Imaging Camera (Preview) added to Zephyr                   | 04-15-2024   |
+| <mark style="color:purple;">**\[Drone]**</mark> Skydio X2D                                                             | Added the Skydio X2D Drone to Zephyr                               | 04-15-2024   |
+| <mark style="color:purple;">**\[Drone]**</mark> ANAFI USA                                                              | Added the ANAFI USA Drone to Zephyr                                | 04-15-2024   |
 | <mark style="color:purple;">**\[Drone]**</mark> DJI Matrice 30                                                         | Added DJI Matrice 30 Drone to Zephyr                               | 01-18-2024   |
 | <mark style="color:yellow;">**\[Launcher]**</mark> <mark style="color:red;">**\[Web]**</mark> New Authorization System | Little Arms now uses Auth0 to authenticate users.                  | 01-18-2024   |
 | <mark style="color:blue;">**\[Scenario]**</mark> Tutorial Updates                                                      | Updated tutorial into 4 smaller Modules                            | 01-18-2024   |
