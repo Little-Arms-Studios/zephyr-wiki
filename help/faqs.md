@@ -85,7 +85,7 @@ Note: if you can login to the website, but not the simulator, you may still need
 
 <summary>Is my controller compatible with Zephyr?</summary>
 
-You can find the list of the latest supported controllers [here](../supported-controllers.md).
+You can find the list of the latest supported controllers [here](https://wiki.zephyr-sim.com/supported-controllers).
 
 </details>
 
