@@ -101,7 +101,7 @@ You may have another controller or HID device connected that could be conflictin
 
 <summary>What are the system requirements to use Zephyr?</summary>
 
-You can find the current system requirements [here](../system-requirements.md).
+You can find the current system requirements [here](https://wiki.zephyr-sim.com/system-requirements).
 
 </details>
 
@@ -214,7 +214,7 @@ Both modes are displayed and accessible in Zephyr. By default, the camera can be
 
 Zephyr logs flight time in the simulator, which is stored and can be accessed later online through the integrated learning management system. If you are idle for too long in the simulator, it will not count your report/flight time for that module. The simulator will notify you if this occurs. This is done to keep logged flight time meaningful and to accurately report the amount of time a user flies in the simulator.
 
-We also have an optional integration with [Drone Logbook](../integrations/drone-logbook.md) where you can send your reports automatically from Zephyr to the [Drone Logbook](../integrations/drone-logbook.md) system to be included in your simulated flight time.
+We also have an optional integration with [Drone Logbook](https://wiki.zephyr-sim.com/integrations/drone-logbook) where you can send your reports automatically from Zephyr to the [Drone Logbook](https://wiki.zephyr-sim.com/integrations/drone-logbook) system to be included in your simulated flight time.
 
 </details>
 
@@ -230,7 +230,7 @@ No, Zephyr is a PC and Mac based platform. There is a free mobile controller ava
 
 <summary>Is Zephyr available in my country?</summary>
 
-For the majority of countries, the answer is yes. However, please be aware that Zephyr is currently localized to the United States and focuses on the US Federal Aviation Administration laws and regulations.  You can find the complete list of countries Zephyr is [NOT AVAILABLE here.](../country-availability.md)
+For the majority of countries, the answer is yes. However, please be aware that Zephyr is currently localized to the United States and focuses on the US Federal Aviation Administration laws and regulations.  You can find the complete list of countries Zephyr is [NOT AVAILABLE here.](https://wiki.zephyr-sim.com/country-availability)
 
 </details>
 
