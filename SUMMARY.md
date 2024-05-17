@@ -110,5 +110,5 @@
 
 * [⁉️ FAQs](help/faqs.md)
 * [🦖 Little Arms Studios](help/little-arms-studios.md)
-* [🛟 Support](mailto:support@littlearms.com)
+* [🛟 Support](https://support.zephyr-sim.com)
 * [🌀 Status](https://zephyr.statuspage.io)
