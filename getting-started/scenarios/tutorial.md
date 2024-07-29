@@ -32,27 +32,27 @@ The tutorial contains 4 modules that will help walk you through the basics of co
 
 For all of the modules we will use the Phantom 4
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Drone Power and Basic Controls
 
 To power on the drone move the sticks or press the keyboard keys into the positions shown on the screen and hold them there for 2 seconds.
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To change altitude press up on the left `Left Stick` or `W` on the keyboard to increse the throttle and make the drone gain altitude.  Increase altitude until your drone reaches the purple box.
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now press down on the `Left Stick` or `S` on the keyboard to decrease the throttle and make the drone lose altitude.  Decrease altitude until your drone reaches the purple box.
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Rotation around the up and down axis of a drone is called yaw. To change the yaw of the drone press the `Left Stick` Right or Left, `A` or `D` on the keyboard.
 
 Try spinning the drone around 3 times
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Rotation around the Left to Right axis is known as pitch.
 
@@ -60,7 +60,7 @@ To change the pitch of the drone press the `Right Stick` up or down or press the
 
 Move the drone forward to the purple box then move backward into the other purple box.
 
-<figure><img src="../../.gitbook/assets/image (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 In most flight modes the drone will move relative to the direction it is facing, NOT the way the user is facing.  If the operator changes the pitch the drone will move forward/backward relative to itself, as seen to the bottom right corner (Drone Camera).
@@ -68,7 +68,7 @@ In most flight modes the drone will move relative to the direction it is facing,
 
 Try changing the yaw of the drone and pitching forward or backward to reach the purple boxes
 
-<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Rotation around the forward to backward axis is known as roll. To chane the roll of the drone, press the `Right Stick` left or right or press the `Right` or `Left` arrow keys on the keyboard.
 
@@ -150,47 +150,47 @@ To move the drone camera up and down turn the dials on the transmitter up and do
 
 In this module we learn the first type of objective which is the Path objective.  The goal is to ocmplete the path objectives in sequence from left to right.  And indicator will appear on the blue cube and begind to fill as we approach it.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Zone Objective
 
 With a Zone objective the user must pulot the drone into the objective and remain there until the objective completes.  We'll need to stay in the purple box for 5 seconds.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Zone objectives may also appear as brackets or rings.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Target Objective
 
 First will need to pilot the drone into the zone objective.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once inside the Zone Objective crosshairs will appear on the drone camera.  Point the drones camera at the soccer ball.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you point the drone camera at the soccer ball, keep it centered in the crosshairs until the objective completes
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Landing Objective
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pilot the drone over the objective then lower the drone to the ground.
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Continue to hold down on altitude (Left Stick in the down position) to power down the drone.
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Some landing objectives may not require the drone to be powered off in order to be completed.

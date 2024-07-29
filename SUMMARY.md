@@ -69,6 +69,7 @@
   * [⭐ Arrowhead](getting-started/drones/arrowhead.md)
   * [⭐ Matrice](getting-started/drones/matrice.md)
   * [⭐ Matrice 30](getting-started/drones/matrice-30.md)
+* [🛂 Controller Configuration](getting-started/controller-configuration.md)
 
 ## 🎓 Learning Management System
 
