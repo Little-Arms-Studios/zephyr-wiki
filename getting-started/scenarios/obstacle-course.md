@@ -1,4 +1,7 @@
 ---
+description: >-
+  The Obstacle Course scenario is a time trial where operators pilot their drone
+  through a tense, tightly-packed course.
 cover: ../../.gitbook/assets/image (55).png
 coverY: 0
 layout:
@@ -21,24 +24,22 @@ layout:
 
 ## Introduction
 
-A timed, and very challenging obstacle course designed to test the limits of the operators abilities.&#x20;
-
-Obstacle Course has 2 modules:
+The Obstacle Course scenario consists of two modules:
 
 1. Free Flight
 2. Timed Race
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Obstacle Course is limited to the drones shown below. Some drones may need to be purchased from other packages.
-{% endhint %}
+## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Timed Race
+## Module Breakdowns
 
-Complete the race track and try for the best time! This entire module will be done in the perspective of the drone camera as the first person.
+### Timed Race
+
+Complete the race track as quickly as possible! The entire module will be flown in first person perspective using the drone's camera.
 
 <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 

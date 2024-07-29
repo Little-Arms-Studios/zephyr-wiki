@@ -1,4 +1,7 @@
 ---
+description: >-
+  Picnic tables, swing sets, and tennis courts - oh my! Community Park is an
+  idyllic spot for human recreation, but it's minefield for low flying drones.
 cover: ../../.gitbook/assets/image (56).png
 coverY: -46.336
 layout:
@@ -21,9 +24,7 @@ layout:
 
 ## Introduction
 
-A park featuring various obstacles for the operator to navigate such as picnic tables and a playground.
-
-Community Park has 3 modules
+The Community Park scenario consists of three modules:
 
 1. Free Flight
 2. Basic Exploration
@@ -31,15 +32,15 @@ Community Park has 3 modules
 
 <figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Community Park is limited to the drones shown below. Some drones may need to be purchased from other packages.
-{% endhint %}
+## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Basic Exploration
+## Module Breakdowns
 
-The objectives for the Basic Exploration are to explore:
+### Basic Exploration
+
+There are five locations you must explore to complete the module:
 
 1. The Gazebo
 2. The Playground
@@ -47,15 +48,19 @@ The objectives for the Basic Exploration are to explore:
 4. Tennis Court
 5. Back Bathrooms
 
-To complete the objectives simply enter the teal boxes and they'll get marked as completed ✅
+Enter the teal objective cubes to complete the corresponding objective.
 
 <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
-## Playground Challenge
+{% hint style="warning" %}
+Breaking line of sight with the drone will lower your final score!
+{% endhint %}
 
-In the Playground Challenge you'll need complete the following objectives
+### Playground Challenge
+
+There are five objectives you must pilot your drone through to complete the Playground Challenge module:
 
 1. Slide
 2. See-saw 1
@@ -63,6 +68,10 @@ In the Playground Challenge you'll need complete the following objectives
 4. Dome Outside
 5. Monkey Bars
 
-To complete the objectives simply enter the teal boxes and they'll get marked as completed ✅
+Enter the teal objective cubes to complete the corresponding objective
 
 <figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Breaking line of sight with the drone will lower your final score!
+{% endhint %}

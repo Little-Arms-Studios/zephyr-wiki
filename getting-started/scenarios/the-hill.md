@@ -1,4 +1,7 @@
 ---
+description: >-
+  The Hill scenario combines wide open skies with rolling hills to provide
+  interesting line of sight challenges for operators to overcome.
 cover: ../../.gitbook/assets/image (54).png
 coverY: 142.81066666666666
 layout:
@@ -21,27 +24,25 @@ layout:
 
 ## Introduction
 
-The Hill is a scenario that helps you practice your skills fying in an outdoor environment.  Enjoy exploring!
-
-The Hill has two modules
+The Hill consists of two modules:
 
 1. Free Flight
 2. Mushroom Landing
 
 <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-You are able to fly all of the drones in The Hill scenario, however some drones may need to be purchased from other packages.
-{% endhint %}
+## Drone Roster
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-## Mushroom Landing
+## Module Breakdowns
 
-While exploring the hills search for a mushroom patch and collect a mushroom! 🍄
+### Mushroom Landing
+
+Explore the hills while searching for a mushroom patch to collect a mushroom. 🍄
 
 {% hint style="warning" %}
-Remember to not break line of site!
+Breaking line of sight with the drone will lower your final score!
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>

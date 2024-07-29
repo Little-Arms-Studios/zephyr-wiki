@@ -1,5 +1,9 @@
 ---
-cover: ../../.gitbook/assets/image (9) (1).png
+description: >-
+  Inspecting hard-to-reach or dangerous areas safely is a major benefit of using
+  drones. This scenario provides practical experience for those looking to
+  perform professional bridge safety inspections.
+cover: ../../.gitbook/assets/image (9).png
 coverY: 227.81866666666664
 layout:
   cover:
@@ -25,11 +29,11 @@ The Bridge Inspection scenario is designed to expose the pilot to flying with th
 
 <figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Bridge Inspection is limited to the drones shown below. Some drones may need to be purchased from other packages.
-{% endhint %}
+## Drone Roster
 
 <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+
+## Module Breakdowns
 
 ### Identifying Cracks and Grading
 
@@ -53,26 +57,28 @@ Note: for cracks on the top deck of the bridge, you can successfully capture fro
 You have unlimitted capture attempts for any given crack.
 {% endhint %}
 
-## Free Flight
+
+
+### Free Flight
 
 This is an ungraded scenario that allows the pilot to fly around the bridge scenario with no objectives. No cracks will be present in this module.
 
-## Bridge Module One
+### Bridge Module One
 
 Find and capture an image of 5 bridge cracks with the camera. Cracks will be on the sides. In this module, cracks will only show up on the top of the deck and the sides of the foundations/piers.
 
-## Bridge Module Two
+### Bridge Module Two
 
 Find and capture an image of 5 bridge cracks with the camera. Cracks will be on the underside. In this module, cracks will only show up on the underside of the deck and the arches/insides of the foundations/piers.
 
-## Bridge Module Three
+### Bridge Module Three
 
 Find and capture an image of 5 bridge cracks with the camera. GPS signal will be unreliable. In this module, cracks can show up anywhere on the bridge. The drone's GPS will be unreliable, meaning it will switch from GPS to Atti mode intermittently.
 
-## Bridge Module Four
+### Bridge Module Four
 
 Find and capture an image of 5 bridge cracks with the camera. GPS is unreliable and possible wind. In this module, cracks can show up anywhere on the bridge. The drone's GPS will be unreliable and random gusts of wind will be present.
 
-## Bridge Module Five
+### Bridge Module Five
 
 Find and capture an image of bridge cracks with the camera. Number of cracks is unknown. In this module, cracks can show up anywhere on the bridge. The drone's GPS will be unreliable and random gusts of wind will be present. The total number of cracks present is random to the pilot.

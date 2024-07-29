@@ -1,4 +1,8 @@
 ---
+description: >-
+  Inspecting hard-to-reach or dangerous areas safely is a major benefit of using
+  drones. This scenario provides practical experience for those looking to
+  perform professional tower safety inspections.
 cover: ../../.gitbook/assets/image (64).png
 coverY: 0
 layout:
@@ -31,13 +35,13 @@ The different styles of towers are
 
 Operators will be challenged in different ways to inspect each tower such as line of sight signal loss feed, and random signal loss feed.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-You are able to fly all of the drones in the Tower Inspection scenario, however some drones may need to be purchased from other packages.
-{% endhint %}
+## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Module Breakdowns
 
 For each tower you will have to perform a different type of inspection facing the tower.  You'll have to repeat these inspections while facing line of site signal feed loss, as well as random signal feed loss.
 
@@ -53,15 +57,15 @@ For each tower you will have to perform a different type of inspection facing th
 
 
 
-## Monopole
+### Monopole
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-## Lattice
+### Lattice
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
@@ -69,9 +73,9 @@ For each tower you will have to perform a different type of inspection facing th
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-## Guyed
+### Guyed
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 

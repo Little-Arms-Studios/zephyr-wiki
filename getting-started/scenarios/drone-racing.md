@@ -1,4 +1,7 @@
 ---
+description: >-
+  A full-fledged outdoor drone race track featuring obstacles such as slaloms,
+  tunnels, and hoops. How fast can you complete the course?
 cover: ../../.gitbook/assets/image (58).png
 coverY: 0
 layout:
@@ -21,15 +24,13 @@ layout:
 
 ## Introduction
 
-An open drone race track with various obstacles.
+The Drone Racing scenario consists of one module:
 
-There is only 1 module in the Drone Racing scenario and thats Free Flight.  Enjoy doing laps and attempting to be the fastest racer in Zephyr!
+1. Free Flight
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-You are able to fly all of the drones in the Drone Racing scenario, however some drones may need to be purchased from other packages.  We recommend using the HD Racer for this one!
-{% endhint %}
+## Drone Roster
 
 <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 

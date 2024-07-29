@@ -10,21 +10,21 @@ description: >-
 
 To navigate to the Controller Settings menu, click "Controller" on the main menu screen.
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 This will bring you to the Controller Settings menu.
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 Alternatively, if you are already in a different settings menu or the scenario selection menu, you can navigate to the Controller Settings menu by clicking the Controller Settings tab (represented by an image of a drone controller).
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
 ## Understanding the Controller Settings Menu
 
 Text
 
-<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 1. Calibration
    1. Selecting this tab takes the user to the Calibration page, where they can adjust their controller's calibration and stick deadzones.
@@ -51,17 +51,17 @@ Text
 
 If you need to perform a quick calibration of your controller, begin by selecting the "Quick Calibration" button.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 Next, follow the on-screen prompts with the sticks on your controller.
 
 You will first move both sticks up and to the left and then hold them in that position until the on-screen prompt changes.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 You will then move both sticks down and to the right and then hold them in that position until the on-screen prompt changes.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 Your controller should now be calibrated.
 
@@ -69,25 +69,25 @@ Your controller should now be calibrated.
 
 If you wish to perform a more advanced calibration of your controller, begin by selecting the "In-depth Calibration" button.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 Next, follow the on-screen prompts with the sticks on your controller.
 
 Begin by moving both sticks straight up and then holding them in that position until the on-screen prompt changes.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 Next, move both sticks straight down and then hold them in that position until the on-screen prompt changes.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 Next, move both sticks to the left and then hold them in that position until the on-screen prompt changes.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 Next, move both sticks to the right and then hold them in that position until the on-screen prompt changes.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 Your controller should now be calibrated.
 
@@ -97,7 +97,7 @@ If you encounter odd behavior with your controller after calibration, clearing y
 
 Clicking "Clear Calibration" will delete your calibration data.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 There will not be a popup after you click the button.
@@ -109,11 +109,11 @@ A stick's center deadzone value is the radius around the center of the stick whe
 
 To adjust your controller's stick center deadzone, begin by clicking on the white text field, as shown below.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 Next, enter your desired value between 0 and 1.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 Finally, click "Set" to save the new deadzone setting.
 
@@ -121,38 +121,38 @@ Finally, click "Set" to save the new deadzone setting.
 The deadzone setting is not saved until you click "Set".
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 If you wish to return your deadzone settings to default, simply click "Clear" for both stick settings.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 ## Mapping
 
 The Mapping page allows users to custom map inputs to suit their individual preferences.
 
-<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 ### Custom Input Mapping
 
 To add or change the mapping of a function to an input, begin by selecting the function you wish to map an input to.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 After selecting the function you wish to map an input to, a user interface will appear with three options:
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 1.  Activate the control you with to map for \[Function]
 
     1. Maps the entered input to the function
 
-    <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 2.  Backspace to Clear
 
     1. Clears all inputs currently mapped to the indicated function
 
-    <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 3. Esc to Cancel
    1. Closes the function mapping user interface without making any changes
 
@@ -160,4 +160,4 @@ After selecting the function you wish to map an input to, a user interface will 
 
 If you wish to restore input mapping to default, simply click the "Restore Defaults" button.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
