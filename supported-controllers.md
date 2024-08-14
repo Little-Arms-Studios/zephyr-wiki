@@ -22,7 +22,7 @@ Unfortunately Most DJI Controllers are not compatible with Zephyr at this time. 
 * Hobby King 6 Channel USB \[PC only]\*
 * iFlight iF8 \[PC only]\*
 * Radiomaster T8 \[PC only]\*
-* Spektrun \[PC only]\*
+* Spektrum \[PC only]\*
 * Spektrum Interlink DS \[PC only]\*
 * Tactic InterLink X\*
 * Taranis\* (and possibly other OpenTX controllers)
