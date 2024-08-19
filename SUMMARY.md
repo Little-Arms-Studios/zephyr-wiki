@@ -18,7 +18,17 @@
       * [⭐ v1.8.40](patch-notes/zephyr/archive/v1.8.40.md)
       * [⭐ v1.8.12](patch-notes/zephyr/archive/v1.8.12.md)
   * [🦖 Little Arms Launcher](patch-notes/little-arms-launcher.md)
-  * [🌐 Zephyr Dashboard](patch-notes/zephyr-dashboard.md)
+  * [🌐 Zephyr Dashboard](patch-notes/zephyr-dashboard/README.md)
+    * [💼 Archive](patch-notes/zephyr-dashboard/archive/README.md)
+      * [⭐ v4.2.2](patch-notes/zephyr-dashboard/archive/v4.2.2.md)
+      * [⭐ v4.2.1](patch-notes/zephyr-dashboard/archive/v4.2.1.md)
+      * [⭐ v4.2.0](patch-notes/zephyr-dashboard/archive/v4.2.0.md)
+      * [⭐ v4.1.5](patch-notes/zephyr-dashboard/archive/v4.1.5.md)
+      * [⭐ v4.1.4](patch-notes/zephyr-dashboard/archive/v4.1.4.md)
+      * [⭐ v4.1.3](patch-notes/zephyr-dashboard/archive/v4.1.3.md)
+      * [⭐ v4.1.2](patch-notes/zephyr-dashboard/archive/v4.1.2.md)
+      * [⭐ v4.1.1](patch-notes/zephyr-dashboard/archive/v4.1.1.md)
+      * [⭐ v4.1.0](patch-notes/zephyr-dashboard/archive/v4.1.0.md)
 
 ## 🚀 Getting Started
 
