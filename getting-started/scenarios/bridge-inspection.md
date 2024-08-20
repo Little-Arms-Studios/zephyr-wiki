@@ -54,7 +54,7 @@ Note: for cracks on the top deck of the bridge, you can successfully capture fro
 <figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You have unlimitted capture attempts for any given crack.
+You have unlimited capture attempts for any given crack.
 {% endhint %}
 
 
@@ -69,7 +69,7 @@ Find and capture an image of 5 bridge cracks with the camera. Cracks will be on 
 
 ### Bridge Module Two
 
-Find and capture an image of 5 bridge cracks with the camera. Cracks will be on the underside. In this module, cracks will only show up on the underside of the deck and the arches/insides of the foundations/piers.
+Find and capture an image of 5 bridge cracks with the camera. Cracks will be on the underside. In this module, cracks can appear on the underside of the deck as well as on the support arches/pillars.
 
 ### Bridge Module Three
 
