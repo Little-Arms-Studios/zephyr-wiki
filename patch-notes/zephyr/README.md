@@ -1,5 +1,52 @@
 # 🪽 Zephyr
 
+## v1.8.187
+
+### August 22, 2024
+
+_This update includes exciting new features like Map View and Input Curves, improved lighting in some scenarios, and the customary assortment of bug fixes._
+
+**New Features ✨**
+
+* Map View
+  * Added a Map View option, granting users a top-down view of the scenario
+  * Toggling on Map View is mapped to `M` by default
+    * _**NOTE:**_ If a user has existing custom mapped inputs, they may need to navigate to Main Menu -> Controller -> Mapping and manually set the "Toggle Map" input
+* Thermal Camera
+  * Drone Thermal Camera View is now available as a fully released feature
+  * Toggling thermal vision is mapped to `T` by default
+    * _**NOTE:**_ If a user has existing custom mapped inputs, they may need to navigate to Main Menu -> Controller -> Mapping and manually set the "Toggle Thermal" input
+* Input Curves (Preview)
+  * Added initial implementation of the Input Curve system containing five different profiles. An Input Curve profile changes how sensitive different analog inputs, such as flight and camera controls, are at various stages of input.
+  * While the current system does not allow for editing profiles, future updates to this system will add the ability to manually configure Input Curve profiles
+    * _**NOTE:**_ The "Linear" profile is the standard Input Curve profile
+
+**Improvements** 🙌
+
+* Scenario Updates
+  * Updated lighting across multiple scenarios to improve visual quality
+
+**Bug Fixes 🐛**
+
+* Fixed an issue preventing certain controllers from working on Mac systems
+* Fixed an issue with objective completion timing in the Tutorial and The Yard scenarios
+* Updated objective text descriptions in the Tutorial and The Yard scenarios
+* Fixed an issue where drone camera zoom would persist after switching modules and drones
+* Fixed a visual issue impacting the guide drones for multiple drones
+* Fixed an issue impacting the guide drone for the M200
+* Updated the drone roster for the Zig Zag module in the Parking Lot scenario
+* Fixed floating foliage in the NIST Park scenario
+* Updated the text description for the ANAFI USA
+* Updated all references from Skydio X2D to Skydio X2E
+* Fixed an issue impacting the Basic Training landing modules&#x20;
+* Fixed an issue impacting the Alta X's ability to takeoff in the Bridge Inspection scenario
+* Fixed a visual issue impacting the "ghost drone" in the Ball Collector module in the Kids With Drones scenario
+* Fixed an issue impacting log files displaying erroneous scenario information
+
+Known Issues ❗
+
+* Users with custom input mappings may experience blank mappings for newly added mappable inputs (i.e. "Toggle Map" and "Toggle Thermal")
+
 ## v1.8.171
 
 ### April 15, 2024
@@ -9,19 +56,19 @@ _This update includes a new flyable drone, new UI features, and a multitude of b
 **New Features ✨**
 
 * Gimbal Crosshair
-  * Added a Gimbal Crosshair as a togglabe UI element.  It is disabled by default and can be enabled from the Settings Menu
+  * Added a Gimbal Crosshair as a togglable UI element.  It is disabled by default and can be enabled from the Settings Menu
 * New Flyable Drones
   * Skydio X2D
-    * The rugged and portable X2D was designed with reconnaissance in mind.  This impressive camera ensamble and 35 minutes of flight time make the X2D a desireable option for inspection and patrol tasks.
+    * The rugged and portable X2D was designed with reconnaissance in mind.  This impressive camera ensemble and 35 minutes of flight time make the X2D a desirable option for inspection and patrol tasks.
 * Thermal Vision (Preview)
   * Thermal  Vision drone camera view is now available as a feature preview.  Toggling thermal vision is mapped to `CTRL + T` by default
 
 **Improvements** 🙌
 
 * Scenario Updates
-  * Updated the drone rostsrs of modules sim-wide
+  * Updated the drone rosters of modules sim-wide
 
-**Bug Fixes 🪲**
+**Bug Fixes 🐛**
 
 * Fixed an issue impacting controller mapping where attempting to remap certain commands would freeze the simulator
 * Fixed an issue impacting Xbox One controller usage on Mac systems
@@ -62,7 +109,7 @@ _This update includes a rework to the Tutorial scenario, a new flyable drone, an
 * New Authorization System
   * Integrated Zephyr’s authorization system with new authorization system featured on the Zephyr website.
 
-**Bug Fixes 🪲**
+**Bug Fixes 🐛**
 
 * Fixed an issue preventing modules in the Kids with Drones scenario from launching.
 * Fixed an issue with the implementation of the DJI Matrice.
@@ -76,7 +123,7 @@ _This update includes a rework to the Tutorial scenario, a new flyable drone, an
 
 _This update includes several bug fixes._
 
-**Bug Fixes 🪲**
+**Bug Fixes 🐛**
 
 * Fixed an issue where the gimbal was unresponsive on the Skydio 2.
 * Fixed several configuration issues with the Skydio 2 and Autel Evo 2 that caused the drones to perform below real world performance.
