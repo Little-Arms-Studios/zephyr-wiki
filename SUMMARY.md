@@ -20,6 +20,7 @@
   * [🦖 Little Arms Launcher](patch-notes/little-arms-launcher.md)
   * [🌐 Zephyr Dashboard](patch-notes/zephyr-dashboard/README.md)
     * [💼 Archive](patch-notes/zephyr-dashboard/archive/README.md)
+      * [⭐ v4.2.3](patch-notes/zephyr-dashboard/archive/v4.2.3.md)
       * [⭐ v4.2.2](patch-notes/zephyr-dashboard/archive/v4.2.2.md)
       * [⭐ v4.2.1](patch-notes/zephyr-dashboard/archive/v4.2.1.md)
       * [⭐ v4.2.0](patch-notes/zephyr-dashboard/archive/v4.2.0.md)

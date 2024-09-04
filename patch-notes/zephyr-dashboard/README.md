@@ -1,13 +1,14 @@
 # 🌐 Zephyr Dashboard
 
-## v4.2.3
+## v4.2.4
 
-### August 13, 2024
+### September 4, 2024
 
-**New Features ✨**
+**Changes △**
 
-* Added catalog management to the website
+* Removed access to checkout and payment fields
+* Added Payment Processor change announcement and details page
 
 **Improvements 🙌**
 
-* DLC management
+* Improved capability for Institution Admins to issue Certifications (if permissions allow)
