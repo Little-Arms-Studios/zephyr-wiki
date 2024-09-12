@@ -5,11 +5,9 @@ We employ third party vendors and service providers on our behalf to perform ser
 | Name                      | Description            | Location      |
 | ------------------------- | ---------------------- | ------------- |
 | Amazon Web Services (AWS) | Hosting Provider       | United States |
-| Braintree                 | Payment Processor      | United States |
-| Paypal                    | Payment Processor      | United Stated |
+| Stripe                    | Payment Processor      | United States |
 | Auth0                     | Authentication service | United States |
 | Sendgrid                  | Email infrastructure   | United States |
 | Google Analytics          | Website Analytics      | United States |
 | Hotjar                    | Website Analytics      | United States |
-| SalesLoft                 | Website Analytics      | United States |
 
