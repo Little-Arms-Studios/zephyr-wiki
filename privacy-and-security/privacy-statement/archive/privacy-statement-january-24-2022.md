@@ -1,18 +1,10 @@
-# 🔏 Privacy Statement
+# 🔏 Privacy Statement January 24, 2022
 
-Effective date: **September 13, 2024**
+Effective date: **January 24, 2022**
 
-Little Arms Studios, Inc. ("us", "we", or "our") operates the https://zephyr-sim.com/ website (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+Little Arms Studios, LLC ("us", "we", or "our") operates the https://zephyr-sim.com/ website (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://zephyr-sim.com/termsAndConditions
-
-{% hint style="info" %}
-Summary of Updates and Changes:
-
-* Updated mentions of "Little Arms Studios, LLC" to "Little Arms Studios, Inc."
-* Removes SalesLoft as a service provider
-* Updates Stripe as our payment service provider and removed Paypal/Braintree
-{% endhint %}
 
 ## Definitions
 
@@ -92,7 +84,7 @@ Examples of Cookies we use:
 
 ## Use of Data
 
-Little Arms Studios, Inc. uses the collected data for various purposes:
+Little Arms Studios, LLC uses the collected data for various purposes:
 
 * To provide and maintain our Service
 * To notify you about changes to our Service
@@ -111,9 +103,9 @@ The data we collect is used for a comprehensive and easy experience on our Servi
 
 ## Retention of Data
 
-Little Arms Studios, Inc. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+Little Arms Studios, LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
-Little Arms Studios, Inc. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+Little Arms Studios, LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
 
 {% hint style="warning" %}
 **Plain and Simple**
@@ -129,7 +121,7 @@ If you are located outside United States and choose to provide information to us
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Little Arms Studios, Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Little Arms Studios, LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 {% hint style="warning" %}
 **Plain and Simple**
@@ -141,18 +133,18 @@ We are a U.S. based company with hosting servers located in the U.S. Naturally b
 
 ### Business Transaction
 
-If Little Arms Studios, Inc. is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+If Little Arms Studios, LLC is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
 ### Disclosure for Law Enforcement
 
-Under certain circumstances, Little Arms Studios, Inc. may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Under certain circumstances, Little Arms Studios, LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
 ### Legal Requirements
 
-Little Arms Studios, Inc. may disclose your Personal Data in the good faith belief that such action is necessary to:
+Little Arms Studios, LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 * To comply with a legal obligation
-* To protect and defend the rights or property of Little Arms Studios, Inc.
+* To protect and defend the rights or property of Little Arms Studios, LLC
 * To prevent or investigate possible wrongdoing in connection with the Service
 * To protect the personal safety of users of the Service or the public
 * To protect against legal liability
@@ -160,7 +152,7 @@ Little Arms Studios, Inc. may disclose your Personal Data in the good faith beli
 {% hint style="warning" %}
 **Plain and Simple**
 
-Under a few circumstances we may disclose your data to certain parties. These circumstances include a merger, acquisition or asset sale of Little Arms Studios, Inc. or this Service, law enforcement agency with the proper warrant(s), or various legal situations that may arise.
+Under a few circumstances we may disclose your data to certain parties. These circumstances include a merger, acquisition or asset sale of Little Arms Studios, LLC or this Service, law enforcement agency with the proper warrant(s), or various legal situations that may arise.
 {% endhint %}
 
 ## Security of Data
@@ -187,13 +179,13 @@ We do not handle "Do Not Track" requests on our website. We might in the future,
 
 ## Your Rights
 
-Little Arms Studios, Inc. aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us at [privacy@littlearms.com](mailto:privacy@littlearms.com).
+Little Arms Studios, LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us at [privacy@littlearms.com](mailto:privacy@littlearms.com).
 
 * To access and receive a copy of the Personal Data we hold about you
 * To rectify any Personal Data held about you that is inaccurate
 * To request the deletion of Personal Data held about you
 
-You have the right to data portability for the information you provide to Little Arms Studios, Inc. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
+You have the right to data portability for the information you provide to Little Arms Studios, LLC. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
 
 Please note that we may ask you to verify your identity before responding to such requests.
 
@@ -221,6 +213,10 @@ Google Analytics is a web analytics service offered by Google that tracks and re
 
 We use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users’ experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices. This includes a device's IP address (processed during your session and stored in a de-identified form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), and the preferred language used to display our website. Hotjar stores this information on our behalf in a pseudonymized user profile. Hotjar is contractually forbidden to sell any of the data collected on our behalf. For further details, please see the ‘about Hotjar’ section of [Hotjar’s support site.](https://help.hotjar.com/hc/en-us/categories/115001323967-About-Hotjar)
 
+#### SalesLoft
+
+We use SalesLoft to better understand how prospects and customers use and interact with our website. With this information, we can make improvements to the user experience of the platform and adjust offerings to better fit customers' needs. SalesLoft uses cookies to anonymously collect and track data on users' behavior and interactions with the platform. For more information, please see the [SalesLoft website.](https://salesloft.com/)
+
 ### Payments
 
 We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
@@ -229,12 +225,12 @@ We will not store or collect your payment card details. That information is prov
 
 The payment processors we work with are:
 
-* **Stripe** Their Privacy Policy can be viewed [here](https://stripe.com/privacy).
+* **PayPal or Braintree** Their Privacy Policy can be viewed [here](https://www.paypal.com/webapps/mpp/ua/privacy-full).
 
 {% hint style="warning" %}
 **Plain and Simple**
 
-Some things we just can not do on our own. In these cases, we research and choose a reliable and secure third party service to handle these tasks. Currently we use Google Analytics, and Hotjar for usage data and Stripe for payment processing. Their policy links are listed on the left.
+Some things we just can not do on our own. In these cases, we research and choose a reliable and secure third party service to handle these tasks. Currently we use Google Analytics, Hotjar, and SalesLoft for usage data and Braintree for payment processing. Their policy links are listed on the left.
 {% endhint %}
 
 ## Links to Other Sites
