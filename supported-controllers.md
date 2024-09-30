@@ -13,7 +13,7 @@ Unfortunately Most DJI Controllers are not compatible with Zephyr at this time. 
 * FlySky FS-i6s\*
 * ORQA FPV.Ctrl\*
 * BETAFPV LiteRadio 3\*
-* DJI FPV Controller 2\*
+* DJI FPV Remote Controller 2\*
 * Dynam RC-Tech USB Controller\*
 * FatShark 101 Radio\*
 * FT Aviator E581 \[PC only]\*
