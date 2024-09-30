@@ -3,7 +3,7 @@ description: >-
   Inspecting hard-to-reach or dangerous areas safely is a major benefit of using
   drones. This scenario provides practical experience for those looking to
   perform professional bridge safety inspections.
-cover: ../../.gitbook/assets/image (9).png
+cover: ../../.gitbook/assets/image (11).png
 coverY: 227.81866666666664
 layout:
   cover:
@@ -27,11 +27,11 @@ layout:
 
 The Bridge Inspection scenario is designed to expose the pilot to flying with the intention of inspecting various parts of a bridge. In this tutorial we will walk you through how to identify cracks on the bridge, how to capture the cracks, and the differences between the learning modules.
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
 
 ## Module Breakdowns
 
@@ -41,7 +41,7 @@ Each bridge module will have a certain number of cracks for the pilot to find an
 
 Here are a few examples of cracks you could find in the Bridge scenario.
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 
 Cracks can be found on the top and underneath the deck of the bridge and the sides and inner arches of the foundations/piers of the bridge.
 
@@ -51,7 +51,7 @@ To capture a crack, align your drone so that the crack is in full view of the dr
 
 Note: for cracks on the top deck of the bridge, you can successfully capture from a high altitude. For cracks on the underside of the deck and the sides and arches of the foundations/piers, you will need to be relatively close to the crack to successfully capture.
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You have unlimited capture attempts for any given crack.

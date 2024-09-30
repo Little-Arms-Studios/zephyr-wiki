@@ -3,7 +3,7 @@ description: >-
   Do you fancy yourself an advanced drone operator? Prove it by mastering the
   Flight Path Practice scenario, where each module is designed to stress even
   advanced users.
-cover: ../../.gitbook/assets/image (60).png
+cover: ../../.gitbook/assets/image (228).png
 coverY: 99.26666666666667
 layout:
   cover:
@@ -32,11 +32,11 @@ The Flight Path Practice scenario consists of four modules:
 3. Rectangle
 4. Circuit
 
-<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 ## Module Breakdowns
 
@@ -53,9 +53,9 @@ The Objectives in Out and Back that you need to complete are:
 5. Hold and hover at 6.5ft in the center of the ring
 6. Land the drone as closely as you can to the center of the starting point
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ### Figure 8
 
@@ -68,9 +68,9 @@ The objectives in Figure 8 you'll need to complete are:
    1. Fly a figure 8 along the path. Hover back in the center when you are done
 3. Land the drone at the starting point
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 ### Rectangle
 
@@ -82,9 +82,9 @@ The objectives in Rectangle you'll need to complete are:
 2. Fly a rectangle
 3. Land the drone at the starting point
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 ### Circuit
 
@@ -96,8 +96,8 @@ The objectives in Circuit you'll need to complete are:
 2. Fly a circuit
 3. Land the drone at the starting point
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>

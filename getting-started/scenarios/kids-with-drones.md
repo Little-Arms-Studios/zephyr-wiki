@@ -3,7 +3,7 @@ description: >-
   Kids with Drones is a special scenario developed to show children the fun of
   piloting a drone. This scenario features basic training, exciting games, and
   the ability to select your pilot.
-cover: ../../.gitbook/assets/image (61).png
+cover: ../../.gitbook/assets/image (229).png
 coverY: 0
 layout:
   cover:
@@ -39,18 +39,18 @@ The Kids with Drones scenario consists of eleven modules:
 10. Game 02: Pass Through the Wall
 11. Game 03: Ball Collector
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
 ## Pilot Selection
 
 |                                                                               |                                                                               |   |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | - |
-| <img src="../../.gitbook/assets/image (121).png" alt="" data-size="original"> | <img src="../../.gitbook/assets/image (120).png" alt="" data-size="original"> |   |
-| <img src="../../.gitbook/assets/image (123).png" alt="" data-size="original"> | <img src="../../.gitbook/assets/image (122).png" alt="" data-size="original"> |   |
+| <img src="../../.gitbook/assets/image (289).png" alt="" data-size="original"> | <img src="../../.gitbook/assets/image (288).png" alt="" data-size="original"> |   |
+| <img src="../../.gitbook/assets/image (291).png" alt="" data-size="original"> | <img src="../../.gitbook/assets/image (290).png" alt="" data-size="original"> |   |
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 ## Module Breakdowns
 

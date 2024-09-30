@@ -88,14 +88,15 @@
 
 * [💸 Enterprise Billing](learning-management-system/enterprise-billing.md)
 * [🧑‍🎓 Courses](learning-management-system/courses.md)
+* [📑 Assignments](learning-management-system/assignments.md)
 
 ## 🏅 Certifications
 
 * [📚 Overview](certifications/overview.md)
-* [🛩️ Attempt A Certification](certifications/instructions/attempt-a-certification.md)
+* [🛩️ Attempt A Certification](certifications/attempt-a-certification.md)
 * [❓ Certification FAQ](certifications/certification-faq.md)
-* [📝 Reviewing A Certification](certifications/instructions/reviewer/README.md)
-  * [📧 Email Events](certifications/instructions/reviewer/email-events.md)
+* [📝 Reviewing A Certification](certifications/reviewing-a-certification/README.md)
+  * [📧 Email Events](certifications/reviewing-a-certification/email-events.md)
   * [❓ Reviewer FAQ](certifications/reviewing-a-certification/reviewer-faq.md)
 * [✅ Verify A Certification](certifications/verify-a-certification.md)
 

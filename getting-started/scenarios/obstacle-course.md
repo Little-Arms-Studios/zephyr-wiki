@@ -2,7 +2,7 @@
 description: >-
   The Obstacle Course scenario is a time trial where operators pilot their drone
   through a tense, tightly-packed course.
-cover: ../../.gitbook/assets/image (55).png
+cover: ../../.gitbook/assets/image (223).png
 coverY: 0
 layout:
   cover:
@@ -29,11 +29,11 @@ The Obstacle Course scenario consists of two modules:
 1. Free Flight
 2. Timed Race
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 ## Module Breakdowns
 
@@ -41,14 +41,14 @@ The Obstacle Course scenario consists of two modules:
 
 Complete the race track as quickly as possible! The entire module will be flown in first person perspective using the drone's camera.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
