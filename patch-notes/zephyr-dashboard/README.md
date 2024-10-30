@@ -1,9 +1,25 @@
 # 🌐 Zephyr Dashboard
 
-## v4.2.6
+## v5.1.0
 
-### September 20, 2024
+### October 28, 2024
 
-**Changes △**
+**This was a big one! We added a couple heavily requested organization features with this update and finalized some billing and organization structure tweaks after the Stripe release.**
 
-* Updated language on payment processor change notice page to reflect the missed Sept 20th release deadline
+**New Features ✨**
+
+* Introduced Password Rotation Policies to organizations
+* Introduced a K12 flag to organizations to handle student accounts in compliance with COPPA
+* Separate fields for billing and shipping addresses on organizations
+* Added Stripe ID input field on organization creation. Allows for linking of multiple organizations to a single Stripe customer
+
+**Improvements** :raised\_hands:
+
+* Added the organization's billing type to display on Institution Admin's dashboard sidebar
+* Added details and convenience options for Admins on the Invites table
+
+**Bug Fixes 🪲**
+
+* "My Orders" table "Price" column was displaying incorrect value
+* Drone Logbook linking button disabled by mistake
+* Table sorting with specific data on progressive and legacy table types

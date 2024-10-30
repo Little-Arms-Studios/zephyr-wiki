@@ -6,11 +6,12 @@
 2. Click the User Settings option
    1. Click your portrait on the left-hand menu
    2. Or click the “Settings Cog” in the nav bar
-3. Scroll down to the Drone Logbook section and click “Link Drone Logbook Account”
+3. Click "Linked Accounts"
+4. Click "Link" next to the DroneLogbook entry
+   1.
 
-<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
-
-4. &#x20;Enter your Drone Logbook login information in the Link Drone Logbook Account window
+       <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+5. &#x20;Enter your Drone Logbook login information in the Link Drone Logbook Account window
 
 <figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,9 +31,8 @@ If successful, your Zephyr and Drone Logbook accounts will now be linked. Every 
 2. Click the User Settings option
    1. Click your portrait on the left-hand menu
    2. Or click the “Settings Cog” in the nav bar
-3. Scroll down to the Drone Logbook section and click “Unlink Drone Logbook Account”
-
-<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+3. Click "Linked Accounts"
+4. Click the "Unlink" button next to the DroneLogbook entry
 
 {% hint style="success" %}
 Your Drone Logbook account is now unlinked from your Zephyr account

@@ -20,6 +20,7 @@
   * [🦖 Little Arms Launcher](patch-notes/little-arms-launcher.md)
   * [🌐 Zephyr Dashboard](patch-notes/zephyr-dashboard/README.md)
     * [💼 Archive](patch-notes/zephyr-dashboard/archive/README.md)
+      * [⭐ v4.2.6](patch-notes/zephyr-dashboard/archive/v4.2.6.md)
       * [⭐ v4.2.5](patch-notes/zephyr-dashboard/archive/v4.2.5.md)
       * [⭐ v4.2.4](patch-notes/zephyr-dashboard/archive/v4.2.4.md)
       * [⭐ v4.2.3](patch-notes/zephyr-dashboard/archive/v4.2.3.md)
@@ -82,7 +83,21 @@
   * [⭐ Arrowhead](getting-started/drones/arrowhead.md)
   * [⭐ Matrice](getting-started/drones/matrice.md)
   * [⭐ Matrice 30](getting-started/drones/matrice-30.md)
-* [🛂 Controller Configuration](getting-started/controller-configuration.md)
+* [🛂 Controller Configuration](getting-started/controller-configuration/README.md)
+  * [FS-i6s Controller Setup](https://youtu.be/TDcRAayNbqg?si=wE6pzA\_TPtUSJrfo)
+
+## 👤 ACCOUNT MANAGEMENT
+
+* [User Settings](account-management/user-settings/README.md)
+  * [General](account-management/user-settings/general.md)
+  * [Address](account-management/user-settings/address.md)
+  * [Appearance](account-management/user-settings/appearance.md)
+  * [Security](account-management/user-settings/security.md)
+  * [Public Profile](account-management/user-settings/public-profile.md)
+  * [Linked Accounts](account-management/user-settings/linked-accounts.md)
+  * [Payment Methods](account-management/user-settings/payment-methods.md)
+  * [Communication](account-management/user-settings/communication.md)
+* [Public Profile Page](account-management/public-profile-page.md)
 
 ## 🎓 Learning Management System
 
