@@ -88,6 +88,7 @@
 
 ## 👤 ACCOUNT MANAGEMENT
 
+* [Account Overview](account-management/account-overview.md)
 * [User Settings](account-management/user-settings/README.md)
   * [General](account-management/user-settings/general.md)
   * [Address](account-management/user-settings/address.md)
