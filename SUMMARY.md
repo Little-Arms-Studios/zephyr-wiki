@@ -84,7 +84,7 @@
   * [⭐ Matrice](getting-started/drones/matrice.md)
   * [⭐ Matrice 30](getting-started/drones/matrice-30.md)
 * [🛂 Controller Configuration](getting-started/controller-configuration/README.md)
-  * [FS-i6s Controller Setup](https://youtu.be/TDcRAayNbqg?si=wE6pzA\_TPtUSJrfo)
+  * [FS-i6s Controller Setup](https://youtu.be/TDcRAayNbqg?si=wE6pzA_TPtUSJrfo)
 
 ## 👤 ACCOUNT MANAGEMENT
 
@@ -102,7 +102,8 @@
 
 ## 🎓 Learning Management System
 
-* [💸 Enterprise Billing](learning-management-system/enterprise-billing.md)
+* [💲 Enterprise Billing](learning-management-system/enterprise-billing.md)
+* [🪪 Site License](learning-management-system/site-license.md)
 * [🧑‍🎓 Courses](learning-management-system/courses.md)
 * [📑 Assignments](learning-management-system/assignments.md)
 

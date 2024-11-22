@@ -6,9 +6,9 @@
 
 ## Upcoming Features
 
-| Feature                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <mark style="color:orange;">**\[Sim]**</mark>** **<mark style="color:yellow;">**\[Launcher]**</mark> Splitting up Scenarios into Downloadable Content |
+| Feature                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:orange;">**\[Sim]**</mark>**&#x20;**<mark style="color:yellow;">**\[Launcher]**</mark> Splitting up Scenarios into Downloadable Content |
 
 ## Released Features
 

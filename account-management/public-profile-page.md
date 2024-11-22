@@ -1,6 +1,6 @@
 ---
-description: User's public profile page settings and display
 icon: user
+description: User's public profile page settings and display
 ---
 
 # Public Profile Page
@@ -14,7 +14,7 @@ Zephyr provides users a way to display and link to their public profile. Disable
 
 **To edit and view your public profile settings**, click "View Public Profile" under the User Settings/Public Profile pane or click "Public Profile" underneath the profile picture on your dashboard.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Edit User Public Profile Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Edit User Public Profile Page</p></figcaption></figure>
 
 ### Privacy Settings
 
