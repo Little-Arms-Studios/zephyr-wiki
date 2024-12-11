@@ -23,7 +23,7 @@ Unfortunately Most DJI Controllers are not compatible with Zephyr at this time. 
 * iFlight iF8 \[PC only]\*
 * Radiomaster T8 \[PC only]\*
 * Spektrum \[PC only]\*
-* Spektrum Interlink DS \[PC only]\*
+* Spektrum Interlink DX \[PC only]\*
 * Tactic InterLink X\*
 * Taranis\* (and possibly other OpenTX controllers)
 * Volantex RC Controller \[PC only]\*
@@ -73,9 +73,9 @@ Zephyr supports other controllers that use OpenTX; however, they may require reb
 {% endhint %}
 
 {% hint style="info" %}
-To get [XBox 360](https://www.amazon.com/Microsoft-Wired-Controller-Windows-Console/dp/B004QRKWLA/ref=sr\_1\_1?s=electronics\&ie=UTF8\&qid=1473869104\&sr=1-1\&keywords=xbox+360+wired) and [XBox One](https://www.amazon.com/Microsoft-Xbox-Controller-Cable-Windows/dp/B00O65I2VY) controllers to work on older Intel-based macOS versions (before macOS 11 Big Sur), you need to download a [Third Party Software.](https://github.com/360Controller/360Controller/releases)  As stated in the git repository this will not work on anything after macOS Catalina (10.15.x) and is not supported anymore.
+To get [XBox 360](https://www.amazon.com/Microsoft-Wired-Controller-Windows-Console/dp/B004QRKWLA/ref=sr_1_1?s=electronics\&ie=UTF8\&qid=1473869104\&sr=1-1\&keywords=xbox+360+wired) and [XBox One](https://www.amazon.com/Microsoft-Xbox-Controller-Cable-Windows/dp/B00O65I2VY) controllers to work on older Intel-based macOS versions (before macOS 11 Big Sur), you need to download a [Third Party Software.](https://github.com/360Controller/360Controller/releases)  As stated in the git repository this will not work on anything after macOS Catalina (10.15.x) and is not supported anymore.
 
-1. Download the [360ControllerInstall\_0.16.4.dmg](https://github.com/360Controller/360Controller/releases/download/v0.16.4/360ControllerInstall\_0.16.4.dmg)
+1. Download the [360ControllerInstall\_0.16.4.dmg](https://github.com/360Controller/360Controller/releases/download/v0.16.4/360ControllerInstall_0.16.4.dmg)
 2. Double click the file to install
 3. Launch the application (it will be stored in your System Preferences called "XBox 360 Controllers")
 4. Plug your XBox 360 or XBox One controller into your Mac (if it is not already).
