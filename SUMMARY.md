@@ -121,6 +121,10 @@
 
 * [📒 Drone Logbook](integrations/drone-logbook.md)
 
+## 🖥️ HARDWARE LICENSES
+
+* [🪪 Hardware License](hardware-licenses/hardware-license.md)
+
 ## 🕵️ Privacy and Security
 
 * [🔐 Security](privacy-and-security/security/README.md)
