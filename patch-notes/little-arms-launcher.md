@@ -1,4 +1,85 @@
-# 🦖 Little Arms Launcher
+---
+icon: t-rex
+---
+
+# Little Arms Launcher
+
+## v0.11.0 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+
+### December 18, 2024 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+
+_This update introduces support for hardware licenses._
+
+**New Features ✨**
+
+* Added the ability to register your device and acquire a hardware license through a supported institution. Using the Little Arms Launcher with a valid hardware license grants access to its associated content, in addition to any content you currently have access to when running Zephyr.
+
+
+
+## v0.10.3 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+
+### December 3, 2024 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+
+_This update introduces social provider support and improvements to the launcher._
+
+**New Features ✨**
+
+* Initial support for SSO
+
+**Improvements 🙌**
+
+* Updated auth0 development domain
+
+**Bug Fixes 🪲**
+
+* Login issue that would result in erroneous error if a previous login attempt had been canceled
+
+
+
+## v0.9.2 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+
+### October 16, 2024 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+
+_This update is primarily a fix for list-drives functionality on macOS_
+
+**Improvements 🙌**
+
+* SCSS related dependency updates
+
+**Bug Fixes 🪲**
+
+* list-drives functionality on macOS where process could hand when using diskutil
+
+
+
+## v0.9.0 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+
+### August 20, 2024 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+
+_This update includes some bug fixes and improvements to the Launcher_
+
+**Improvements 🙌**
+
+* General project cleanup
+* Updated node version to 18.18.0
+* Updates listProcess errors to be more comprehensive
+* Error log fetching and zip submission for reporting payload
+* Addressables system updates
+* Fallback functionality to app update process
+
+**New Features ✨**
+
+* New Dev Mode feature
+
+**Bug Fixes 🪲**
+
+* Partitions list from diskutil in list-drives
+* App install issue related to DLC folder existence
+* Logic issue with app update map creation
+* URL generation for API requests
+* Improper channel value being sent in API requests
+
+
 
 ## v0.8.62 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
 

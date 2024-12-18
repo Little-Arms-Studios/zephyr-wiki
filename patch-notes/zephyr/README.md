@@ -1,4 +1,8 @@
-# 🪽 Zephyr
+---
+icon: drone
+---
+
+# Zephyr
 
 ## v1.8.187
 

@@ -1,25 +1,24 @@
-# 🌐 Zephyr Dashboard
+---
+icon: globe-pointer
+---
 
-## v5.1.0
+# Zephyr Dashboard
 
-### October 28, 2024
+## v5.3.0
 
-**This was a big one! We added a couple heavily requested organization features with this update and finalized some billing and organization structure tweaks after the Stripe release.**
+### December 18, 2024
+
+**Introduced another feature to the website, Hardware Licenses.**&#x20;
 
 **New Features ✨**
 
-* Introduced Password Rotation Policies to organizations
-* Introduced a K12 flag to organizations to handle student accounts in compliance with COPPA
-* Separate fields for billing and shipping addresses on organizations
-* Added Stripe ID input field on organization creation. Allows for linking of multiple organizations to a single Stripe customer
+* Hardware Licenses: organizations can be created with hardware licenses enabled. Restricting them to specific devices.
 
 **Improvements** :raised\_hands:
 
-* Added the organization's billing type to display on Institution Admin's dashboard sidebar
-* Added details and convenience options for Admins on the Invites table
+* Table filter improvements to allow hidden property based on conditions
 
 **Bug Fixes 🪲**
 
-* "My Orders" table "Price" column was displaying incorrect value
-* Drone Logbook linking button disabled by mistake
-* Table sorting with specific data on progressive and legacy table types
+* Mass adding drones to products
+* DOB Year in the user settings modal
