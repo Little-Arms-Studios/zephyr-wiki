@@ -1,5 +1,5 @@
 ---
-icon: t-rex
+icon: rocket-launch
 ---
 
 # Little Arms Launcher
