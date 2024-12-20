@@ -55,3 +55,4 @@ Known Issues ❗
 
 * Due to engine changes, users may experience a warning message the first time they log in to Zephyr after the update. This warning message is caused by changes to the grass system and will go away after the user changes their grass setting to a supported option.
 * There is a graphical issue impacting the water on The Island scenario
+* The grass system has been disabled on Mac platform due to a performance issue. We will address this issue with an update in the new year.
