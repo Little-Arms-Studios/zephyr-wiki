@@ -139,13 +139,20 @@
 * [🔏 Privacy Statement](privacy-and-security/privacy-statement/README.md)
   * [🍪 Cookies](privacy-and-security/privacy-statement/cookies.md)
   * [💼 Archive](privacy-and-security/privacy-statement/archive/README.md)
+    * [🔏 Privacy Statement September 13, 2024](privacy-and-security/privacy-statement/archive/privacy-statement-september-13-2024.md)
     * [🔏 Privacy Statement January 24, 2022](privacy-and-security/privacy-statement/archive/privacy-statement-january-24-2022.md)
     * [🔏 Privacy Statement May 26, 2018](privacy-and-security/privacy-statement/archive/privacy-statement-may-26-2018.md)
     * [🔏 Privacy Statement July 28, 2016](privacy-and-security/privacy-statement/archive/privacy-statement-july-28-2016.md)
 
 ## 📜 Policies
 
-* [📃 Terms of Service](policies/terms-of-service.md)
+* [📃 Terms of Service](policies/terms-of-service/README.md)
+  * [📄 Zephyr Website Terms of Service](policies/terms-of-service/zephyr-website-terms-of-service/README.md)
+    * [💼 Website Terms of Service Archive](policies/terms-of-service/zephyr-website-terms-of-service/website-terms-of-service-archive.md)
+  * [📄 Zephyr Simulator End User License Agreement](policies/terms-of-service/zephyr-simulator-end-user-license-agreement/README.md)
+    * [💼 Zephyr EULA Archive](policies/terms-of-service/zephyr-simulator-end-user-license-agreement/zephyr-eula-archive.md)
+  * [💼 Terms of Service Archive](policies/terms-of-service/terms-of-service-archive/README.md)
+    * [Terms of Service July 28, 2016](policies/terms-of-service/terms-of-service-archive/terms-of-service-july-28-2016.md)
 * [🚚 Shipping Policy](policies/shipping-policy.md)
 * [↩️ Return Policy](policies/return-policy.md)
 

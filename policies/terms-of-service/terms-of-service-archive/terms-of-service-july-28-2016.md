@@ -1,4 +1,4 @@
-# 📃 Terms of Service
+# Terms of Service July 28, 2016
 
 ## Website
 
