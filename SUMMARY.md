@@ -50,6 +50,7 @@
   * [⭐ Distributing Little Arms Launcher and Zephyr](getting-started/little-arms-launcher/distributing-little-arms-launcher-and-zephyr.md)
   * [⭐ Microsoft's Configuration Manager](getting-started/little-arms-launcher/microsofts-configuration-manager.md)
   * [⭐ Deployment Strategy using Mapped Network Drive](getting-started/little-arms-launcher/deployment-strategy-using-mapped-network-drive.md)
+  * [⚙️ Advanced Settings](getting-started/little-arms-launcher/advanced-settings.md)
 * [🌌 Scenarios](getting-started/scenarios/README.md)
   * [🏀 Tutorial](getting-started/scenarios/tutorial.md)
   * [🔰 Basic Training](getting-started/scenarios/basic-training.md)
