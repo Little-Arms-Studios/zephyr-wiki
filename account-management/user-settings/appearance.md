@@ -24,4 +24,4 @@ The second options pertain to the width of content on the website:
 * Full: uses all horizontal space on the screen to fit content
 * Regular: sets a maximum width for content to fit within
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>User Settings Pane for Appearance</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>User Settings Pane for Appearance</p></figcaption></figure>
