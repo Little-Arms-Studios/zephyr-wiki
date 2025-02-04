@@ -80,7 +80,3 @@ End User hereby acknowledges that he/she has read and understands the foregoing 
 ## Contact Us
 
 If you have any questions about this EULA, please contact us by visiting [https://zephyr-sim.com/contact](https://zephyr-sim.com/contact)
-
-### Zephyr Website Terms of Service
-
-If you are looking for the Zephyr Website Terms of Service, they can be found here: [zephyr-website-terms-of-service](../zephyr-website-terms-of-service/ "mention")

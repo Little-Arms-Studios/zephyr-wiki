@@ -92,7 +92,3 @@ By continuing to access or use our Service after any revisions become effective,
 
 If you have any questions about these Terms, please contact us at privacy@littlearms.com.
 
-### Zephyr End User License Agreement
-
-If you are looking for the Zephyr Simulator End User License Agreement, you can find it here: [zephyr-simulator-end-user-license-agreement](../zephyr-simulator-end-user-license-agreement/ "mention")
-
