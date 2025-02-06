@@ -4,21 +4,21 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v5.3.0
+## v5.4.0
 
-### December 18, 2024
+### February 6, 2025
 
-**Introduced another feature to the website, Hardware Licenses.**&#x20;
+**Introduced another feature to the website, Offline Mode. Also updated Terms of Service and EULA and added a few bug fixes and quality of life updates**
 
 **New Features ✨**
 
-* Hardware Licenses: organizations can be created with hardware licenses enabled. Restricting them to specific devices.
+* Offline Mode: organizations can be created with offline mode enabled. This will allow certain customers the ability to use Zephyr without an internet connection
 
 **Improvements** :raised\_hands:
 
-* Table filter improvements to allow hidden property based on conditions
+* Added course details on invites table
 
 **Bug Fixes 🪲**
 
-* Mass adding drones to products
-* DOB Year in the user settings modal
+* Prorated calculation on site license add licenses
+* Report Request modal fixed users count on user selection
