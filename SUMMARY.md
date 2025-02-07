@@ -53,6 +53,7 @@
   * [⭐ Microsoft's Configuration Manager](getting-started/little-arms-launcher/microsofts-configuration-manager.md)
   * [⭐ Deployment Strategy using Mapped Network Drive](getting-started/little-arms-launcher/deployment-strategy-using-mapped-network-drive.md)
   * [⚙️ Advanced Settings](getting-started/little-arms-launcher/advanced-settings.md)
+  * [App Settings](getting-started/little-arms-launcher/app-settings.md)
 * [🌌 Scenarios](getting-started/scenarios/README.md)
   * [🏀 Tutorial](getting-started/scenarios/tutorial.md)
   * [🔰 Basic Training](getting-started/scenarios/basic-training.md)

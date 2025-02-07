@@ -4,6 +4,23 @@ icon: rocket-launch
 
 # Little Arms Launcher
 
+## v0.12.0 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+
+### February 7, 2025
+
+_This update introduces support for offline mode, remember me, command line arguments, native window login fallback option, and application version management._
+
+**New Features ✨**
+
+* Added the ability to register your device to run in offline mode if permitted.
+* Added a "remember me" option (and a way to disable it)
+* Added support for command line arguments for launching the launcher
+* Added an option to enable "application version management" to the end user
+
+**Improvements 🙌**
+
+* Logging updates to better track and understand common launcher problems users have encountered
+
 ## v0.11.0 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
 
 ### December 18, 2024 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>

@@ -18,7 +18,7 @@ Your platform will be automatically detected if you are using Windows or macOS a
 
 Navigate to where you downloaded the `Little Arms Launcher Setup x.x.x.exe` and double click on it.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If prompted&#x20;
 
