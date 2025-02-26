@@ -254,3 +254,13 @@ The only information that’s required to register an account on Zephyr is an em
 * port 443
 
 </details>
+
+<details>
+
+<summary>Why does the F1 key on my keyboard not work for Flight Mode Switching?</summary>
+
+This issue is most often caused by Zephyr detecting an active-but-unreleased pressing of the Flight Mode Switch command, usually from a controller with toggle switches like the FS-i6s. This active input prevents Zephyr from reading the input of your F1 key, as the system reads that same command as already being entered. Setting the toggle switch to a neutral state will stop the Flight Mode Switch input, allowing the F1 input to work
+
+Alternatively, setting the toggle switch to neutral and then returning it to the Flight Mode Switch position will achieve the same result as pressing F1 on your keyboard.
+
+</details>
