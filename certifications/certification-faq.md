@@ -24,7 +24,7 @@ Yes. If you do not already have a Zephyr account, you will be prompted to regist
 
 <details>
 
-<summary>How do i receive my certification?</summary>
+<summary>How do I receive my certification?</summary>
 
 You will receive a digital copy of your certification once it is approved. You can also view and show your certification status through your Zephyr Public Profile page. To view and modify your Zephyr Public Profile settings, log in to your Zephyr account and click the "Settings" (Cog) icon in the navigation bar on the top of the screen.
 
