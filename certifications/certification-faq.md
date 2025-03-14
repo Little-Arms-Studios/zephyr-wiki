@@ -1,4 +1,4 @@
-# ❓ Certifications
+# ❓ Certification FAQ
 
 Still not finding what your looking for? Contact us at [support@littlearms.com](mailto:support@littlearms.com) with your support question.  We will respond as soon as we receive your message.
 
@@ -75,3 +75,30 @@ In the event that your certification attempt is denied, you will need to repurch
 If you receive a notification that your certification is "Awaiting Reattempt", that means that the reviewer found a minor issue with your submission and is allowing you to reattempt the certification without requiring another certification purchase. The reviewer will provide notes that will contain details on why the attempt was temporarily denied.
 
 </details>
+
+### BPERP Certification Questions
+
+<details>
+
+<summary>Does the entire attempt need to be completed in one sitting?</summary>
+
+Yes
+
+</details>
+
+<details>
+
+<summary>What do I need to score in order to pass?</summary>
+
+You need a minimum of 80% (or 32 successful captures)
+
+</details>
+
+<details>
+
+<summary>Is there a time limit?</summary>
+
+Yes, you need to complete your run within 10 minutes
+
+</details>
+
