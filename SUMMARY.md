@@ -116,6 +116,7 @@
 * [🪪 Site License](learning-management-system/site-license.md)
 * [🧑‍🎓 Courses](learning-management-system/courses.md)
 * [📑 Assignments](learning-management-system/assignments.md)
+* [Data Removal](learning-management-system/data-removal.md)
 
 ## 🏅 Certifications
 
