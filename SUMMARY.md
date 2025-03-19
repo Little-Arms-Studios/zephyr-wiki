@@ -24,6 +24,7 @@
   * [Little Arms Launcher](patch-notes/little-arms-launcher.md)
   * [Zephyr Dashboard](patch-notes/zephyr-dashboard/README.md)
     * [💼 Archive](patch-notes/zephyr-dashboard/archive/README.md)
+      * [⭐ v5.4.0](patch-notes/zephyr-dashboard/archive/v5.4.0.md)
       * [⭐ v5.3.1](patch-notes/zephyr-dashboard/archive/v5.3.1.md)
       * [⭐ v5.3.0](patch-notes/zephyr-dashboard/archive/v5.3.0.md)
       * [⭐ v5.2.0](patch-notes/zephyr-dashboard/archive/v5.2.0.md)

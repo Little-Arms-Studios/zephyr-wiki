@@ -4,21 +4,20 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v5.4.0
+## v5.5.0
 
-### February 6, 2025
+### March 19, 2025
 
-**Introduced another feature to the website, Offline Mode. Also updated Terms of Service and EULA and added a few bug fixes and quality of life updates**
+**Introduced another feature to the website, Organization Trial Period, and augmented the Organization, Course, and User deletion processes.**
 
 **New Features ✨**
 
-* Offline Mode: organizations can be created with offline mode enabled. This will allow certain customers the ability to use Zephyr without an internet connection
+* Organization Trial Period: added support for organizations to be created in trial periods
+* Organization Deletion: added support for an organization to be deleted
 
 **Improvements** :raised\_hands:
 
-* Added course details on invites table
-
-**Bug Fixes 🪲**
-
-* Prorated calculation on site license add licenses
-* Report Request modal fixed users count on user selection
+* Reordered quick dashboard buttons to a more logical order
+* Updated sales phone number on contact page
+* Bug fixed Certifications page FAQs and broken link
+* Removed unused dependencies
