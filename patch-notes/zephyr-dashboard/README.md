@@ -4,20 +4,17 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v5.5.0
+## v5.5.1
 
-### March 19, 2025
+### March 20, 2025
 
-**Introduced another feature to the website, Organization Trial Period, and augmented the Organization, Course, and User deletion processes.**
+**Minor bug fixes**
 
-**New Features ✨**
+**Bug Fixes 🪲**
 
-* Organization Trial Period: added support for organizations to be created in trial periods
-* Organization Deletion: added support for an organization to be deleted
+* Student pays checkout process
+* Product management modal - prices
 
 **Improvements** :raised\_hands:
 
-* Reordered quick dashboard buttons to a more logical order
-* Updated sales phone number on contact page
-* Bug fixed Certifications page FAQs and broken link
-* Removed unused dependencies
+* Optimizations within the project. Removed redundant screens
