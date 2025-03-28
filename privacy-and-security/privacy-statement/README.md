@@ -18,7 +18,7 @@ Summary of Updates and Changes:
 * Clarified “Changes To This Privacy Policy” section
 {% endhint %}
 
-## Information We Collect And Use <a href="#definitions" id="definitions"></a>
+## Information We Collect And Use
 
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
