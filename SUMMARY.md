@@ -95,7 +95,7 @@
   * [⭐ Arrowhead](getting-started/drones/arrowhead.md)
   * [⭐ Matrice](getting-started/drones/matrice.md)
   * [⭐ Matrice 30](getting-started/drones/matrice-30.md)
-* [🛂 Controller Configuration](getting-started/controller-configuration/README.md)
+* [🕹️ Controller Configuration](getting-started/controller-configuration/README.md)
   * [FS-i6s Controller Setup](https://youtu.be/TDcRAayNbqg?si=wE6pzA_TPtUSJrfo)
 
 ## 👤 ACCOUNT MANAGEMENT
@@ -168,4 +168,4 @@
 * [⁉️ FAQs](help/faqs.md)
 * [🦖 Little Arms Studios](help/little-arms-studios.md)
 * [🛟 Support](https://support.zephyr-sim.com)
-* [🌀 Status](https://zephyr.statuspage.io)
+* [🌀 Status](https://status.zephyr-sim.com)

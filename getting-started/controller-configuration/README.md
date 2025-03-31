@@ -4,7 +4,7 @@ description: >-
   Settings menu in Zephyr.
 ---
 
-# 🛂 Controller Configuration
+# 🕹️ Controller Configuration
 
 ## Navigating to Controller Settings
 
