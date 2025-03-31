@@ -4,17 +4,17 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v5.5.1
+## v5.5.4
 
-### March 20, 2025
+### March 31, 2025
 
-**Minor bug fixes**
+**Bug fixes and improvements to Report Request and Assign Licenses modal**
 
 **Bug Fixes 🪲**
 
-* Student pays checkout process
-* Product management modal - prices
+* Report Request: you can now request reports for all reports, not just completed vs. incomplete
+* Assign Licenses: bug fixes duplicate entries and added an "Unassign All" button
 
 **Improvements** :raised\_hands:
 
-* Optimizations within the project. Removed redundant screens
+* Improvements to logging table
