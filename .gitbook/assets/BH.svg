@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 513 342" height="1em" width="auto"
+	style="border-radius: 3px;">
+	<!-- Define a clipPath with a 3px border radius -->
+	<defs>
+		<clipPath id="rounded-border">
+			<rect x="0" y="0" width="513" height="342" />
+		</clipPath>
+	</defs>
+
+	<!-- Apply the clipPath -->
+	<g clip-path="url(#rounded-border)">
+		<polygon fill="#D80027" points="0,0 513,0 513,342 0,342 " />
+		<polygon fill="#FFFFFF" points="222.8,34.3 137.6,68.5 222.8,102.6 137.6,136.7 222.8,170.8 137.6,204.9 222.8,239 137.6,273.1
+            222.8,307.2 137.6,342 0,342 0,0 137.6,0 " />
+	</g>
+</svg>
