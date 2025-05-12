@@ -1,2 +1,2 @@
-# 💼 Terms of Service Archive
+# Terms of Service Archive
 

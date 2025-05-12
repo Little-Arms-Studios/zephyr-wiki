@@ -1,4 +1,4 @@
-# ⭐ X-Star
+# X-Star
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# 🦖 Little Arms Studios
+---
+icon: t-rex
+---
+
+# Little Arms Studios
 
 ## Our Mission
 

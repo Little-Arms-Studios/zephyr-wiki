@@ -1,2 +1,2 @@
-# 💼 Zephyr EULA Archive
+# Zephyr EULA Archive
 

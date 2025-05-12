@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 🛡️ Flight Path Practice
+# Flight Path Practice
 
 ## Introduction
 

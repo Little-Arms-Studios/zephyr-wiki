@@ -1,4 +1,4 @@
-# ⭐ Inspire 2
+# Inspire 2
 
 ## Overview
 

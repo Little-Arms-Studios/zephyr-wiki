@@ -1,4 +1,8 @@
-# 🧑‍🎓 Courses
+---
+icon: books
+---
+
+# Courses
 
 {% hint style="warning" %}
 In order to invite students to your institution, you need to have an active course running. This means a course who’s end date has not passed.

@@ -1,4 +1,4 @@
-# 🔏 Privacy Statement May 26, 2018
+# Privacy Statement May 26, 2018
 
 Effective date: **May 26, 2018**
 

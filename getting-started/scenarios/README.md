@@ -1,2 +1,6 @@
-# 🌌 Scenarios
+---
+icon: rectangle-history
+---
+
+# Scenarios
 

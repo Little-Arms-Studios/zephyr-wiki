@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 🏈 Skip Fredericks
+# Skip Fredericks
 
 ## Introduction
 

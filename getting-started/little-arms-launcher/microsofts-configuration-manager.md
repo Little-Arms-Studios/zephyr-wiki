@@ -1,4 +1,4 @@
-# ⭐ Microsoft's Configuration Manager
+# Microsoft's Configuration Manager
 
 1. Create a content object in the Microsoft Configuration Manager
 

@@ -1,4 +1,8 @@
-# 🎮 Supported Controllers
+---
+icon: gamepad-modern
+---
+
+# Supported Controllers
 
 {% hint style="info" %}
 There may be compatible controllers not on this list. We are actively testing and adding support for popular controllers and newer Mac computers. If your controller is not currently supported please check back on this page as it updates or reach out to support@littlearms.com

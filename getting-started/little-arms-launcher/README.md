@@ -1,2 +1,6 @@
-# 🦖 Little Arms Launcher
+---
+icon: grid-horizontal
+---
+
+# Little Arms Launcher
 

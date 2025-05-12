@@ -1,4 +1,4 @@
-# 🔏 Privacy Statement January 24, 2022
+# Privacy Statement January 24, 2022
 
 Effective date: **January 24, 2022**
 

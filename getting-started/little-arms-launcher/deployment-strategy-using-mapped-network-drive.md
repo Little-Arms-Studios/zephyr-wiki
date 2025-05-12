@@ -1,4 +1,4 @@
-# ⭐ Deployment Strategy using Mapped Network Drive
+# Deployment Strategy using Mapped Network Drive
 
 This article instructs users on the basics of changing application installation locations using the Little Arms Launcher, as well as using a mapped network drive as a deployment strategy.
 

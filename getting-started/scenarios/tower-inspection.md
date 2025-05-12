@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 🗼 Tower Inspection
+# Tower Inspection
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# 🍪 Cookies
+# Cookies
 
 ## How we use Cookies
 

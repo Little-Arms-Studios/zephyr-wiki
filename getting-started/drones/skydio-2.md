@@ -1,4 +1,4 @@
-# ⭐ Skydio 2
+# Skydio 2
 
 ## Overview
 

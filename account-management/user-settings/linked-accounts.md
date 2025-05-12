@@ -9,11 +9,12 @@ icon: ubuntu
 This pane is available to all users
 {% endhint %}
 
-This pane will allow users to manage third party accounts that can integrate with Zephyr. Here you will be able to manage Single Sign-On (SSO) accounts as they become supported.
+This pane will allow users to manage third party accounts that can integrate with Zephyr. Here you will be able to manage [Single Sign-On (SSO)](../../integrations/single-sign-on.md) accounts as they become supported.
 
 Available Accounts:
 
-* Microsoft (coming soon)
+* Google
+* Microsoft
 * [DroneLogbook](../../integrations/drone-logbook.md)
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>User Linked Accounts Setting Pane</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Linked Accounts in User Settings</p></figcaption></figure>

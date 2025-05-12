@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 📦 Warehouse
+# Warehouse
 
 ## Introduction
 

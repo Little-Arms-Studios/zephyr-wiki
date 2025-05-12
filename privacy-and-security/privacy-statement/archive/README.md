@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# 💼 Archive
+# Archive
 
 {% content-ref url="privacy-statement-september-13-2024.md" %}
 [privacy-statement-september-13-2024.md](privacy-statement-september-13-2024.md)

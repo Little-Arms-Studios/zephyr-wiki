@@ -2,9 +2,10 @@
 description: >-
   This page is dedicated to explaining how to access and use the Controller
   Settings menu in Zephyr.
+icon: square-sliders-vertical
 ---
 
-# 🕹️ Controller Configuration
+# Controller Configuration
 
 ## Navigating to Controller Settings
 

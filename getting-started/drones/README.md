@@ -1,2 +1,6 @@
-# 🚁 Drones
+---
+icon: drone
+---
+
+# Drones
 

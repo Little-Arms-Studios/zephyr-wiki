@@ -1,4 +1,8 @@
-# 🌎 Country Availability
+---
+icon: earth-africa
+---
+
+# Country Availability
 
 Zephyr is available in a majority of the world. However, please be aware that Zephyr is currently localized to the United States 🇺🇸 and adheres to US Federal Aviation Administration laws and regulations.
 

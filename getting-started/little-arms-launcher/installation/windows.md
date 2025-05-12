@@ -1,4 +1,8 @@
-# 🪟 Windows
+---
+icon: windows
+---
+
+# Windows
 
 Congratulations! 🎊 You've created a Zephyr account and you're ready to download and install Zephyr! If you need to read instructions on how to [create a Zephyr account click here.](../../create-an-account.md)
 
@@ -18,7 +22,7 @@ Your platform will be automatically detected if you are using Windows or macOS a
 
 Navigate to where you downloaded the `Little Arms Launcher Setup x.x.x.exe` and double click on it.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If prompted&#x20;
 
@@ -26,11 +30,11 @@ If prompted&#x20;
 
 Click Yes
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Installation will begin!
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once the installation is complete, Click Finish and the Little Arms Launcher should open.
 

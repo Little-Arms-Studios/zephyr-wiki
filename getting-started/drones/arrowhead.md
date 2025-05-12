@@ -1,4 +1,4 @@
-# ⭐ Arrowhead
+# Arrowhead
 
 ## Overview
 

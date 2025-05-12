@@ -17,17 +17,13 @@ layout:
     visible: true
 ---
 
-# 🪣 NIST
+# NIST
 
 ## Introduction
 
 The NIST Open Lane Test is the only nationally recognized flight proficiency exam for small multi rotor UASs. It is widely used with first responders and being adopted in many other fields. The goal of this tutorial is to provide an overview of the Open Lane Test and the terminology used. For additional information please see the NIST documentation linked [here](https://www.nist.gov/el/intelligent-systems-division-73500/standard-test-methods-response-robots/aerial-systems).
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Our NIST Scenarios
 

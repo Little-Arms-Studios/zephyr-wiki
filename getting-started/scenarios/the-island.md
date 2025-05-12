@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🏝️ The Island
+# The Island
 
 ## Introduction
 

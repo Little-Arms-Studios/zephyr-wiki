@@ -1,4 +1,4 @@
-# ⭐ Loki Mkii
+# Loki Mkii
 
 ## Overview
 

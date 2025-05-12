@@ -1,4 +1,4 @@
-# ⭐ Matrice
+# Matrice
 
 ## Overview
 

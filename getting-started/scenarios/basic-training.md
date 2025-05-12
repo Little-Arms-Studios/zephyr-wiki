@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🔰 Basic Training
+# Basic Training
 
 ## Introduction
 

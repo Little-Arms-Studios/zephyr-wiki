@@ -1,4 +1,4 @@
-# 📄 Zephyr Simulator End User License Agreement
+# Zephyr Simulator End User License Agreement
 
 Effective Date: **March 1, 2025**
 

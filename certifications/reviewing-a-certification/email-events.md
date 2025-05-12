@@ -1,4 +1,4 @@
-# 📧 Email Events
+# Email Events
 
 ## Certification Attempt Submitted - Virtual BPERP Certification <a href="#certification-attempt-submitted-virtual-bperp-certification" id="certification-attempt-submitted-virtual-bperp-certification"></a>
 

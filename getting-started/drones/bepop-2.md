@@ -1,4 +1,4 @@
-# ⭐ Bepop 2
+# Bepop 2
 
 ## Overview
 

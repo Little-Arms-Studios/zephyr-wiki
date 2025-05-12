@@ -1,4 +1,4 @@
-# ⭐ Autel EVO II
+# Autel EVO II
 
 ## Overview
 

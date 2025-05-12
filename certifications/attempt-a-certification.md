@@ -1,4 +1,8 @@
-# 🛩️ Attempt A Certification
+---
+icon: drone-front
+---
+
+# Attempt a Certification
 
 {% hint style="info" %}
 You will need a webcam and a microphone in order to successfully record a certification attempt
@@ -177,4 +181,4 @@ There, you will be able to see the notes that the reviewer left
 
 [Recording meetings locally and to the cloud - Zoom Support](https://support.zoom.us/hc/en-us/articles/360040771752-Recording-meetings-locally-and-to-the-cloud)
 
-[Starting Your Instant Meeting vs Scheduling a Meeting - Zoom Support](https://support.zoom.us/hc/en-us/articles/201362533-Starting-Your-Instant-Meeting-vs-Scheduling-a-Meeting#h\_072b7fb8-5135-4069-b11f-3409ac2616fa)
+[Starting Your Instant Meeting vs Scheduling a Meeting - Zoom Support](https://support.zoom.us/hc/en-us/articles/201362533-Starting-Your-Instant-Meeting-vs-Scheduling-a-Meeting#h_072b7fb8-5135-4069-b11f-3409ac2616fa)

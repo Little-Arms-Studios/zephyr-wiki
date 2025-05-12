@@ -1,4 +1,4 @@
-# ⭐ Phantom 4
+# Phantom 4
 
 ## Overview
 

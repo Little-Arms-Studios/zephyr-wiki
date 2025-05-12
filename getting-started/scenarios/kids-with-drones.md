@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 🧒 Kids With Drones
+# Kids With Drones
 
 ## Introduction
 

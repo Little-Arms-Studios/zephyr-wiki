@@ -1,4 +1,8 @@
-# 📃 Terms of Service
+---
+icon: scroll-old
+---
+
+# Terms of Service
 
 
 

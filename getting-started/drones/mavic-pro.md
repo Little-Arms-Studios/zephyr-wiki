@@ -1,4 +1,4 @@
-# ⭐ Mavic Pro
+# Mavic Pro
 
 ## Overview
 

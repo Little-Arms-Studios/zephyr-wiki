@@ -2,9 +2,10 @@
 description: >-
   Overview of Zephyr's Site Licensing system: how it's billed and how license
   allocation works.
+icon: id-badge
 ---
 
-# 🪪 Site License
+# Site License
 
 ## Overview
 
@@ -51,10 +52,10 @@ To access the "assign licenses" window:
 1. Login to your institution admin account on [zephyr-sim.com](https://zephyr-sim.com)
 2.  On your dashboard, click "Assign" on the "LICENSES" card
 
-    <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="298"><figcaption><p>Licenses Dashboard Card</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="298"><figcaption><p>Licenses Dashboard Card</p></figcaption></figure>
 3. The "MANAGE INSTITUTION LICENSES" window will appear
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Manage Institution Licenses window</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Manage Institution Licenses window</p></figcaption></figure>
 
 **Section A**:&#x20;
 

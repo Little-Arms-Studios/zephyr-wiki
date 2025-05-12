@@ -1,4 +1,4 @@
-# ⭐ 3DR Solo
+# 3DR Solo
 
 ## Overview
 

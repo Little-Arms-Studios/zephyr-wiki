@@ -1,4 +1,4 @@
-# 🔏 Privacy Statement July 28, 2016
+# Privacy Statement July 28, 2016
 
 Little Arms Studios, LLC ("us", "we", or "our") operates the https://www.zephyr-sim.com website (the "Service").
 

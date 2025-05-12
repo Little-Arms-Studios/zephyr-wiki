@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🏁 Drone Racing
+# Drone Racing
 
 ## Introduction
 

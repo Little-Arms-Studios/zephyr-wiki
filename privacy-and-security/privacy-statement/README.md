@@ -1,4 +1,8 @@
-# 🔏 Privacy Statement
+---
+icon: pen-fancy
+---
+
+# Privacy Statement
 
 Effective date: **March 1, 2025**
 

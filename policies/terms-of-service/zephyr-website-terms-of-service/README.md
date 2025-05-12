@@ -1,4 +1,4 @@
-# 📄 Zephyr Website Terms of Service
+# Zephyr Website Terms of Service
 
 Effective Date: **March 1, 2025**
 

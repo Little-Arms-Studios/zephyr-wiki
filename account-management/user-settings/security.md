@@ -1,6 +1,6 @@
 ---
-icon: lock
 description: Settings pane to manage account security
+icon: lock
 ---
 
 # Security
@@ -28,4 +28,4 @@ This settings panel provides security settings and options for user accounts.
 
 **Multi-Factor Authentication (MFA)** allows the user to enroll in an MFA application that will require a code to be entered upon logging in.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>User Settings Pane for Managing Security</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>User Settings Pane for Managing Security</p></figcaption></figure>

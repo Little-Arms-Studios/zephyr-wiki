@@ -1,4 +1,8 @@
-# 🪪 Hardware License
+---
+icon: id-badge
+---
+
+# Hardware License
 
 Hardware Licenses were introduced for special circumstances where organizations needed to purchase Zephyr pre-loaded on a device. This system allows us to provide these devices and restrict access accordingly.
 

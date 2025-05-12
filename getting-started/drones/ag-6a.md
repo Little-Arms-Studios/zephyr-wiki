@@ -1,4 +1,4 @@
-# ⭐ AG-6A
+# AG-6A
 
 ## Overview
 

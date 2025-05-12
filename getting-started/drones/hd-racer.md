@@ -1,4 +1,4 @@
-# ⭐ HD Racer
+# HD Racer
 
 ## Overview
 

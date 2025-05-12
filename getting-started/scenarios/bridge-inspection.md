@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 🌉 Bridge Inspection
+# Bridge Inspection
 
 ## Introduction
 

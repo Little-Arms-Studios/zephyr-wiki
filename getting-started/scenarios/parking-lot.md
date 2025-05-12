@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🅿️ Parking Lot
+# Parking Lot
 
 ## Introduction
 

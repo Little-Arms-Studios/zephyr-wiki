@@ -1,4 +1,8 @@
-# 🎉 Create an Account
+---
+icon: user-plus
+---
+
+# Create an Account
 
 To create an account on Zephyr, all you need is an `email` and `password`.
 

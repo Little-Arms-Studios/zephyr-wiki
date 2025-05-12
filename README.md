@@ -1,4 +1,5 @@
 ---
+icon: door-open
 cover: .gitbook/assets/Screenshot 2024-03-10 at 3.37.06 PM.png
 coverY: 15
 layout:
@@ -17,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🧑‍✈️ Introduction
+# Introduction
 
 **What is Zephyr?**
 

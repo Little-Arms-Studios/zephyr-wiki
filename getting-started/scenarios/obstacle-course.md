@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🪤 Obstacle Course
+# Obstacle Course
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# ⭐ Matrice 30
+# Matrice 30
 
 ## Overview
 

@@ -1,2 +1,6 @@
-# 🗒️ Patch Notes
+---
+icon: note
+---
+
+# Patch Notes
 

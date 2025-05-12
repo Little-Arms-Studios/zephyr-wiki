@@ -1,4 +1,8 @@
-# ✅ Verify A Certification
+---
+icon: shield-check
+---
+
+# Verify a Certification
 
 PDF or printed certifications contain a QR code that you can scan using the camera app on your phone. &#x20;
 

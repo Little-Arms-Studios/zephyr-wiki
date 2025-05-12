@@ -1,2 +1,2 @@
-# 💼 Website Terms of Service Archive
+# Website Terms of Service Archive
 

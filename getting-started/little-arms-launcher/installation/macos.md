@@ -1,4 +1,8 @@
-# 🍎 macOS
+---
+icon: apple
+---
+
+# macOS
 
 Congratulations! 🎊 You've created a Zephyr account and you're ready to download and install Zephyr! If you need to read instructions on how to [create a Zephyr account click here.](../../create-an-account.md)
 

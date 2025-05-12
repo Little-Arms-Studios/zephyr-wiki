@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🍄 The Hill
+# The Hill
 
 ## Introduction
 

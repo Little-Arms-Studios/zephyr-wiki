@@ -1,4 +1,4 @@
-# 🆕 ANAFI USA
+# ANAFI USA
 
 ## Overview
 

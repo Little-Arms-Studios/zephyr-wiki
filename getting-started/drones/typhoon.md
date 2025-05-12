@@ -1,4 +1,4 @@
-# ⭐ Typhoon
+# Typhoon
 
 ## Overview
 

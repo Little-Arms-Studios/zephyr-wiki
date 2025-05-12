@@ -1,4 +1,8 @@
-# 🚚 Shipping Policy
+---
+icon: truck
+---
+
+# Shipping Policy
 
 ## Shipment Processing Time
 

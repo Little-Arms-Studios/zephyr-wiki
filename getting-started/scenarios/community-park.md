@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# ⛲ Community Park
+# Community Park
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# ⭐ Alta X
+# Alta X
 
 ## Overview
 

@@ -1,4 +1,8 @@
-# 💲 Enterprise Billing
+---
+icon: circle-dollar
+---
+
+# Enterprise Billing
 
 We offer three different billing solutions in order to satisfy the different needs for our clients.
 

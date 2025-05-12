@@ -1,4 +1,4 @@
-# 🔏 Privacy Statement September 13, 2024
+# Privacy Statement September 13, 2024
 
 Effective date: **September 13, 2024**
 

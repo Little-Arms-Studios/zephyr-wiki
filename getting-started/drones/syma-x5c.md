@@ -1,4 +1,4 @@
-# ⭐ Syma X5C
+# Syma X5C
 
 ## Overview
 

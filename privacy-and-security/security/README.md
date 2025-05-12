@@ -1,2 +1,6 @@
-# 🔐 Security
+---
+icon: shield-halved
+---
+
+# Security
 

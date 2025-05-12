@@ -1,4 +1,8 @@
-# 📒 Drone Logbook
+---
+icon: notebook
+---
+
+# Drone Logbook
 
 ## Link your Drone Logbook account to Zephyr <a href="#link-your-drone-logbook-account-to-zephyr" id="link-your-drone-logbook-account-to-zephyr"></a>
 
