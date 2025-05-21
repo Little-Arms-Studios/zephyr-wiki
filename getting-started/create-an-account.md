@@ -4,50 +4,38 @@ icon: user-plus
 
 # Create an Account
 
-To create an account on Zephyr, all you need is an `email` and `password`.
+You can create a Zephyr account using either an `email` and `password` or one of our [linked-accounts.md](../account-management/user-settings/linked-accounts.md "mention")options.
 
-&#x20;Head over to [https://zephyr-sim.com](https://zephyr-sim.com/register)
+## Create a Free Account
 
-Click **Purchase** on the far right side of the top navigation bar next to Login
+1. Go to [https://zephyr-sim.com/login](http://zephyr-sim.com/login)
+2. Click `Sign Up` next to "Don't have an account?"
+3. Either choose a Single Sign On option above or enter an email you would like to register
+   1. If you entered an email, click `Continue`
+      1. Enter a password and click `Continue`&#x20;
+   2. If you chose a Single Sign On option, complete the login and prompts to complete the account registration process
+4. No matter the registration method you chose, when you complete the process you'll be redirected back to your Zephyr dashboard&#x20;
 
-<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+## Make a Purchase
 
-Select the plan you would like!&#x20;
+1. Go to [https://zephyr-sim.com/individuals](https://zephyr-sim.com/individuals)
+2. Choose a package option to add it to your cart
+3. Click `Proceed to Checkout`
+4. Type in your `email` address and click the "attestation prompt" that your purchase is for personal use&#x20;
+5. Click `Continue`
+6. Complete the checkout process
+7. You will be redirected back to Zephyr's order confirmation page
+8. Click `Create your account`
 
-Zephyr has with a Free plan that doesn't require any payment information.
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-03 at 10.52.39 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Click **Proceed to Checkout**
+9. You'll be shown a page with the `email` you typed earlier prefilled in the email field.  You'll need to choose a password that satisfies the requirements and press `enter` or click `continue`.&#x20;
+10. Alternatively you can press click a Single Sign On option above the email field and complete the login flow and prompts
 
-<figure><img src="../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (138).png" alt="" width="375"><figcaption></figcaption></figure>
 
-&#x20;
+And thats it!
 
-Type in your `email` address and select the country where you reside and provide state and zip code if applicable.  We are required to ask for this information in order to comply with US 🇺🇸 laws in regulations for country availability.  [For a list of countries where Zephyr is not available click here](../country-availability.md).
-
-Click **Continue to Payment**
-
-<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
-
-You'll see  "Zephyr is Free as a bird!"
-
-Click **Purchase**
-
-<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
-
-You'll be shown that your order has successfully been completed and prompted to create your account.
-
-Click **Create your account**
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-03-03 at 10.52.39 PM.png" alt=""><figcaption></figcaption></figure>
-
-You'll be shown a page with the `email` you typed earlier prefilled in the email field.  You'll need to choose a password that satisfies the requirements and press `enter` or click `continue`.&#x20;
-
-Alternatively you can press `Continue with Microsoft` and youll be routed to Microsoft's 365 login flow, where you'll have to login with your Microsoft 365 account.
-
-<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
-
-And thats it! 🎊
-
-You'll immediately be routed to the dashboard where you can download the Little Arms Launcher and install Zephyr!
+You'll be routed to the dashboard where you can download the Little Arms Launcher and install Zephyr!
 
 You can read instructions on how to [install the Little Arms Launcher here.](little-arms-launcher/installation/macos.md)
