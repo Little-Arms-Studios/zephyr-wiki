@@ -2,6 +2,7 @@
 description: >-
   Overview of Zephyr's Site Licensing system: how it's billed and how license
   allocation works.
+hidden: true
 icon: id-badge
 ---
 
