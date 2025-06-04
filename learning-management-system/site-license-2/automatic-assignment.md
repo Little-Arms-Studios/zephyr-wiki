@@ -120,7 +120,7 @@ Invitations created after the course start date but before the course end date w
 From June 1 - June 15, assuming all students register, the organization's student license usage will show as `15`. Then on June 16, assuming all student register that day, the organization's student license usage will show as `20`. Then on June 20th, Course A's students will have their licenses automatically removed. Depending on the time of day that the course ends, the organization's license usage might show `20` or `5`. Thereafter, the organization's license usage will show as `5` until Course B ends.
 
 {% hint style="warning" %}
-The time of day matters since our historical usage calculator runs once per day. Details can be found here: [#historical-license-usage](./#historical-license-usage "mention"). So, if a course ends before the calculator runs, license usage for that day will not include the licenses associated with that course.
+The time of day matters since our historical usage calculator runs once per day. Details can be found here: [#historical-license-usage](../site-license.md#historical-license-usage "mention"). So, if a course ends before the calculator runs, license usage for that day will not include the licenses associated with that course.
 {% endhint %}
 
 ## FAQs

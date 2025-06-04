@@ -6,11 +6,11 @@ hidden: true
 icon: id-badge
 ---
 
-# Site License
+# Site License 2
 
 ## Overview
 
-Site Licensing is a type of licensing offered on Zephyr that allows users to be assigned to or removed from a license. Think of it like a "seat" that someone can sit in. Only one person can sit in the seat at a time. If another person needs the seat, they can simply swap (swapping is done either [manually](manual-assignment.md) or [automatically](automatic-assignment.md)).
+Site Licensing is a type of licensing offered on Zephyr that allows users to be assigned to or removed from a license. Think of it like a "seat" that someone can sit in. Only one person can sit in the seat at a time. If another person needs the seat, they can simply swap (swapping is done either [manually](broken-reference) or [automatically](broken-reference)).
 
 To begin, your institution pays for a certain number of student site licenses (let’s say 10 in this example). Depending on your billing cycle (let’s say 1 year in this example), you will be able to assign those 10 licenses to any student at your institution for 1 year.
 
@@ -64,7 +64,7 @@ If you choose to renew, you’ll receive an invoice from us after discussing ren
 
 ## Allocating Licenses
 
-Please refer to either the [manual-assignment.md](manual-assignment.md "mention") or [automatic-assignment.md](automatic-assignment.md "mention") page for details about your licensing method.
+Please refer to either the [Broken link](broken-reference "mention") or [Broken link](broken-reference "mention") page for details about your licensing method.
 
 ## License Expiration
 
