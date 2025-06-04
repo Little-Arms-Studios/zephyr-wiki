@@ -17,4 +17,4 @@ Available Accounts:
 * Microsoft
 * [DroneLogbook](../../integrations/drone-logbook.md)
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Linked Accounts in User Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Linked Accounts in User Settings</p></figcaption></figure>

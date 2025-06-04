@@ -14,7 +14,7 @@ icon: notebook
 4. Click "Link" next to the DroneLogbook entry
    1.
 
-       <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 5. &#x20;Enter your Drone Logbook login information in the Link Drone Logbook Account window
 
 <figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>

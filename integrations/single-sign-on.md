@@ -8,7 +8,7 @@ icon: key
 #### Zephyr currently supports Google and Microsoft SSO
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Zephyr Linked Accounts Options</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption><p>Zephyr Linked Accounts Options</p></figcaption></figure>
 
 ## New Account
 
@@ -25,14 +25,14 @@ If you do not have an existing Zephyr account, you can simply:
 If we detect that you already have a Zephyr account with your SSO email, we will prompt you to login to the existing Zephyr account to prove ownership and finalize the SSO link
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Existing Zephyr account found</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt="" width="375"><figcaption><p>Existing Zephyr account found</p></figcaption></figure>
 
 1. Click "Continue"
 2. Login to your Zephyr account using your Zephyr password (not your SSO account's password)
    1. If you don't know your password, you can click "reset your password" and follow the instructions
    2. Once you reset your password, please follow the "[Link Existing Account](single-sign-on.md#link-existing-account)" instructions below
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Login to existing Zephyr account</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Login to existing Zephyr account</p></figcaption></figure>
 
 
 

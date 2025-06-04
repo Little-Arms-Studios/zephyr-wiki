@@ -3,7 +3,7 @@ description: >-
   Inspecting hard-to-reach or dangerous areas safely is a major benefit of using
   drones. This scenario provides practical experience for those looking to
   perform professional bridge safety inspections.
-cover: ../../.gitbook/assets/image (11) (1).png
+cover: ../../.gitbook/assets/image (11) (1) (1).png
 coverY: 227.81866666666664
 layout:
   cover:

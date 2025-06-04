@@ -13,4 +13,4 @@ This settings panel provide communication options for the user to manage. Curren
 
 * System Messages: required communication from the platform such as policy update notices, outages, password resets, etc.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>User Communication Settings Pane</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>User Communication Settings Pane</p></figcaption></figure>

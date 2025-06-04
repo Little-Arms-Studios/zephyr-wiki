@@ -1,6 +1,6 @@
 ---
-icon: circle-info
 description: Settings pane to manage user's personal information
+icon: circle-info
 ---
 
 # General
@@ -17,4 +17,4 @@ In this settings pane, you can change personal account information such as:
 * Phone
 * Date of Birth
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>General User Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>General User Settings</p></figcaption></figure>

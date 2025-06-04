@@ -39,7 +39,7 @@ Your students will receive an email invite with instructions to register their a
 3. Finish logging in to your SSO provider
 4. You will be redirected back to your Zephyr dashboard
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Sign Up Options</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption><p>Sign Up Options</p></figcaption></figure>
 
 
 

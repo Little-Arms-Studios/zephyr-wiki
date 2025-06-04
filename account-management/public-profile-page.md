@@ -1,6 +1,6 @@
 ---
-icon: user
 description: User's public profile page settings and display
+icon: user
 ---
 
 # Public Profile Page
@@ -14,7 +14,7 @@ Zephyr provides users a way to display and link to their public profile. Disable
 
 **To edit and view your public profile settings**, click "View Public Profile" under the User Settings/Public Profile pane or click "Public Profile" underneath the profile picture on your dashboard.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Edit User Public Profile Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Edit User Public Profile Page</p></figcaption></figure>
 
 ### Privacy Settings
 
@@ -33,11 +33,11 @@ To share your live profile, simply visit your "Manage Public Profile" page and c
 
 You can share this URL with anyone and they can view your public profile page. If you decide to stop sharing your profile, simply return to the User Settings/Public Profile pane from your zephyr-sim.com dashboard and set the "Enable Public Profile" toggle to "OFF."
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Live Profile Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Live Profile Page</p></figcaption></figure>
 
 ### **Certifications**
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Public Profile Certifications Section</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Public Profile Certifications Section</p></figcaption></figure>
 
 The certifications section, if enabled, will display the user's certifications associated with their Zephyr account. A green check mark indicates that the certification is approved and in good standing.
 
@@ -51,7 +51,7 @@ From the "Manage Public Profile" view, the three options underneath each certifi
 
 This will summon a window that allows you to copy an HTML code snippet that will allow you to paste and display your certification page with a link to its verification page on your website or online profile that supports custom HTML snippets
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption><p>Badge Embed Code Snippet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption><p>Badge Embed Code Snippet</p></figcaption></figure>
 
 
 

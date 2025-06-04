@@ -46,6 +46,10 @@
       * [⭐ v4.1.2](patch-notes/zephyr-dashboard/archive/v4.1.2.md)
       * [⭐ v4.1.1](patch-notes/zephyr-dashboard/archive/v4.1.1.md)
       * [⭐ v4.1.0](patch-notes/zephyr-dashboard/archive/v4.1.0.md)
+* [Announcements](announcements/README.md)
+  * [2025](announcements/2025/README.md)
+    * [June](announcements/2025/june/README.md)
+      * [Site License System Updates](announcements/2025/june/site-license-system-updates.md)
 
 ## 🚀 Getting Started
 
@@ -119,8 +123,8 @@
 
 * [Enterprise Billing](learning-management-system/enterprise-billing.md)
 * [Site License](learning-management-system/site-license/README.md)
-  * [Automatic Assignment](learning-management-system/site-license/automatic-assignment.md)
   * [Manual Assignment](learning-management-system/site-license/manual-assignment.md)
+  * [Automatic Assignment](learning-management-system/site-license/automatic-assignment.md)
 * [Single Sign On](learning-management-system/single-sign-on.md)
 * [Courses](learning-management-system/courses.md)
 * [Assignments](learning-management-system/assignments.md)
