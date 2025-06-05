@@ -21,7 +21,7 @@ Separating student vs instructor vs institution admin license pools is a necessa
 
 ## What do I have to do?
 
-At the moment, nothing! Just familiarize yourself with the new Site License Manual Assignment updates here: [Broken link](broken-reference "mention").
+At the moment, nothing! Just familiarize yourself with the new Site License Manual Assignment updates [here](https://wiki.zephyr-sim.com/learning-management-system/site-license-2/manual-assignment).
 
 ## When is this update happening?
 
@@ -73,5 +73,5 @@ That was entirely too many steps to simply assign a license to a student.
 
 It has been heavily requested that a student simply gets a license assigned to their account when they accept the invite. It's been a very complicated journey to get here, but this feature will allow organizations to do just that.
 
-Details about this change can be found here: [Broken link](broken-reference "mention")
+Details about this change can be found [here](../../../learning-management-system/site-license-2/automatic-assignment.md)
 
