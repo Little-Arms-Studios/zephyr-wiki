@@ -2,27 +2,26 @@
 description: >-
   Overview of Zephyr's Site Licensing system: how it's billed and how license
   allocation works.
-hidden: true
 icon: id-badge
 ---
 
-# Site License 2
+# Site License
 
 ## Overview
 
-Site Licensing is a type of licensing offered on Zephyr that allows users to be assigned to or removed from a license. Think of it like a "seat" that someone can sit in. Only one person can sit in the seat at a time. If another person needs the seat, they can simply swap (swapping is done either [manually](broken-reference) or [automatically](broken-reference)).
+Site Licensing is a type of licensing offered on Zephyr that allows users to be assigned to or removed from a license. Think of it like a "seat" that someone can sit in. Only one person can sit in the seat at a time. If another person needs the seat, they must be swapped (swapping is done either [manually](manual-assignment.md) or [automatically](automatic-assignment.md)).
 
 To begin, your institution pays for a certain number of student site licenses (let’s say 10 in this example). Depending on your billing cycle (let’s say 1 year in this example), you will be able to assign those 10 licenses to any student at your institution for 1 year.
 
-Your institution will also have a max number of institution admin and instructor licenses they can use (let's says 1 max institution admin and 2 max instructor licenses in this example). **Institution admins and instructors will&#x20;**_**always**_**&#x20;have a license assigned to them upon accepting their invite. This means that you&#x20;**_**cannot**_**&#x20;invite more institution admins or instructors than your organization's license max respectively.**
+Your institution will also have a max number of institution admin and instructor licenses they can use (let's says 1 max institution admin and 2 max instructor licenses in this example). **Institution admins and instructors will&#x20;**_**always**_**&#x20;have a license assigned to them upon accepting their invite. This means that you&#x20;**_**cannot**_**&#x20;invite more institution admins or instructors than your organization's respective license max.**
 
-In the example above, if you are currently the institution admin at your organization then you cannot invite more institution admins since your max institution admin license count is 1. If you already have 1 instructor registered at your organization, then you can only invite 1 more instructor since your max instructor license count is 2.
+In the example above, if you are currently the institution admin at your organization, you cannot invite more institution admins, as your max institution admin license count is 1. If you already have 1 instructor registered at your organization, you can only invite 1 more instructor, as your max instructor license count is 2.
 
 <details>
 
 <summary><em>"What if I need more instructor licenses?"</em></summary>
 
-reach out to your account manager or sales@littlearms.com to request an increase to your max instructor license count.
+Reach out to your account manager or sales@littlearms.com to request an increase to your max instructor license count.
 
 </details>
 
@@ -30,7 +29,7 @@ reach out to your account manager or sales@littlearms.com to request an increase
 
 <summary><em>"How do I swap instructors out of my organization?"</em></summary>
 
-you need to remove the user from your organization (go to the Users table, click the cog icon in their row, and click "Remove User"). Once they are removed from your organization, an instructor license will be freed up so you may invite another instructor.
+You need to remove the user from your organization (go to the Users table, click the cog icon in their row, and click "Remove User"). Once they are removed from your organization, an instructor license will be freed up so you may invite another instructor.
 
 </details>
 
@@ -38,7 +37,7 @@ you need to remove the user from your organization (go to the Users table, click
 
 <summary><em>"How do I swap institution admins?"</em></summary>
 
-only Zephyr Admins can remove institution admins from an organization. You need to reach out to your account manager or sales@littlearms.com to request an institution admin be removed from the organization. Either you can invite a new institution admin (if your permissions and max institution admin license count allow it) or request it with your account manager.
+Only Zephyr Admins can remove institution admins from an organization. You need to reach out to your account manager or sales@littlearms.com to request an institution admin be removed from the organization. Either you can invite a new institution admin (if your permissions and max institution admin license count allow it) or request it with your account manager.
 
 </details>
 
@@ -64,7 +63,7 @@ If you choose to renew, you’ll receive an invoice from us after discussing ren
 
 ## Allocating Licenses
 
-Please refer to either the [Broken link](broken-reference "mention") or [Broken link](broken-reference "mention") page for details about your licensing method.
+Please refer to either the [manual-assignment.md](manual-assignment.md "mention") or [automatic-assignment.md](automatic-assignment.md "mention") page for details about your licensing method.
 
 ## License Expiration
 

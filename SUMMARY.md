@@ -122,10 +122,9 @@
 ## 🎓 Learning Management System
 
 * [Enterprise Billing](learning-management-system/enterprise-billing.md)
-* [Site License](learning-management-system/site-license.md)
-* [Site License 2](learning-management-system/site-license-2/README.md)
-  * [Manual Assignment](learning-management-system/site-license-2/manual-assignment.md)
-  * [Automatic Assignment](learning-management-system/site-license-2/automatic-assignment.md)
+* [Site License](learning-management-system/site-license/README.md)
+  * [Manual Assignment](learning-management-system/site-license/manual-assignment.md)
+  * [Automatic Assignment](learning-management-system/site-license/automatic-assignment.md)
 * [Single Sign On](learning-management-system/single-sign-on.md)
 * [Courses](learning-management-system/courses.md)
 * [Assignments](learning-management-system/assignments.md)

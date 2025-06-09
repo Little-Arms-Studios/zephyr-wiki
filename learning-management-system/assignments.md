@@ -58,7 +58,7 @@ A single module is required when creating an assignment. Currently, assignments 
 
 Students are able to view Course Assignments by navigating to their Zephyr dashboard and checking the bottom of the page. All relevant assignments will appear in this table with each assignment's current "completion" status.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Student Assignments Table on their Dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Student Assignments Table on their Dashboard</p></figcaption></figure>
 
 ### Completing an Assignment
 

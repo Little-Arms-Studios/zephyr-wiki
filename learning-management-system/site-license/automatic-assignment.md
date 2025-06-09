@@ -18,13 +18,13 @@ Licenses are removed from a student's account **when the course ends.**
 
 Under the automatic licensing method, license assignment is solely done by course dates.&#x20;
 
-If you want to assign a license to students outside of normal course dates, then you would still need to create a course and set the start and end dates to the desired duration.
+If you want to assign a license to students outside of normal course dates, you would still need to create a course and set the start and end dates to the desired duration.
 
 </details>
 
 ## Inviting Students
 
-Because licensing is done automatically when a student accepts an invite, invites can only on the start date of a course.
+Because licensing is done automatically when a student accepts an invite, invites can only sent on the start date of a course.
 
 You can still create invites any time before the course start date, they just won't be sent until their scheduled send date. So, in the example below, after we click "Invite," we can expect the course invites to be sent on 6/30/2025 at 2am (Local Time).
 
@@ -44,7 +44,7 @@ Email Body:
 
 ## Managing Invites
 
-You can always go to your Invites table under Manage > Invites on your Zephyr dashboard to view their status. Here you can see useful information like Status, Invite Expiration, Role/Course, and if a License Removal Date is set
+You can always go to your "Invites" table under Manage > Invites on your Zephyr Dashboard to view their status. Here you can see useful information like Status, Invite Expiration, Role/Course, and if a License Removal Date is set
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Invites Tables Automatic Licensing Organization</p></figcaption></figure>
 
@@ -58,11 +58,13 @@ You will be presented with a large calendar view.
 
 #### Projected vs Historical Data
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="374"><figcaption><p>License Usage Legend</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="374"><figcaption><p>License Usage Legend</p></figcaption></figure>
 
-We divide license usage data between projected and historical usage. Historical usage is a record of license usage from any previous day. This will show a breakdown of license usage on the specific day.
+We divide license usage data between projected and historical usage.&#x20;
 
-Projected usage is an anticipated estimate of license usage on the specific day given (a) any existing invitations and (b) any active licenses during that day.
+**Historical Usage** is a record of license usage from any previous day. This will show a breakdown of license usage on the specific day.
+
+**Projected Usage** is an anticipated estimate of license usage on the specific day given (a) any existing invitations and (b) any active licenses during that day.
 
 In essence, anything in the future will be projected and anything in the past will be historical.
 
@@ -109,7 +111,12 @@ If you need more student licenses so that you can invite the students you need t
 
 To continue the example, if today is May 15 and I'm preparing my courses, I can invite all 15 students to Course A and 5 students to course B. The invitations are created and viewable on the website dashboard in the invites table; however, they will not be sent to the students until the `course start date`. Students will also receive a welcome email 1 week before their course start date that will instruct them to register their account and install the simulator to ensure it works as expected before their course begins.
 
-So, on May 25, students from Course A will receive their welcome emails. On June 1, they will receive their invitation emails. On June 9, students in Course B will receive their welcome emails. On June 16, they will receive their invitation emails.
+To break this down:
+
+* On May 25, students from Course A will receive their welcome emails
+* On June 1, they will receive their invitation emails
+* On June 9, students in Course B will receive their welcome emails
+* On June 16, they will receive their invitation emails
 
 {% hint style="warning" %}
 Invitations created less than one week before the course start date will immediately result in a welcome email being sent. Invitation emails will still only be sent on the course start date
@@ -117,10 +124,14 @@ Invitations created less than one week before the course start date will immedia
 Invitations created after the course start date but before the course end date will immediately result in the invitation email being sent.
 {% endhint %}
 
-From June 1 - June 15, assuming all students register, the organization's student license usage will show as `15`. Then on June 16, assuming all student register that day, the organization's student license usage will show as `20`. Then on June 20th, Course A's students will have their licenses automatically removed. Depending on the time of day that the course ends, the organization's license usage might show `20` or `5`. Thereafter, the organization's license usage will show as `5` until Course B ends.
+* From June 1 - June 15, assuming all students register, the organization's student license usage will show as `15`&#x20;
+* On June 16, assuming all student register that day, the organization's student license usage will show as `20`
+* On June 20th, Course A's students will have their licenses automatically removed.&#x20;
+
+Depending on the time of day that the course ends, the organization's license usage might show `20` or `5`. Thereafter, the organization's license usage will show as `5` until Course B ends.
 
 {% hint style="warning" %}
-The time of day matters since our historical usage calculator runs once per day. Details can be found here: [#historical-license-usage](../site-license.md#historical-license-usage "mention"). So, if a course ends before the calculator runs, license usage for that day will not include the licenses associated with that course.
+The time of day matters since our historical usage calculator runs once per day. Details can be found here: [#historical-license-usage](./#historical-license-usage "mention"). So, if a course ends before the calculator runs, license usage for that day will not include the licenses associated with that course.
 {% endhint %}
 
 ## FAQs
@@ -129,7 +140,7 @@ The time of day matters since our historical usage calculator runs once per day.
 
 <summary>"<em>I selected a course, but I don't have enough available licenses to invite the student I need"</em></summary>
 
-You either need to request your student license limit to be increased, remove students from your organization, or verify that courses are not unintentionally overlapping and using more licenses than intended.
+You need to request your student license limit to be increased, remove students from your organization, or verify that courses are not unintentionally overlapping and using more licenses than intended.
 
 </details>
 

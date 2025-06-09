@@ -19,10 +19,9 @@ Students are **NOT** automatically assigned a site license when they register.
 To access the "assign licenses" window:
 
 1. Login to your institution admin or instructor account on [zephyr-sim.com](https://zephyr-sim.com)
-2. On your dashboard, click "Assign" on the "LICENSES" card
-   1.
+2.  On your dashboard, click "Assign" on the "LICENSES" card
 
-       <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="442"><figcaption><p>Site License Usage Card</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="442"><figcaption><p>Site License Usage Card</p></figcaption></figure>
 3. The "MANAGE STUDENT LICENSES" window will appear
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Manage Student Licenses Window</p></figcaption></figure>
@@ -59,4 +58,10 @@ If a user is signed in at the time of license assignment, they will need to sign
 
 ### Revoke a License
 
-To revoke a license, find the student(s) from the list in Section C. Click their entry to unselect them and then click the "Next" button. Confirm they are in the "Licenses Removed" column and click "Confirm."
+To revoke a license:
+
+1. Find the student(s) from the list in Section C
+2. Click their entry to unselect them
+3. Click the "Next" button
+4. Confirm the user(s) are in the "Licenses Removed" column
+5. Click "Confirm."
