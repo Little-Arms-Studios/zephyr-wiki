@@ -19,12 +19,13 @@ Students are **NOT** automatically assigned a site license when they register.
 To access the "assign licenses" window:
 
 1. Login to your institution admin or instructor account on [zephyr-sim.com](https://zephyr-sim.com)
-2.  On your dashboard, click "Assign" on the "LICENSES" card
+2. On your dashboard, click "Assign" on the "LICENSES" card
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="442"><figcaption><p>Site License Usage Card</p></figcaption></figure>
-3. The "MANAGE STUDENT LICENSES" window will appear
+<figure><img src="../../.gitbook/assets/site license usage card (1).png" alt="" width="448"><figcaption><p>Site License Usage Card</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Manage Student Licenses Window</p></figcaption></figure>
+1. The "MANAGE STUDENT LICENSES" window will appear
+
+<figure><img src="../../.gitbook/assets/manage student licenses modal.png" alt="" width="563"><figcaption><p>Manage Student Licenses Window</p></figcaption></figure>
 
 **Section A**:&#x20;
 
@@ -50,7 +51,7 @@ To assign a license, find the student(s) from the list in Section C. Click their
 
 You will be presented with a summary of license assignments and removals. If you are satisfied with your choices, click "Confirm."
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Manage Student Licenses Confirmation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/manage student licenses confirmation.png" alt="" width="563"><figcaption><p>Manage Student Licenses Confirmation</p></figcaption></figure>
 
 {% hint style="warning" %}
 If a user is signed in at the time of license assignment, they will need to sign out and sign in to see their license reflected on their account.

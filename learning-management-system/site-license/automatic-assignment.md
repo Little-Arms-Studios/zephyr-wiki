@@ -28,7 +28,7 @@ Because licensing is done automatically when a student accepts an invite, invite
 
 You can still create invites any time before the course start date, they just won't be sent until their scheduled send date. So, in the example below, after we click "Invite," we can expect the course invites to be sent on 6/30/2025 at 2am (Local Time).
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="456"><figcaption><p>Invite Students to Auto Licensing Course</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/invite students site license auto assignment.png" alt="" width="456"><figcaption><p>Invite Students to Auto Licensing Course</p></figcaption></figure>
 
 ### Welcome Email
 
@@ -40,25 +40,25 @@ Email Subject: \[Zephyr] Welcome Email and Preparations
 
 Email Body:
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt="" width="563"><figcaption><p>Student Welcome Email</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/student welcome email.png" alt="" width="563"><figcaption><p>Student Welcome Email</p></figcaption></figure>
 
 ## Managing Invites
 
-You can always go to your "Invites" table under Manage > Invites on your Zephyr Dashboard to view their status. Here you can see useful information like Status, Invite Expiration, Role/Course, and if a License Removal Date is set
+You can always go to your "Invites" table under Manage > Invites on your Zephyr Dashboard to view their status. Here you can see useful information like Status, Invite Expiration, Role/Course, and if a License Removal Date is set.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Invites Tables Automatic Licensing Organization</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/invites table automatic licensing (1).png" alt=""><figcaption><p>Invites Table Automatic Licensing Organization</p></figcaption></figure>
 
 ## License Usage View & License Calculations
 
 The most complicated portion of this system is license calculation. Our system will do everything possible to calculate license availability and prevent any license overuse. At any point in time, you can view your license usage by logging into your institution admin or instructor account and clicking the "View License Usage" button on the "Site License Usage" card.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>License Usage Overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/license usage calendar.png" alt=""><figcaption><p>License Usage Calendar</p></figcaption></figure>
 
 You will be presented with a large calendar view.
 
 #### Projected vs Historical Data
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="374"><figcaption><p>License Usage Legend</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/license usage calendar legend.png" alt="" width="374"><figcaption><p>License Usage Legend</p></figcaption></figure>
 
 We divide license usage data between projected and historical usage.&#x20;
 
@@ -70,7 +70,7 @@ In essence, anything in the future will be projected and anything in the past wi
 
 #### Navigation
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="230"><figcaption><p>License Usage Navigation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/license usage calendar navigation.png" alt="" width="230"><figcaption><p>License Usage Navigation</p></figcaption></figure>
 
 Navigate through months/years by clicking the chevron arrow icons in the top right portion of the calendar view.
 
@@ -78,7 +78,7 @@ Click on a day to bring out the details sidebar on the right and view specific l
 
 #### Sidebar (Daily Details)
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>License Usage Daily View</p></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/license usage daily overview.png" alt="" width="375"><figcaption><p>License Usage Daily Overview</p></figcaption></figure>
 
 With a day selected, if there are any courses, invites, and license usage projected on the day, it will populate the sidebar with total license usage at the top and a breakdown of student license usage per course on the given day.
 
@@ -97,7 +97,7 @@ Say we have the following courses:
 1. `Course A` that starts `6/1` and ends `6/20`
 2. `Course B` that starts `6/16` and ends `6/28`
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Course Examples</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/course layout example.png" alt=""><figcaption><p>Course Examples</p></figcaption></figure>
 
 And our organization's `max student licenses` is `20`
 

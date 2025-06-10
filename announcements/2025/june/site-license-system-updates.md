@@ -48,19 +48,19 @@ Since we are scheduling automations on course dates, it's paramount that we get 
 
 This also allows users to be explicit when creating a course and factoring in any time zone differences between the instructors and students of a course.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption><p>Create Course Window</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/create course.png" alt="" width="459"><figcaption><p>Create Course Window</p></figcaption></figure>
 
 ### **Schedule Invites**
 
 If you are **not** at a Site License (Automatic) organization, you can choose a send-date/time for your invitations!
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="476"><figcaption><p>Send Date Option for Student Invite</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/invite students.png" alt="" width="463"><figcaption><p>Send Date Option for Student Invites</p></figcaption></figure>
 
 You can opt to send them immediately (like before) or pick "Choose a Date" where a date/time field will show up. You can select any date after today and on or before the course start date.
 
 If you choose a future send date, you can still view your invites under your MANAGE > INVITES table. You can also see the "Send On Date" in the Status field.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>Invites with Send Date</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/invites table.png" alt="" width="563"><figcaption><p>Invites with Send Date</p></figcaption></figure>
 
 ### **Student vs Instructor vs Institution Admin Licenses**
 
@@ -68,7 +68,7 @@ Currently, all site licenses are pooled and distributed together at an organizat
 
 This updated will separate those pools so that they can be managed independently - as they should have been from the start. This separation not only clarifies billing concerns, but also allows us to create the automatic assignment feature outlined below.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Site License Usage</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/site license usage card.png" alt="" width="299"><figcaption><p>Site License Usage Card</p></figcaption></figure>
 
 ### **Instructors Can Assign Licenses**
 
