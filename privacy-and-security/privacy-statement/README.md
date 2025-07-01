@@ -4,7 +4,7 @@ icon: pen-fancy
 
 # Privacy Statement
 
-Effective date: **March 1, 2025**
+Effective date: **July 1, 2025**
 
 Little Arms Studios, Inc. ("us", "we", or "our") operates the [https://zephyr-sim.com/](https://zephyr-sim.com/) website (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -13,13 +13,9 @@ We use your data to provide and improve the Service. By using the Service, you a
 {% hint style="info" %}
 Summary of Updates and Changes:
 
-* Removed Definitions Section
-* Clarified optional personal data collected
-* Clarified “Usage Data”
-* Condensed “Transfer of Data” section
-* Removed “Business Transaction” from “Disclosure of Data” section
-* Clarified “Children’s Policy” section
-* Clarified “Changes To This Privacy Policy” section
+* Removed Hotjar
+* Added Google Ads section
+* Fixed typos
 {% endhint %}
 
 ## Information We Collect And Use
@@ -170,17 +166,34 @@ We may employ third party companies and individuals to facilitate our Service ("
 
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-
 ### Analytics
 
 #### Google Analytics
 
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. For more information on the privacy practices of Google, please visit the [Google Privacy & Terms](http://www.google.com/intl/en/policies/privacy/) web page.
 
-#### Hotjar
+**Google Ads**
 
-We use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users’ experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices. This includes a device's IP address (processed during your session and stored in a de-identified form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), and the preferred language used to display our website. Hotjar stores this information on our behalf in a pseudonymized user profile. Hotjar is contractually forbidden to sell any of the data collected on our behalf. For further details, please see the ‘about Hotjar’ section of [Hotjar’s support site.](https://help.hotjar.com/hc/en-us/categories/115001323967-About-Hotjar)
+We use **Google Ads** to promote our products and services across the web. This includes features such as:
+
+* **Remarketing**: Showing our ads to users who have previously visited our website.
+* **Conversion Tracking**: Measuring the effectiveness of our ads by tracking user actions on our site after an ad click.
+* **Demographic and Interest Reporting**: Allowing us to better understand the types of users visiting our website.
+
+Google uses cookies and device identifiers to serve ads based on a user’s past visits to our website or other websites. These cookies do not collect personally identifiable information.
+
+This data is processed in accordance with[ Google’s Privacy Policy ](https://policies.google.com/privacy)and is subject to [Google’s Advertising Policies](https://support.google.com/adspolicy/answer/54817).
+
+We may use the following Google Ads features:
+
+* Google Ads Remarketing
+* Google Display Network Impression Reporting
+* Google Analytics Demographics and Interest Reporting
+* Integrated services that require Google Analytics to collect data for advertising purposes, including the collection of data via advertising cookies and identifiers
+
+You can opt out of Google’s use of cookies for personalized advertising by visiting [Google Ads Settings](https://adssettings.google.com/authenticated). You can also use the [Network Advertising Initiative opt-out](https://optout.networkadvertising.org/) page or the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
+
+We do not merge personally identifiable information with non-personally identifiable information collected through any Google advertising product unless we have your prior affirmative consent to that merger.
 
 ### Payments
 
@@ -190,7 +203,7 @@ We will not collect or store your payment card details. That information is prov
 
 The payment processors we work with are:
 
-* Stripe Their Privacy Policy can be viewed [here](https://stripe.com/privacy).
+* Stripe: Their Privacy Policy can be viewed [here](https://stripe.com/privacy).
 
 {% hint style="warning" %}
 **Plain and Simple**
