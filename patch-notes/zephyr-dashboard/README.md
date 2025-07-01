@@ -4,17 +4,14 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v5.5.4
+## v2025.0.11
 
-### March 31, 2025
+### June 30, 2025
 
-**Bug fixes and improvements to Report Request and Assign Licenses modal**
+**Bug Fixes**
 
-**Bug Fixes 🪲**
+* DLC Management modal (repeating API call)
 
-* Report Request: you can now request reports for all reports, not just completed vs. incomplete
-* Assign Licenses: bug fixes duplicate entries and added an "Unassign All" button
+**Improvements**
 
-**Improvements** :raised\_hands:
-
-* Improvements to logging table
+* Enterprise page UI issues on mobile and typo
