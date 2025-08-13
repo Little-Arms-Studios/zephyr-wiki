@@ -4,6 +4,29 @@ icon: rocket-launch
 
 # Little Arms Launcher
 
+## v0.12.6 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+
+### August 13, 2025
+
+_This update enhances the download and installation experience in preparation for the next simulator update in which scenarios will be split into DLC. Also includes some nice bug fixes and improvements that will hopefully mitigate common issues users experience._
+
+**New Features** <i class="fa-sparkles">:sparkles:</i>
+
+* New “Preparing” step added to app installation process, so you’ll know when the app is getting ready before the download begins.
+* Improved drive selection feedback user experience when running the Little Arms Launcher for the first time.
+
+**Bug Fixes** <i class="fa-bug">:bug:</i>
+
+* Fixed an issue that could result in an app installation/update failure if certain folders utilized by the Little Arms Launcher didn't exist where usually expected.
+* Fixed a case where setting the Little Arms Launcher's dedicated folder could fail unnecessarily if the source and destination happened to be the same.
+* Resolved an issue that could cause certain URLs to be mishandled during downloads.
+
+Performance and Security <i class="fa-lock">:lock:</i>
+
+* Improved stability across installation, update, and drive-listing (on Windows) processes.
+* Enhanced error handling for app installation catalogs, file cleanup, and app data management.
+* Optimized logging for better diagnostics, including CPU details and launcher process tracking.
+
 ## v0.12.0 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
 
 ### February 7, 2025
