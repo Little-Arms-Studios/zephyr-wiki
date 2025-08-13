@@ -24,6 +24,10 @@ A more dynamic weather system can be turned on or off from the main menu. This w
 
 _coming soon_
 
+## Payload System
+
+Currently, Zephyr supports two payload types, camera and flashlight. _Coming soon_, Zephyr is expanding its payload system to support current real world applications. Stay tuned!
+
 ## Learning Management System
 
 See [Broken link](broken-reference "mention") section for details.
