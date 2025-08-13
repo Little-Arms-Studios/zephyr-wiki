@@ -4,6 +4,7 @@
 * [Supported Controllers](supported-controllers.md)
 * [System Requirements](system-requirements.md)
 * [Country Availability](country-availability.md)
+* [Features](features.md)
 * [Roadmap](roadmap.md)
 * [Patch Notes](patch-notes/README.md)
   * [Zephyr](patch-notes/zephyr/README.md)
