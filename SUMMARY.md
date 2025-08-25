@@ -160,7 +160,8 @@
 * [Single Sign On](learning-management-system/single-sign-on.md)
 * [Courses](learning-management-system/courses.md)
 * [Assignments](learning-management-system/assignments.md)
-* [Data Removal](learning-management-system/data-removal.md)
+* [Data Removal](learning-management-system/data-removal/README.md)
+  * [Organization User Deletion](learning-management-system/data-removal/organization-user-deletion.md)
 
 ## 🪪 Certifications
 

@@ -4,20 +4,6 @@ description: >-
   tunnels, and hoops. How fast can you complete the course?
 cover: ../../.gitbook/assets/image (226).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Drone Racing

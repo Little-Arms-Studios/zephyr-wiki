@@ -5,20 +5,6 @@ description: >-
   advanced users.
 cover: ../../.gitbook/assets/image (228).png
 coverY: 99.26666666666667
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Flight Path Practice

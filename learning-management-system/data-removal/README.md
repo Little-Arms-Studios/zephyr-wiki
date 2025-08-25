@@ -23,9 +23,9 @@ When a student account is deleted, their flight reports can optionally be includ
 
 ### How long after my delete request is made will the data be fully removed from the platform?
 
-For non-user account data, the data is removed immediately from the platform. Backup data will be purged in accordance with our [data retention policy](../privacy-and-security/privacy-statement/#retention-of-data).
+For non-user account data, the data is removed immediately from the platform. Backup data will be purged in accordance with our [data retention policy](../../privacy-and-security/privacy-statement/#retention-of-data).
 
-For user accounts, when a delete request is submitted, all students at the organization will receive an email notifying them that their account will be deleted in 30 days. In this email, we give them an opportunity to save their account. If a student does not take action in 30 days, their account (and potentially their flight data) will be removed from the platform. Backup data will be purged in accordance with our [data retention policy](../privacy-and-security/privacy-statement/#retention-of-data).
+For user accounts, when a delete request is submitted, all students at the organization will receive an email notifying them that their account will be deleted in 30 days. In this email, we give them an opportunity to save their account. If a student does not take action in 30 days, their account (and potentially their flight data) will be removed from the platform. Backup data will be purged in accordance with our [data retention policy](../../privacy-and-security/privacy-statement/#retention-of-data).
 
 
 

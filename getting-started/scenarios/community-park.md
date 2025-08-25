@@ -4,20 +4,6 @@ description: >-
   idyllic spot for human recreation, but it's minefield for low flying drones.
 cover: ../../.gitbook/assets/image (224).png
 coverY: -46.336
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Community Park

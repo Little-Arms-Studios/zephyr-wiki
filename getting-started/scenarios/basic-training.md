@@ -4,20 +4,6 @@ description: >-
   Zephyr, the Basic Training scenario is the perfect choice.
 cover: ../../.gitbook/assets/image (221).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Basic Training

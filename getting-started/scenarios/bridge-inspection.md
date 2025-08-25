@@ -5,20 +5,6 @@ description: >-
   perform professional bridge safety inspections.
 cover: ../../.gitbook/assets/image (11) (1) (1).png
 coverY: 227.81866666666664
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Bridge Inspection

@@ -4,20 +4,6 @@ description: >-
   automobiles, stay for the fascinating store names.
 cover: ../../.gitbook/assets/image (225).png
 coverY: 49
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Parking Lot

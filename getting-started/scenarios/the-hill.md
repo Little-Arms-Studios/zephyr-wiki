@@ -4,20 +4,6 @@ description: >-
   interesting line of sight challenges for operators to overcome.
 cover: ../../.gitbook/assets/image (222).png
 coverY: 142.81066666666666
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # The Hill

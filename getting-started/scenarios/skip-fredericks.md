@@ -5,20 +5,6 @@ description: >-
   industry.
 cover: ../../.gitbook/assets/image (233).png
 coverY: 135.14666666666665
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Skip Fredericks

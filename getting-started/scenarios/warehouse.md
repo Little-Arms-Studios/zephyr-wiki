@@ -5,20 +5,6 @@ description: >-
   interior and exterior flight skills!
 cover: ../../.gitbook/assets/image (231).png
 coverY: 90.89066666666666
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Warehouse

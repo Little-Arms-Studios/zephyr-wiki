@@ -4,20 +4,6 @@ description: >-
   area and a yard littered with obstacles.
 cover: ../../.gitbook/assets/image (227).png
 coverY: 102.32533333333333
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Yard
