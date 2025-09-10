@@ -6,6 +6,8 @@ icon: arrow-turn-left
 
 ## Digital Products
 
+NOTE: Only applicable to individual licenses. Not applicable to enterprise licenses.
+
 We issue refunds for digital products within 30 days of the original purchase of the product.
 
 We recommend contacting us for assistance if you experience any issues receiving or downloading our products.

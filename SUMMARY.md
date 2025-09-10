@@ -218,6 +218,7 @@
     * [Terms of Service July 28, 2016](policies/terms-of-service/terms-of-service-archive/terms-of-service-july-28-2016.md)
 * [Shipping Policy](policies/shipping-policy.md)
 * [Return Policy](policies/return-policy.md)
+* [Accessibility Statement](policies/accessibility-statement.md)
 
 ## &#x20; <a href="#help" id="help"></a>
 
