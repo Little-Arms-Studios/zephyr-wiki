@@ -69,3 +69,20 @@ The only required piece of information to sign up and start using Zephyr is an *
 When purchasing a Certification test such as the BPERP, personal information such as first name, last name and email address is required and provided to the [Airborne Public Safety Association](https://publicsafetyaviation.org/apsa-basic-proficiency-evaluation-for-remote-pilots-bperp-certificate-application), which review and approve the BPERP certification.
 
 </details>
+
+<details>
+
+<summary>Proxy issues</summary>
+
+Errors due to proxy misconfiguration can manifest myriad ways, but the most common issue would be "Zephyr received a set of invalid credentials" when trying to launch Zephyr from the Little Arms Launcher.
+
+Typically this is due to the way the simulator interprets the `HTTPS_PROXY` environment variable on some computers. If you have a program that manages your proxy settings, it can create multiple values for this `HTTPS_PROXY` environment variable.
+
+At this time, the simulator can only interpret one URL value in this environment variable. For example `HTTPS_PROXY=xyz-xyz.domain.com:80`. If this value has multiple URL's (for example `HTTPS_PROXY=xyz-xyz.domain.com:80;abc-abc.domain.com:80`, the simulator will error when trying to communicate to our API.
+
+Until we can fix this issue in the simulator, you will need to resolve this issue by either:
+
+1. Remove the `HTTPS_PROXY` value from your environment variable
+2. Ensure the `HTTPS_PROXY` value is a single URL
+
+</details>
