@@ -76,6 +76,9 @@
         * [⭐ v4.1.0](patch-notes/zephyr-dashboard/archive/2024/v4.1.0.md)
 * [Announcements](announcements/README.md)
   * [2025](announcements/2025/README.md)
+    * [October](announcements/2025/october/README.md)
+      * [Email Verification Update](announcements/2025/october/email-verification-update.md)
+      * [Simulator Update Required](announcements/2025/october/simulator-update-required.md)
     * [June](announcements/2025/june/README.md)
       * [Site License System Updates](announcements/2025/june/site-license-system-updates.md)
 

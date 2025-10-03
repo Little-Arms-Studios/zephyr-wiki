@@ -1,0 +1,26 @@
+# Email Verification Update
+
+## What's New?
+
+Starting **October 15th, 2025** all users (with one exception\*) will be required to verify their email to continue using Zephyr.
+
+If your email is not already verified, the next time you login to Zephyr (either through the website or the Launcher) you will be prompted to enter a code that's automatically sent to your email.
+
+Once your email is verified you're good to go! We won't bother you with another email verification unless you update your email associated with your Zephyr account.
+
+## What's the one exception?\*
+
+Some K12 organizations do not allow access to their students' inboxes. For these organizations, student accounts will not be required to go through this verification process.
+
+## What if I don't have access to my inbox?
+
+Unfortunately, we cannot guarantee the security of your Zephyr account without going through this verification process. You can always email support@littlearms.com if you need help with this process.
+
+## I did not receive a verification code
+
+Please check your spam and deleted folders in your inbox.
+
+You can also click "Resend" on the email verification code window in Zephyr.
+
+If you still have not received a code, please send an email to support@littlearms.com.
+
