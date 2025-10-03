@@ -14,7 +14,7 @@ Some K12 organizations do not allow access to their students' inboxes. For these
 
 ## What if I don't have access to my inbox?
 
-Unfortunately, we cannot guarantee the security of your Zephyr account without going through this verification process. You can always email support@littlearms.com if you need help with this process.
+Please contact support by sending an email to support@littlearms.com.
 
 ## I did not receive a verification code
 
