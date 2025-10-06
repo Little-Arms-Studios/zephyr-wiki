@@ -43,7 +43,7 @@ _\*must be used with a wired USB connection_
 * XBox One Controllers
   * Model 1537 _**(Not Supported)**_
   * Model 1708 \[M1 Mac or newer only)\*\*
-  * Model 1914 _**(Unknown)**_
+  * Model 1914 \[Windows 11]
 * PlayStation 3 Controller \[M1 Mac or newer only]\*
 * PlayStation 4 controller\*
   * [macOS Instructions](https://support.apple.com/en-us/111100)

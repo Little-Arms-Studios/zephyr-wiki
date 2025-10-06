@@ -223,6 +223,11 @@
 * [Return Policy](policies/return-policy.md)
 * [Accessibility Statement](policies/accessibility-statement.md)
 
+## 🔎 Troubleshooting
+
+* [Controllers](troubleshooting/controllers/README.md)
+  * [Vertical Drift Fix on Controller](troubleshooting/controllers/vertical-drift-fix-on-controller.md)
+
 ## &#x20; <a href="#help" id="help"></a>
 
 * [FAQs](help/faqs.md)
