@@ -23,7 +23,7 @@ icon: desktop
 {% tab title="macOS 🍎" %}
 | Minimum                                                                                                    | Recommended                                                                                                |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| <mark style="color:blue;">**OS:**</mark> macOS 13 Ventura                                                  | <mark style="color:blue;">**OS:**</mark> macOS 15 Sequoia                                                  |
+| <mark style="color:blue;">**OS:**</mark> macOS 14 Sonoma                                                   | <mark style="color:blue;">**OS:**</mark> macOS 26 Tahoe                                                    |
 | <mark style="color:blue;">**CPU:**</mark> Intel Core i5 @ 3.6 GHz or equivalent                            | <mark style="color:blue;">**CPU:**</mark> M1 or Higher                                                     |
 | <mark style="color:blue;">**Memory:**</mark> 8 GB of RAM                                                   | <mark style="color:blue;">**Memory:**</mark> 16 GB of RAM                                                  |
 | <mark style="color:blue;">**Hard Drive:**</mark> 11 GB available in hard disk (plus about 4GB for install) | <mark style="color:blue;">**Hard Drive:**</mark> 11 GB available in hard disk (plus about 4GB for install) |
