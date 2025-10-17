@@ -23,8 +23,6 @@ Alternatively, if you are already in a different settings menu or the scenario s
 
 ## Understanding the Controller Settings Menu
 
-Text
-
 <figure><img src="../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
 1. Calibration
@@ -45,8 +43,6 @@ Text
    1. This is the Stick Deadzone Adjustment user interface. The user can enter a custom stick deadzone value or clear the value to return it to default.
 
 ## Calibration
-
-
 
 ### Quick Calibration
 

@@ -152,6 +152,7 @@
     * [Typhoon](getting-started/drones/yuneec/typhoon.md)
 * [Controller Configuration](getting-started/controller-configuration/README.md)
   * [FS-i6s Controller Setup](https://youtu.be/TDcRAayNbqg?si=wE6pzA_TPtUSJrfo)
+  * [Orqa FPV Controller](getting-started/controller-configuration/orqa-fpv-controller.md)
 
 ## 👤 ACCOUNT MANAGEMENT
 
