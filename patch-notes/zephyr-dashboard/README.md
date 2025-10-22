@@ -4,15 +4,11 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2025.3.5
+## v2025.3.6
 
-### Oct. 16, 2025
+### Oct. 22, 2025
 
-**Improvements**
+Bug Fix:
 
-* Added features to the Site Announcement system
-
-**Bug Fixes**
-
-* Product update issues when adding DLC and Scenes at the same time
+* Minor bug fix on Product management
 
