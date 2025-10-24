@@ -60,5 +60,7 @@ _This update includes two new scenarios "Miami Beach" and "SAR Fundamentals" (Se
 Known Issues ❗
 
 * Updating DLC in the Launcher for a version of the Simulator that has not yet been released results in  the update failing. A future Launcher update will be released to handle this more gracefully.
+* A small camera stabilization issue, when changing pitch/roll directions quickly.
+* Moving your pitch/roll stick to the extremes (UpRight, UpLeft, DownLeft, DownRight) cause the drone to move slower than expected.
 * At lower FPS, a prevalent "camera wobble" when flying certain drones can be seen.
 
