@@ -18,17 +18,17 @@ icon: desktop
 | <mark style="color:blue;">**Hard Drive:**</mark>  7 - 25GB\*                                                         | <mark style="color:blue;">**Hard Drive:**</mark> 7 - 25GB\*                                                                  |
 | <mark style="color:blue;">**Graphics:**</mark> Direct X 10 or higher compatible graphics card (GTX660 or equivalent) | <mark style="color:blue;">**Graphics:**</mark> Direct X 10 or higher compatible graphics card (GTX 970 equivalent or higher) |
 | <mark style="color:blue;">**Internet Connection:**</mark> DSL or Higher                                              | <mark style="color:blue;">**Internet Connection:**</mark> DSL or Higher                                                      |
-| \*Depends on what content you have access to. The more content, the more space required for install                  |                                                                                                                              |
 {% endtab %}
 
 {% tab title="macOS 🍎" %}
-| Minimum                                                                                             | Recommended                                                             |
-| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <mark style="color:blue;">**OS:**</mark> macOS 14 Sonoma                                            | <mark style="color:blue;">**OS:**</mark> macOS 26 Tahoe                 |
-| <mark style="color:blue;">**CPU:**</mark> Intel Core i5 @ 3.6 GHz or equivalent                     | <mark style="color:blue;">**CPU:**</mark> M1 or Higher                  |
-| <mark style="color:blue;">**Memory:**</mark> 16 GB of RAM                                           | <mark style="color:blue;">**Memory:**</mark> 24 GB of RAM               |
-| <mark style="color:blue;">**Hard Drive:**</mark>  7 - 25GB\*                                        | <mark style="color:blue;">**Hard Drive:**</mark>  7 - 25GB\*            |
-| <mark style="color:blue;">**Internet Connection:**</mark> DSL or Higher                             | <mark style="color:blue;">**Internet Connection:**</mark> DSL or Higher |
-| \*Depends on what content you have access to. The more content, the more space required for install |                                                                         |
+| Minimum                                                                         | Recommended                                                             |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <mark style="color:blue;">**OS:**</mark> macOS 14 Sonoma                        | <mark style="color:blue;">**OS:**</mark> macOS 26 Tahoe                 |
+| <mark style="color:blue;">**CPU:**</mark> Intel Core i5 @ 3.6 GHz or equivalent | <mark style="color:blue;">**CPU:**</mark> M1 or Higher                  |
+| <mark style="color:blue;">**Memory:**</mark> 16 GB of RAM                       | <mark style="color:blue;">**Memory:**</mark> 24 GB of RAM               |
+| <mark style="color:blue;">**Hard Drive:**</mark>  7 - 25GB\*                    | <mark style="color:blue;">**Hard Drive:**</mark>  7 - 25GB\*            |
+| <mark style="color:blue;">**Internet Connection:**</mark> DSL or Higher         | <mark style="color:blue;">**Internet Connection:**</mark> DSL or Higher |
 {% endtab %}
 {% endtabs %}
+
+\*Depends on what content you have access to. The more content, the more space required for install
