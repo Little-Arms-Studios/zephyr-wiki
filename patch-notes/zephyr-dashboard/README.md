@@ -4,11 +4,11 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2025.3.7
+## v2025.3.8
 
-### October 27, 2025
+### October 31, 2025
 
-Bug Fix:
+Improvements:
 
-* Site License Product Update
+* Added announcement for Nov. 5th release
 
