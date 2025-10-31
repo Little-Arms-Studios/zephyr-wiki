@@ -2,7 +2,7 @@
 
 ## What's New?
 
-Starting **October 15th, 2025** all users (with one exception\*) will be required to verify their email to continue using Zephyr.
+Starting **November 5th, 2025** all users (**with one exception\***) will be required to verify their email to continue using Zephyr.
 
 If your email is not already verified, the next time you login to Zephyr (either through the website or the Launcher) you will be prompted to enter a code that's automatically sent to your email.
 
