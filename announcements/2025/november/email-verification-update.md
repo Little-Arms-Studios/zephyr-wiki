@@ -12,6 +12,8 @@ Once your email is verified you're good to go! We won't bother you with another 
 
 Some K12 organizations do not allow access to their students' inboxes. For these organizations, student accounts will not be required to go through this verification process.
 
+If you're unsure if your organization on Zephyr is setup to as K12, please reach out to support@littlearms.com.
+
 ## What if I don't have access to my inbox?
 
 Please contact support by sending an email to support@littlearms.com.
