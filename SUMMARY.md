@@ -200,6 +200,7 @@
 
 * [Single Sign On](integrations/single-sign-on.md)
 * [Drone Logbook](integrations/drone-logbook.md)
+* [AirData](integrations/airdata.md)
 
 ## 🖥️ HARDWARE LICENSES
 
