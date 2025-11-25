@@ -1,7 +1,4 @@
 ---
-description: >-
-  Come visit the spacious Island scenario, where you will find ample space to
-  fly, sights to see, and points of interest to explore.
 cover: ../../.gitbook/assets/image (230).png
 coverY: 0
 ---
@@ -9,6 +6,8 @@ coverY: 0
 # The Island
 
 ## Introduction
+
+Come visit the spacious Island scenario, where you will find ample space to fly, sights to see, and points of interest to explore.
 
 The Island scenario consists of nine modules:
 
@@ -29,13 +28,40 @@ The Island scenario consists of nine modules:
 
 <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
-## Drone Roster
-
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
-
 ## Module Breakdowns
 
 ### Island Tour
+
+#### Drone Roster
+
+| Drone Model   |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| Titan         |
+| ag6a          |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| alta\_x       |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
+
+#### Description
 
 Take a tour around the island
 
@@ -59,6 +85,37 @@ To complete the Island Tour you'll need to:
 
 ### Boat Landing
 
+#### Drone Roster
+
+| Drone Model   |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| Titan         |
+| ag6a          |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| alta\_x       |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
+
+#### Description
+
 Several boats are floating around the island.  Find them and land on them.
 
 To complete the Boat Landing module you'll need to land on 4 boats and then the launch pad.
@@ -68,6 +125,37 @@ To complete the Boat Landing module you'll need to land on 4 boats and then the 
 <figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ### Island Circuit
+
+#### Drone Roster
+
+| Drone Models  |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| Titan         |
+| ag6a          |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| alta\_x       |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
+
+#### Description
 
 How fast can you navigate this racing circuit covering the entire island?
 
@@ -79,6 +167,34 @@ For the Island Circuit module you'll need to race around the island tagging all 
 
 ### Tower Ascent
 
+#### Drone Roster
+
+| Drone Model   |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
+
+#### Description
+
 Ascend the tower at the solar panel farm and land on the top.
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
@@ -86,6 +202,34 @@ Ascend the tower at the solar panel farm and land on the top.
 <figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 ### Power Line Run
+
+#### Drone Roster
+
+| Drone Models  |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
+
+#### Description
 
 You'll need to balance safety and speed to navigate this course between power lines.
 
@@ -95,6 +239,37 @@ You'll need to balance safety and speed to navigate this course between power li
 
 ### Dock Shuttle
 
+#### Drone Roster
+
+| Drone Models  |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| Titan         |
+| ag6a          |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| alta\_x       |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
+
+#### Description
+
 Complete this course within the confines of the harbor dock and with your yaw locked, then land on the lanchpad.
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
@@ -103,6 +278,34 @@ Complete this course within the confines of the harbor dock and with your yaw lo
 
 ### Lighthouse Ascent
 
+#### Drone Roster
+
+| Drone Model   |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
+
+#### Description
+
 Ascend the stairs of the lighthouse and reach the top of the building.  How hard can it be?
 
 <figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
@@ -110,6 +313,31 @@ Ascend the stairs of the lighthouse and reach the top of the building.  How hard
 <figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ### Duck Scavenger Hunt
+
+#### Drone Roster
+
+| Drone Models  |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| m200          |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| alta\_x       |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
+
+#### Description
 
 Without crashing, find and capture an image of the 10 rubber ducks hidden around the village. Use the `P` key to capture images.  Ducks will be in or around the village buildings and in the church.
 

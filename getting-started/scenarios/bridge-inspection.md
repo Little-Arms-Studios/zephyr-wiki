@@ -1,8 +1,4 @@
 ---
-description: >-
-  Inspecting hard-to-reach or dangerous areas safely is a major benefit of using
-  drones. This scenario provides practical experience for those looking to
-  perform professional bridge safety inspections.
 cover: ../../.gitbook/assets/image (11) (1) (1).png
 coverY: 227.81866666666664
 ---
@@ -11,13 +7,32 @@ coverY: 227.81866666666664
 
 ## Introduction
 
+Inspecting hard-to-reach or dangerous areas safely is a major benefit of using drones. This scenario provides practical experience for those looking to perform professional bridge safety inspections.
+
 The Bridge Inspection scenario is designed to expose the pilot to flying with the intention of inspecting various parts of a bridge. In this tutorial we will walk you through how to identify cracks on the bridge, how to capture the cracks, and the differences between the learning modules.
 
 <figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+Every module in this scenario has the following drone roster:
+
+| Drone Model   |
+| ------------- |
+| Phantom3      |
+| Phantom4      |
+| Inspire1      |
+| Inspire2      |
+| Mavic         |
+| Typhoon       |
+| m200          |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| alta\_x       |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
 
 ## Module Breakdowns
 

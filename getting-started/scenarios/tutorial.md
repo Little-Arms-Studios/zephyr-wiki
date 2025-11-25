@@ -1,8 +1,4 @@
 ---
-description: >-
-  Learn everything you need to get started with Zephyr. Whether you are brand
-  new to the simulator or an experienced operator looking for a refresher, this
-  scenario is the best place to get started.
 cover: ../../.gitbook/assets/image (220).png
 coverY: 0
 ---
@@ -10,6 +6,8 @@ coverY: 0
 # Tutorial
 
 ## Introduction
+
+Learn everything you need to get started with Zephyr. Whether you are brand new to the simulator or an experienced operator looking for a refresher, this scenario is the best place to get started.
 
 The Tutorial scenario consists of four modules that walk users through the basics of using Zephyr, from controlling a drone to completing module objectives. The four modules are:
 

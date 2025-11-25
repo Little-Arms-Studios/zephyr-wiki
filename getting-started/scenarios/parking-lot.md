@@ -1,7 +1,4 @@
 ---
-description: >-
-  A large strip mall and accompanying parking area. Come for the assortment of
-  automobiles, stay for the fascinating store names.
 cover: ../../.gitbook/assets/image (225).png
 coverY: 49
 ---
@@ -9,6 +6,8 @@ coverY: 49
 # Parking Lot
 
 ## Introduction
+
+A large strip mall and accompanying parking area. Come for the assortment of automobiles, stay for the fascinating store names.
 
 The Parking Lot scenario consists of two modules:
 
@@ -19,7 +18,30 @@ The Parking Lot scenario consists of two modules:
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
+Every module in this scenario has the following drone roster:
+
+| Drone Models  |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| DJI\_Avata2   |
 
 ## Module Breakdowns
 

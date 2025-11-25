@@ -1,8 +1,4 @@
 ---
-description: >-
-  This fully realized Warehouse scenario includes cargo containers, industrial
-  shelving, and stacks of pallets. A variety of modules will help you hone your
-  interior and exterior flight skills!
 cover: ../../.gitbook/assets/image (231).png
 coverY: 90.89066666666666
 ---
@@ -10,6 +6,8 @@ coverY: 90.89066666666666
 # Warehouse
 
 ## Introduction
+
+This fully realized Warehouse scenario includes cargo containers, industrial shelving, and stacks of pallets. A variety of modules will help you hone your interior and exterior flight skills!
 
 The Warehouse scenario consists of ten modules:
 
@@ -33,7 +31,30 @@ The Warehouse scenario consists of ten modules:
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+Every module in this scenario has the following drone roster:
+
+| Drone Models  |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| DJI\_Avata2   |
 
 ## Module Breakdowns
 

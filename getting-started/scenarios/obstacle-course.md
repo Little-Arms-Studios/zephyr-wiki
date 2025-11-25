@@ -1,7 +1,4 @@
 ---
-description: >-
-  The Obstacle Course scenario is a time trial where operators pilot their drone
-  through a tense, tightly-packed course.
 cover: ../../.gitbook/assets/image (223).png
 coverY: 0
 ---
@@ -9,6 +6,8 @@ coverY: 0
 # Obstacle Course
 
 ## Introduction
+
+The Obstacle Course scenario is a time trial where operators pilot their drone through a tense, tightly-packed course.
 
 The Obstacle Course scenario consists of two modules:
 
@@ -19,7 +18,31 @@ The Obstacle Course scenario consists of two modules:
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+Every module in this scenario has the following drone roster:
+
+| Drone Model   |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
 
 ## Module Breakdowns
 

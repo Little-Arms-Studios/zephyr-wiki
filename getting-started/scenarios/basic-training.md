@@ -1,7 +1,4 @@
 ---
-description: >-
-  When you want to practice and reinforce the basics of drone movement in
-  Zephyr, the Basic Training scenario is the perfect choice.
 cover: ../../.gitbook/assets/image (221).png
 coverY: 0
 ---
@@ -9,6 +6,8 @@ coverY: 0
 # Basic Training
 
 ## Introduction
+
+When you want to practice and reinforce the basics of drone movement in Zephyr, the Basic Training scenario is the perfect choice.
 
 Basic Training is a comprehensive training scenario containing 25 modules across five different categories. Those categories are:
 
@@ -24,7 +23,32 @@ Basic Training is a comprehensive training scenario containing 25 modules across
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+Every module in this scenario has the following drone roster:
+
+| Drone Model   |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| alta\_x       |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
 
 {% hint style="danger" %}
 Crashing the drone in this scenario results in an automatic failure.

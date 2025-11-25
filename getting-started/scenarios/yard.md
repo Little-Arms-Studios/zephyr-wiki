@@ -1,7 +1,4 @@
 ---
-description: >-
-  This quaint, mid-sized house on the prairie features a wide-open surrounding
-  area and a yard littered with obstacles.
 cover: ../../.gitbook/assets/image (227).png
 coverY: 102.32533333333333
 ---
@@ -9,6 +6,8 @@ coverY: 102.32533333333333
 # Yard
 
 ## Introduction
+
+This quaint, mid-sized house on the prairie features a wide-open surrounding area and a yard littered with obstacles.
 
 The Yard scenario consists of two modules:
 
@@ -19,7 +18,28 @@ The Yard scenario consists of two modules:
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+Every module in this scenario has the following drone roster:
+
+| Drone Models  |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| m200          |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| alta\_x       |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
 
 ## Module Breakdowns
 

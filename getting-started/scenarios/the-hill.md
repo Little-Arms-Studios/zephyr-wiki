@@ -1,7 +1,4 @@
 ---
-description: >-
-  The Hill scenario combines wide open skies with rolling hills to provide
-  interesting line of sight challenges for operators to overcome.
 cover: ../../.gitbook/assets/image (222).png
 coverY: 142.81066666666666
 ---
@@ -9,6 +6,8 @@ coverY: 142.81066666666666
 # The Hill
 
 ## Introduction
+
+The Hill scenario combines wide open skies with rolling hills to provide interesting line of sight challenges for operators to overcome.
 
 The Hill consists of two modules:
 
@@ -19,7 +18,34 @@ The Hill consists of two modules:
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+Every module in this scenario has the following drone roster:
+
+| Drone Models  |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| Titan         |
+| ag6a          |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| alta\_x       |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
 
 ## Module Breakdowns
 

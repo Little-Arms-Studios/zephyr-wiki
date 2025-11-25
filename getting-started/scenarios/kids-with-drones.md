@@ -1,8 +1,4 @@
 ---
-description: >-
-  Kids with Drones is a special scenario developed to show children the fun of
-  piloting a drone. This scenario features basic training, exciting games, and
-  the ability to select your pilot.
 cover: ../../.gitbook/assets/image (229).png
 coverY: 0
 ---
@@ -10,6 +6,8 @@ coverY: 0
 # Kids With Drones
 
 ## Introduction
+
+Kids with Drones is a special scenario developed to show children the fun of piloting a drone. This scenario features basic training, exciting games, and the ability to select your pilot.
 
 The Kids with Drones scenario consists of eleven modules:
 
@@ -36,7 +34,22 @@ The Kids with Drones scenario consists of eleven modules:
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+Every module in this scenario has the following drone roster:
+
+| Drone Model |
+| ----------- |
+| Bebop2      |
+| HDRacer     |
+| Inspire1    |
+| Inspire2    |
+| Matrice     |
+| Mavic       |
+| Phantom3    |
+| Phantom4    |
+| Symax5c     |
+| ThreeDRSolo |
+| Typhoon     |
+| XStar       |
 
 ## Module Breakdowns
 

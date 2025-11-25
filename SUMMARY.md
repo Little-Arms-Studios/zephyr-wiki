@@ -125,6 +125,8 @@
   * [Skip Fredericks](getting-started/scenarios/skip-fredericks.md)
   * [Bridge Inspection](getting-started/scenarios/bridge-inspection.md)
   * [NIST](getting-started/scenarios/nist.md)
+  * [Beach (Evening)](getting-started/scenarios/beach-evening.md)
+  * [Search and Rescue (SAR) Fundamentals](getting-started/scenarios/search-and-rescue-sar-fundamentals.md)
 * [Drones](getting-started/drones/README.md)
   * [3DR](getting-started/drones/3dr/README.md)
     * [3DR Solo](getting-started/drones/3dr/3dr-solo.md)

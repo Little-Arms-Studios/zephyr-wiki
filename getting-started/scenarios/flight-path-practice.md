@@ -1,8 +1,4 @@
 ---
-description: >-
-  Do you fancy yourself an advanced drone operator? Prove it by mastering the
-  Flight Path Practice scenario, where each module is designed to stress even
-  advanced users.
 cover: ../../.gitbook/assets/image (228).png
 coverY: 99.26666666666667
 ---
@@ -10,6 +6,8 @@ coverY: 99.26666666666667
 # Flight Path Practice
 
 ## Introduction
+
+Do you fancy yourself an advanced drone operator? Prove it by mastering the Flight Path Practice scenario, where each module is designed to stress even advanced users.
 
 The Flight Path Practice scenario consists of four modules:
 
@@ -22,7 +20,31 @@ The Flight Path Practice scenario consists of four modules:
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+Every module in this scenario has the following drone roster:
+
+| Drone Model   |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
 
 ## Module Breakdowns
 

@@ -1,8 +1,4 @@
 ---
-description: >-
-  Inspecting hard-to-reach or dangerous areas safely is a major benefit of using
-  drones. This scenario provides practical experience for those looking to
-  perform professional tower safety inspections.
 cover: ../../.gitbook/assets/image (232).png
 coverY: 0
 ---
@@ -10,6 +6,8 @@ coverY: 0
 # Tower Inspection
 
 ## Introduction
+
+Inspecting hard-to-reach or dangerous areas safely is a major benefit of using drones. This scenario provides practical experience for those looking to perform professional tower safety inspections.
 
 Tower Inspection has three different styles of towers to allow operators to test their tower inspection skills.
 
@@ -25,7 +23,34 @@ Operators will be challenged in different ways to inspect each tower such as lin
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+Every module in this scenario has the following drone roster:
+
+| Drone Models  |
+| ------------- |
+| Phantom3      |
+| Inspire1      |
+| ThreeDRSolo   |
+| Symax5c       |
+| XStar         |
+| Bebop2        |
+| Mavic         |
+| Phantom4      |
+| Inspire2      |
+| Typhoon       |
+| Titan         |
+| ag6a          |
+| HDRacer       |
+| m200          |
+| LokiMK2       |
+| Skydio\_2     |
+| Autel\_Evo\_2 |
+| alta\_x       |
+| arrowhead     |
+| anafi\_usa    |
+| Skydio\_X2D   |
+| m30           |
+| X10           |
+| DJI\_Avata2   |
 
 ## Module Breakdowns
 

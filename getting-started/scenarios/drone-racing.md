@@ -1,7 +1,4 @@
 ---
-description: >-
-  A full-fledged outdoor drone race track featuring obstacles such as slaloms,
-  tunnels, and hoops. How fast can you complete the course?
 cover: ../../.gitbook/assets/image (226).png
 coverY: 0
 ---
@@ -9,6 +6,8 @@ coverY: 0
 # Drone Racing
 
 ## Introduction
+
+A full-fledged outdoor drone race track featuring obstacles such as slaloms, tunnels, and hoops. How fast can you complete the course?
 
 The Drone Racing scenario consists of one module:
 
@@ -18,7 +17,7 @@ The Drone Racing scenario consists of one module:
 
 ## Drone Roster
 
-<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+Free Flight modules have access to Zephyr's entire drone roster.
 
 <figure><img src="../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
