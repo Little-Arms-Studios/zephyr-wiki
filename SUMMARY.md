@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Supported Controllers](supported-controllers.md)
+* [Supported Controllers](supported-controllers/README.md)
+  * [Spektrum InterLink DX Configuration Guide](supported-controllers/spektrum-interlink-dx-configuration-guide.md)
 * [System Requirements](system-requirements.md)
 * [Country Availability](country-availability.md)
 * [Features](features.md)

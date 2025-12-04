@@ -28,7 +28,7 @@ Unfortunately Most DJI Controllers are not compatible with Zephyr at this time. 
 * iFlight iF8 \[PC only]\*
 * Radiomaster T8 \[PC only]\*
 * Spektrum \[PC only]\*
-* Spektrum Interlink DX \[PC only]\*
+* [Spektrum Interlink DX](spektrum-interlink-dx-configuration-guide.md) \[PC only]\*
 * Tactic InterLink X\*
 * Taranis\* (and possibly other OpenTX controllers)
 * Volantex RC Controller \[PC only]\*
