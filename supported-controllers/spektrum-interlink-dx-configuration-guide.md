@@ -6,7 +6,7 @@ description: >-
 
 # Spektrum InterLink DX Configuration Guide
 
-## Guide for Windows 11 Came Controller Calibration
+## Guide for Windows 11 Game Controller Calibration
 
 If Zephyr is not reading the full range of motion for your Spektrum InterLink DX's sticks, the most likely cause is the controller needing to be calibrated for Windows. Please follow the steps below to get your controller calibrated.
 
