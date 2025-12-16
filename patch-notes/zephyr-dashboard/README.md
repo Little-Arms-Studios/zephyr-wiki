@@ -4,12 +4,12 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2025.4.3
+## v2025.4.4
 
-### November 5, 2025
+### December 16, 2025
 
-Bug Fix:
+Improvements:
 
-* Add/Remove License Modal
-* Add License on Organization Creation Process
+* Added language clarifying the email verification code process sending limitations
+* Added a clearing function to the email verification input fields when re-attempting to enter a new code
 
