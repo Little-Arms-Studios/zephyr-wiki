@@ -10,6 +10,7 @@
 * [Patch Notes](patch-notes/README.md)
   * [Zephyr](patch-notes/zephyr/README.md)
     * [💼 Archive](patch-notes/zephyr/archive/README.md)
+      * [⭐ v1.10.5](patch-notes/zephyr/archive/v1.10.5.md)
       * [⭐ v1.8.5](patch-notes/zephyr/archive/v1.8.5.md)
       * [⭐ v1.8.171](patch-notes/zephyr/archive/v1.8.171.md)
       * [⭐ v1.8.155](patch-notes/zephyr/archive/v1.8.155.md)
