@@ -21,6 +21,8 @@ If you need to adjust the gimbal tensions of your Orqa.FPV controller, please re
 
 We always recommend connecting controllers to your computer via USB (not Bluetooth) for the most reliable connection. Ensure both ends are fully seated into the computer and controller and make sure the controller is turned on (the on switch is at the base of the controller between the handles. Switching the controller on should result in a "beep" noise and green lights showing on the face of the controller).
 
+Once Zephyr has launched, provide some input on the controller (moving the sticks or flipping a switch).
+
 A quick way to troubleshoot issues impacting an Orqa controller is to open Zephyr and navigate to Main Menu -> Controller and read the text next to "Currently Using:" in the top bar:
 
 1. If the text says "Currently Using:None", the simulator is not registering the controller at all. This is likely caused by either a connection issue (i.e. bad USB cable connection) or the controller is not powered on.
