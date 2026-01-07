@@ -146,10 +146,11 @@ Make sure the link is **publicly accessible**. By default, many cloud storage pl
 
 Submit your attempt on the Zephyr website
 
-1. Log in to your account on [Zephyr-Sim.com](http://zephyr-sim.com/) and navigate to your Certifications tab
-2. Locate your Certification attempt in progress and select “Manage”
-3. Paste the link to your video submission in the “Submission URL” box
-4. Click SUBMIT
+1. Log in to your account on [Zephyr-Sim.com](http://zephyr-sim.com/)
+2. Click on "Certifications" in the lefthand navigation column
+3. Locate your Certification entry in the table. It should have a status of "Awaiting Attempt". Click the "Options" cog icon, and select “Submit”
+4. Paste the link to your video submission in the “Submission URL” box and confirm the URL is publicly accessibly by clicking the checkbox
+5. Click SUBMIT
 
 {% hint style="info" %}
 Your Certification status will change to “In Review.” A proctor will review and update the submission as soon as possible. You will get a notification email when your submission has been reviewed
