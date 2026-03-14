@@ -98,6 +98,9 @@
       * [Simulator Update Required](announcements/2025/october/simulator-update-required.md)
     * [June](announcements/2025/june/README.md)
       * [Site License System Updates](announcements/2025/june/site-license-system-updates.md)
+  * [2026](announcements/2026/README.md)
+    * [March](announcements/2026/march/README.md)
+      * [Simulator Performance Issues](announcements/2026/march/simulator-performance-issues.md)
 
 ## 🚀 Getting Started
 
