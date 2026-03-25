@@ -32,7 +32,7 @@ Zephyr was designed from the ground up to be a training tool for growing real wo
 
 <summary>Is there a demo available for Zephyr?</summary>
 
-We offer a free option for individual accounts [here](https://zephyr-sim.com/individuals). We also offer a risk-free trial to enterprises that would like to explore the advantages of incorporating Zephyr into their training operations. Interested parties may request a demo by contacting us at [contact@littlearms.com](mailto:contact@littlearms.com).
+We offer a free option for individual accounts [here](https://zephyr-sim.com/individuals). We also offer a risk-free trial to enterprises that would like to explore the advantages of incorporating Zephyr into their training operations. Interested parties may request a demo by contacting us at [sales@littlearms.com](mailto:sales@littlearms.com).
 
 </details>
 
