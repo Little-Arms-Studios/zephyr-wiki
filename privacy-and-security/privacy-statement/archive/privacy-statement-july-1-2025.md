@@ -1,12 +1,6 @@
----
-icon: pen-fancy
----
+# Privacy Statement July 1, 2025
 
-# Privacy Statement
-
-Effective date: **April 6, 2026**
-
-Last Updated: **March 31, 2026**
+Effective date: **July 1, 2025**
 
 Little Arms Studios, Inc. ("us", "we", or "our") operates the [https://zephyr-sim.com/](https://zephyr-sim.com/) website (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -15,11 +9,9 @@ We use your data to provide and improve the Service. By using the Service, you a
 {% hint style="info" %}
 Summary of Updates and Changes:
 
-* Added "Date of Birth (Optional)" to Personal Data section
-* Updated Tracking & Cookie Data section to include Analytics cookies
-* Updated "Do Not Track" Signals section to state that we now support them
-* Added "Additional Rights for European Economic Area and United Kingdom Residents" section
-* Added Apollo.io as a third party service provider
+* Removed Hotjar
+* Added Google Ads section
+* Fixed typos
 {% endhint %}
 
 ## Information We Collect And Use
@@ -34,7 +26,6 @@ While using our Service, we may ask you to provide us with certain personally id
 
 * Email address
 * First name and last name (Optional)
-* Date of Birth (Optional)
 * Phone number (Optional)
 * Address, State, Province, ZIP/Postal code, City (Optional)
 * Cookies
@@ -57,7 +48,6 @@ Examples of Cookies we use:
 * Session Cookies. We use Session Cookies to operate our Service.
 * Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
 * Security Cookies. We use Security Cookies for security purposes.
-* Analytics Cookies. Such as Google Tags
 
 ### Use of Data
 
@@ -70,13 +60,25 @@ Little Arms Studios, Inc. uses the collected data for various purposes:
 * To gather analysis or valuable information so that we can improve our Service
 * To monitor the usage of our Service
 * To detect, prevent and address technical issues
-* To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+* &#x20;To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+{% hint style="warning" %}
+**Plain and Simple**
+
+The data we collect is used for a comprehensive and easy experience on our Service.
+{% endhint %}
 
 ### Retention of Data
 
 Little Arms Studios, Inc. will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
 Little Arms Studios, Inc. will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+{% hint style="warning" %}
+**Plain and Simple**
+
+We will only keep your data saved as long as is necessary to the function of the Service or by law.
+{% endhint %}
 
 ### Transfer of Data
 
@@ -85,6 +87,12 @@ If you are located outside United States and choose to provide information to us
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
 Little Arms Studios, Inc. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+{% hint style="warning" %}
+**Plain and Simple**
+
+We are a U.S. based company with hosting servers located in the U.S. Naturally by signing up on our Service, the information you provide will be transferred to our servers which may be outside of your physical location. Security is something we take very seriously so you can rest assured that we take necessary means to keep your data safe and secure.
+{% endhint %}
 
 ### Disclosure of Data
 
@@ -102,17 +110,33 @@ Little Arms Studios, Inc. may disclose your Personal Data in the good faith beli
 * To protect the personal safety of users of the Service or the public
 * To protect against legal liability
 
-In addition, if we are involved in a merger, acquisition, financing, reorganization, bankruptcy, dissolution, sale of company assets, or transition of service to another provider, personal information may be disclosed or transferred as part of that transaction. In such cases, we will use commercially reasonable efforts to ensure that any recipient of personal information is subject to appropriate confidentiality and data protection obligations and that your information continues to be handled in accordance with this Privacy Statement or an equivalent privacy framework.
+{% hint style="warning" %}
+**Plain and Simple**
+
+Under a few circumstances we may disclose your data to certain parties. These circumstances include a merger, acquisition or asset sale of Little Arms Studios, Inc. or this Service, law enforcement agency with the proper warrant(s), or various legal situations that may arise.
+{% endhint %}
 
 ### Security of Data
 
 The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
+{% hint style="warning" %}
+**Plain and Simple**
+
+We try to protect any transmission of data, but because of the nature of the internet, during a transmission of data we are not 100% in control of the data the entire time.
+{% endhint %}
+
 ### "Do Not Track" Signals
 
-Our website respects your privacy. If you have enabled the Do Not Track (DNT) feature in your browser, we do not track your browsing activities. However, please note that not all third parties we work with may comply with DNT requests.
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. We do not handle "Do Not Track" requests on our website. We might in the future, but currently we do not.
 
 You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+{% hint style="warning" %}
+**Plain and Simple**
+
+We do not handle "Do Not Track" requests on our website. We might in the future, but currently we do not.
+{% endhint %}
 
 ## Your Rights
 
@@ -125,6 +149,12 @@ Little Arms Studios, Inc. aims to take reasonable steps to allow you to correct,
 You have the right to data portability for the information you provide to Little Arms Studios, Inc. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
 
 Please note that we may ask you to verify your identity before responding to such requests.
+
+{% hint style="warning" %}
+**Plain and Simple**
+
+You are absolutely entitled to tell us what you do and do not want tracked and stored on our Service. If we do not have a way for you to personally change this under your account settings, just send us an email at [privacy@littlearms.com](mailto:privacy@littlearms.com) and we'll do our best to update your preferences in a timely manner. You can also ask us for a copy of your existing data on our Service. Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us at [privacy@littlearms.com](mailto:privacy@littlearms.com) to make the required changes.
+{% endhint %}
 
 ## Service Providers
 
@@ -161,10 +191,6 @@ You can opt out of Google’s use of cookies for personalized advertising by vis
 
 We do not merge personally identifiable information with non-personally identifiable information collected through any Google advertising product unless we have your prior affirmative consent to that merger.
 
-#### Apollo.io
-
-We use Apollo.io (“Apollo”) to support our business-to-business (B2B) sales and marketing activities. Apollo is a sales intelligence and engagement platform that helps us understand how organizations interact with our website, identify and learn about potential business customers, and analyze engagement with our content and services. When you use our site and have consented to sales and marketing cookies, Apollo may collect information such as your IP address, pages visited, referring site, device and browser type, and similar usage data. This information is used to improve our marketing and sales outreach, tailor our communications, and support our B2B relationships. Apollo processes data in accordance with its own privacy policy. You can manage or withdraw your consent for this tracking at any time through our [#how-to-control-cookies](cookies.md#how-to-control-cookies "mention") page or your browser settings.
-
 ### Payments
 
 We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
@@ -175,15 +201,11 @@ The payment processors we work with are:
 
 * Stripe: Their Privacy Policy can be viewed [here](https://stripe.com/privacy).
 
-## Additional Rights for European Economic Area and United Kingdom Residents
+{% hint style="warning" %}
+**Plain and Simple**
 
-If you are located in the European Economic Area or the United Kingdom, you may be entitled to additional rights under the General Data Protection Regulation (EU) 2016/679 ("GDPR") and the United Kingdom General Data Protection Regulation ("UK GDPR"), respectively. These rights are in addition to, and may expand upon, the rights described elsewhere in this Privacy Statement.
-
-We have prepared a supplementary document that provides comprehensive information about the specific rights afforded to data subjects under the GDPR and UK GDPR, including detailed explanations of each right, the circumstances under which each right applies, and how you may exercise your rights.
-
-To review the full description of your rights as a European data subject, please access our GDPR Data Subject Rights Addendum [gdpr-privacy-statement-addendum.md](gdpr-privacy-statement-addendum.md "mention").
-
-You may exercise any of these rights by contacting us at privacy@littlearms.com.
+Some things we just can not do on our own. In these cases, we research and choose a reliable and secure third party service to handle these tasks. Currently we use Google Analytics, and Hotjar for usage data and Stripe for payment processing. Their policy links are listed on the left.
+{% endhint %}
 
 ## Links to Other Sites
 
@@ -191,15 +213,33 @@ Our Service may contain links to other sites that are not operated by us. If you
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
+{% hint style="warning" %}
+**Plain and Simple**
+
+Sometimes we link relevant information from other sites on this site. We do our best to vet everything we put on our site, but while visiting their site, we are not responsible for anything that happens on their site.
+{% endhint %}
+
 ## Children's Privacy
 
 Our Services are primarily designed for adult users. However, we do offer student users an opportunity to use our Services through an education provider. We provide education providers a copy of our Student Data and Privacy Notice prior to providing Services. For a copy of our Student Data and Privacy Notice, please contact us as provided below.
+
+{% hint style="warning" %}
+**Plain and Simple**
+
+Our Service is not intended for children. If we find that someone under age is using our Service, we will take immediate steps to remove any information related to the user.
+{% endhint %}
 
 ## Changes To This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+{% hint style="warning" %}
+**Plain and Simple**
+
+We will change this policy in the future, but we will let you know beforehand in a reasonable amount of time so you can decide if you still want to use our services.
+{% endhint %}
 
 ## Contact Us
 

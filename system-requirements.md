@@ -8,6 +8,10 @@ icon: desktop
 2. [A supported controller or transmitter](supported-controllers/) with our USB adapter (if applicable)
 3. An internet connection
 
+{% hint style="warning" %}
+Zephyr is not currently supported on Chromebooks or Mobile
+{% endhint %}
+
 {% tabs %}
 {% tab title="Windows 🪟" %}
 | Minimum                                                                                                              | Recommended                                                                                                                  |
