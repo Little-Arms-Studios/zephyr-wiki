@@ -163,7 +163,7 @@ We do not merge personally identifiable information with non-personally identifi
 
 #### Apollo.io
 
-We use Apollo.io (“Apollo”) to support our business-to-business (B2B) sales and marketing activities. Apollo is a sales intelligence and engagement platform that helps us understand how organizations interact with our website, identify and learn about potential business customers, and analyze engagement with our content and services. When you use our site and have consented to sales and marketing cookies, Apollo may collect information such as your IP address, pages visited, referring site, device and browser type, and similar usage data. This information is used to improve our marketing and sales outreach, tailor our communications, and support our B2B relationships. Apollo processes data in accordance with its own privacy policy. You can manage or withdraw your consent for this tracking at any time through our [#how-to-control-cookies](cookies.md#how-to-control-cookies "mention") page or your browser settings.
+We use Apollo.io (“Apollo”) to support our business-to-business (B2B) sales and marketing activities. Apollo is a sales intelligence and engagement platform that helps us understand how organizations interact with our website, identify and learn about potential business customers, and analyze engagement with our content and services. When you use our site and have consented to sales and marketing cookies, Apollo may collect information such as your IP address, pages visited, referring site, device and browser type, and similar usage data. This information is used to improve our marketing and sales outreach, tailor our communications, and support our B2B relationships. Apollo processes data in accordance with its own privacy policy. You can manage or withdraw your consent for this tracking at any time through our [https://wiki.zephyr-sim.com/privacy-and-security/privacy-statement/cookies#how-to-control-cookies](https://wiki.zephyr-sim.com/privacy-and-security/privacy-statement/cookies#how-to-control-cookies) page or your browser settings.
 
 ### Payments
 
@@ -181,7 +181,7 @@ If you are located in the European Economic Area or the United Kingdom, you may 
 
 We have prepared a supplementary document that provides comprehensive information about the specific rights afforded to data subjects under the GDPR and UK GDPR, including detailed explanations of each right, the circumstances under which each right applies, and how you may exercise your rights.
 
-To review the full description of your rights as a European data subject, please access our GDPR Data Subject Rights Addendum [gdpr-privacy-statement-addendum.md](gdpr-privacy-statement-addendum.md "mention").
+To review the full description of your rights as a European data subject, please access our GDPR Data Subject Rights Addendum [https://wiki.zephyr-sim.com/privacy-and-security/privacy-statement/gdpr-privacy-statement-addendum](https://wiki.zephyr-sim.com/privacy-and-security/privacy-statement/gdpr-privacy-statement-addendum).
 
 You may exercise any of these rights by contacting us at privacy@littlearms.com.
 
