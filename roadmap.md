@@ -10,16 +10,21 @@ icon: map-location
 
 ## Upcoming Features
 
-| Feature                                                                  |
-| ------------------------------------------------------------------------ |
-| <mark style="color:orange;">**\[Sim]**</mark> Search and Rescue Scenario |
+| Feature                                                                    |
+| -------------------------------------------------------------------------- |
+| <mark style="color:purple;">**\[Drone]**</mark>**&#x20;** Autel Evo Max 4T |
 
 ## Released Features
 
 | Feature                                                                                                                                                    | Description                                                        | Release date |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------ |
-| <mark style="color:orange;">**\[Sim]**</mark>**&#x20;**<mark style="color:yellow;">**\[Launcher]**</mark> Splitting up Scenarios into Downloadable Content | Uses will only need to download scenarios they have access to.     | 12-18-2025   |
+| <mark style="color:orange;">**\[Sim]**</mark> Search and Rescue Scenario                                                                                   | Search and Rescue Fundamentals and Beach                           | 12-17-2025   |
+| <mark style="color:orange;">**\[Sim]**</mark>**&#x20;**<mark style="color:yellow;">**\[Launcher]**</mark> Splitting up Scenarios into Downloadable Content | Users will only need to download scenarios they have access to.    | 12-17-2025   |
+| <mark style="color:orange;">**\[Sim]**</mark> Search and Rescue Scenarios                                                                                  | Search and Rescue Fundamentals and Beach                           | 10-23-2025   |
 | <mark style="color:orange;">**\[Sim]**</mark> Thermal Imaging (Preview)                                                                                    | Thermal Imaging Camera (Preview) added to Zephyr                   | 04-15-2024   |
+| <mark style="color:orange;">**\[Sim]**</mark> Input Curves                                                                                                 | Users can now modify their controller input curves in Zephyr       | 12-19-2024   |
+| <mark style="color:purple;">**\[Drone]**</mark> Avata 2                                                                                                    | Added the Avata 2 Drone to Zephyr                                  | 12-19-2024   |
+| <mark style="color:purple;">**\[Drone]**</mark> Skydio X10                                                                                                 | Added the Skydio X10 Drone to Zephyr                               | 12-19-2024   |
 | <mark style="color:purple;">**\[Drone]**</mark> Skydio X2D                                                                                                 | Added the Skydio X2D Drone to Zephyr                               | 04-15-2024   |
 | <mark style="color:purple;">**\[Drone]**</mark> ANAFI USA                                                                                                  | Added the ANAFI USA Drone to Zephyr                                | 04-15-2024   |
 | <mark style="color:purple;">**\[Drone]**</mark> DJI Matrice 30                                                                                             | Added DJI Matrice 30 Drone to Zephyr                               | 01-18-2024   |
