@@ -92,6 +92,8 @@
   * [Clemson](case-studies/clemson.md)
 * [Announcements](announcements/README.md)
   * [2026](announcements/2026/README.md)
+    * [March](announcements/2026/march/README.md)
+      * [Simulator Performance Issues](announcements/2026/march/simulator-performance-issues.md)
     * [February](announcements/2026/february/README.md)
       * [Zephyr SIM Performance Issues](announcements/2026/february/zephyr-sim-performance-issues.md)
   * [2025](announcements/2025/README.md)
@@ -101,9 +103,6 @@
       * [Simulator Update Required](announcements/2025/october/simulator-update-required.md)
     * [June](announcements/2025/june/README.md)
       * [Site License System Updates](announcements/2025/june/site-license-system-updates.md)
-  * [2026](announcements/2026-1/README.md)
-    * [March](announcements/2026-1/march/README.md)
-      * [Simulator Performance Issues](announcements/2026-1/march/simulator-performance-issues.md)
 
 ## 🚀 Getting Started
 
