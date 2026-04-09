@@ -4,12 +4,20 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2025.4.4
+## v2026.1.0
 
-### December 16, 2025
+### April 8, 2026
+
+New features:
+
+* New cookie management and consent service
+  * Included Apollo and Google Analytics as options
+  * Do Not Track signal detection and honoring system
+* Content Package management UI
+* Added "industries served" pages to the front end
+* Single session management
 
 Improvements:
 
-* Added language clarifying the email verification code process sending limitations
-* Added a clearing function to the email verification input fields when re-attempting to enter a new code
+* Updated wording for "Hobbyist" vs "Business" customers
 
