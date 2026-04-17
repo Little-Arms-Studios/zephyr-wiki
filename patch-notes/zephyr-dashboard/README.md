@@ -4,20 +4,18 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.1.0
+## v2026.1.1
 
-### April 8, 2026
+### April 17, 2026
 
-New features:
+New Features:
 
-* New cookie management and consent service
-  * Included Apollo and Google Analytics as options
-  * Do Not Track signal detection and honoring system
-* Content Package management UI
-* Added "industries served" pages to the front end
-* Single session management
+* Admin-only: Organization Usage Stats UI
 
-Improvements:
+Fixes:
 
-* Updated wording for "Hobbyist" vs "Business" customers
+* Manage Students UI now detects and displays available license counts and prevents users from over-adding students to a course
 
+Enhancements:
+
+* Added "disabled" functionality to the "select items" UI
