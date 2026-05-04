@@ -11,6 +11,10 @@ Inspecting hard-to-reach or dangerous areas safely is a major benefit of using d
 
 Tower Inspection has three different styles of towers to allow operators to test their tower inspection skills.
 
+{% hint style="warning" %}
+Enterprise-only scenario. Not for Individual use
+{% endhint %}
+
 The different styles of towers are
 
 1. Monopole
@@ -25,32 +29,38 @@ Operators will be challenged in different ways to inspect each tower such as lin
 
 Every module in this scenario has the following drone roster:
 
-| Drone Models  |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| Titan         |
-| ag6a          |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
 
 ## Module Breakdowns
 
@@ -65,8 +75,6 @@ For each tower you will have to perform a different type of inspection facing th
 
 * Circle tower clockwise while continuing to face it
 * Circle tower counter clockwise while continuing to face it
-
-
 
 ### Monopole
 

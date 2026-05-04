@@ -9,3 +9,68 @@ Based off the "NIST Standard Test Methods for Small Unmanned Aircraft Systems," 
 In the APSA Scenario you will find a Training and a Test module. To attempt your certification, you must run the "Test" module and capture your run. For details on submitting a certification, please refer to [attempt-a-certification.md](../../certifications/attempt-a-certification.md "mention").
 
 For a more detailed look at all of the NIST Open Lane Tests, you can visit their website here:[ NIST Aerial Drone Tests](https://www.nist.gov/el/intelligent-systems-division-73500/standard-test-methods-response-robots/aerial-drone-tests)
+
+### Modules
+
+* APSA BPERP Test
+* APSA BPERP Training
+
+### Module Breakdowns
+
+#### APSA BPERP Test
+
+Complete the APSA BPERP 10ft training.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### APSA BPERP Training
+
+Complete the APSA BPERP 10ft training.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>

@@ -32,34 +32,38 @@ The Island scenario consists of nine modules:
 
 ### Island Tour
 
-#### Drone Roster
+<details>
 
-| Drone Model   |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| Titan         |
-| ag6a          |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
 
 #### Description
 
@@ -85,34 +89,38 @@ To complete the Island Tour you'll need to:
 
 ### Boat Landing
 
-#### Drone Roster
+<details>
 
-| Drone Model   |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| Titan         |
-| ag6a          |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
 
 #### Description
 
@@ -126,34 +134,38 @@ To complete the Boat Landing module you'll need to land on 4 boats and then the 
 
 ### Island Circuit
 
-#### Drone Roster
+<details>
 
-| Drone Models  |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| Titan         |
-| ag6a          |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
 
 #### Description
 
@@ -167,31 +179,35 @@ For the Island Circuit module you'll need to race around the island tagging all 
 
 ### Tower Ascent
 
-#### Drone Roster
+<details>
 
-| Drone Model   |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
 
 #### Description
 
@@ -203,31 +219,35 @@ Ascend the tower at the solar panel farm and land on the top.
 
 ### Power Line Run
 
-#### Drone Roster
+<details>
 
-| Drone Models  |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
 
 #### Description
 
@@ -239,34 +259,38 @@ You'll need to balance safety and speed to navigate this course between power li
 
 ### Dock Shuttle
 
-#### Drone Roster
+<details>
 
-| Drone Models  |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| Titan         |
-| ag6a          |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
 
 #### Description
 
@@ -278,31 +302,35 @@ Complete this course within the confines of the harbor dock and with your yaw lo
 
 ### Lighthouse Ascent
 
-#### Drone Roster
+<details>
 
-| Drone Model   |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
 
 #### Description
 
@@ -314,28 +342,32 @@ Ascend the stairs of the lighthouse and reach the top of the building.  How hard
 
 ### Duck Scavenger Hunt
 
-#### Drone Roster
+<details>
 
-| Drone Models  |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| m200          |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* Alta X
+* ANAFI USA
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
 
 #### Description
 

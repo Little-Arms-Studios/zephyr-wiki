@@ -1,33 +1,30 @@
-# Search and Rescue (SAR) Fundamentals
+# Search and Rescue (SAR) Mountain
 
 ## Introduction
 
-This forest environment includes dense woods, large rock formations, flowing streams, and even a few secrets. Built for search and rescue professionals learn SAR procedures and best practices while dealing with some of the challenges you’ll face in the field.
-
-SAR Fundamentals consists of 8 modules with more planned for future releases.
+Search and Rescue Mountain Scenario. Test your SAR skills and trainings you've learned in SAR Fundamentals in a large open environment. Prepare for long flights meant to simulate real world SAR use cases.
 
 {% hint style="warning" %}
 Enterprise-only scenario. Not for Individual use
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/SARMountainSummerForest.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SARMountain.png" alt=""><figcaption></figcaption></figure>
 
 ### Modules
 
 * Free Flight
-* Canopy Search
-* Detailed Search 01
-* Follow the Trail 1
-* Glideslope 01
-* Zoom Reveal 01
-* Glideslope 02
-* Zoom Reveal 02
-* Missing Camper
-* Missing Kayaker
-* Orbit Practice 01
-* Situational Awareness 01
-* Situational Awareness 02
-* Situational Awareness 03
+* Lost Camper 01
+* Lost Camper 02
+* Lost Camper 03
+* Lost Child 01
+* Lost Child 02
+* Lost Child 03
+* Lost Climber
+* Lost Climbers
+* Lost Hiker 01
+* Lost Hiker 02
+* Lost Hiker 03
+* Missing Person - Day
 
 ### Module Breakdowns
 
@@ -68,40 +65,9 @@ Enterprise-only scenario. Not for Individual use
 
 </details>
 
-#### Canopy Search
+#### Lost Camper 01
 
-Find a hiker missing somewhere in the valley. The hiker is a fair-skinned female wearing an off-white crop top with dark gray jeans.
-
-<details>
-
-<summary>Drone Roster</summary>
-
-* 3DR Solo
-* Alta X
-* ANAFI USA
-* Avata 2
-* Bebop 2
-* EVO II
-* EVO Max 4T
-* Inspire 1
-* Inspire 2
-* Lemur 2
-* Matrice 200
-* Matrice 30
-* Mavic Pro
-* Phantom 3
-* Phantom 4
-* Skydio 2
-* Typhoon
-* X Star
-* X10
-* X2D
-
-</details>
-
-#### Detailed Search 01
-
-There is a lost subject somewhere in the scenario, you will be given a detailed description of them and must find them in the scenario with many people nearby.
+A camper has gone missing and was last seen at the campsites by the parking lot and river. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
 
 <details>
 
@@ -136,40 +102,9 @@ There is a lost subject somewhere in the scenario, you will be given a detailed 
 
 </details>
 
-#### Follow the Trail 1
+#### Lost Camper 02
 
-\[Follow the Path Objective points over the trail in the forest while capturing photos of the backpacks below. Then circle back and land safely on the landing pad.].
-
-<details>
-
-<summary>Drone Roster</summary>
-
-* 3DR Solo
-* Alta X
-* ANAFI USA
-* Avata 2
-* Bebop 2
-* EVO II
-* EVO Max 4T
-* Inspire 1
-* Inspire 2
-* Lemur 2
-* Matrice 200
-* Matrice 30
-* Mavic Pro
-* Phantom 3
-* Phantom 4
-* Skydio 2
-* Typhoon
-* X Star
-* X10
-* X2D
-
-</details>
-
-#### Glideslope 01
-
-Fly the indicated routes while facing the indicated direction.
+A camper has gone missing and was last seen at the campsite Northwest of the mountain in the valley Southwest of the pond. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
 
 <details>
 
@@ -204,46 +139,9 @@ Fly the indicated routes while facing the indicated direction.
 
 </details>
 
-#### Zoom Reveal 01
+#### Lost Camper 03
 
-Fly the indicated routes while facing the indicated direction.
-
-<details>
-
-<summary>Drone Roster</summary>
-
-* 3DR Solo
-* AG-6A
-* Alta X
-* ANAFI USA
-* Arrowhead
-* Avata 2
-* Bebop 2
-* EVO II
-* EVO Max 4T
-* HD Racer
-* Inspire 1
-* Inspire 2
-* Lemur 2
-* Loki Mkii
-* Matrice 200
-* Matrice 30
-* Mavic Pro
-* Phantom 3
-* Phantom 4
-* Skydio 2
-* Syma X5C
-* Titan
-* Typhoon
-* X Star
-* X10
-* X2D
-
-</details>
-
-#### Glideslope 02
-
-Fly the indicated routes while facing the indicated direction.
+A camper has gone missing and was last seen at the campsite Southeast of the mountain on the far side of the connecting lakes. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
 
 <details>
 
@@ -278,9 +176,102 @@ Fly the indicated routes while facing the indicated direction.
 
 </details>
 
-#### Zoom Reveal 02
+#### Lost Child 01
 
-Fly the indicated routes while facing the indicated direction.
+A camper has gone missing and was last seen at the campsites by the parking lot and river. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* Alta X
+* ANAFI USA
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Lost Child 02
+
+A child has gone missing and was last seen across the river near the eastern base of the mountain. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* Alta X
+* ANAFI USA
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Lost Child 03
+
+A child has gone missing and was last seen near the mountaintop. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* Alta X
+* ANAFI USA
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Lost Climber
+
+A hiker has gone missing and was last seen climbing up the East side of the mountain. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
 
 <details>
 
@@ -315,46 +306,9 @@ Fly the indicated routes while facing the indicated direction.
 
 </details>
 
-#### Missing Camper
+#### Lost Climbers
 
-Find a missing camper who was last heard from at your landing pad with a plan to camp across the river.
-
-<details>
-
-<summary>Drone Roster</summary>
-
-* 3DR Solo
-* AG-6A
-* Alta X
-* ANAFI USA
-* Arrowhead
-* Avata 2
-* Bebop 2
-* EVO II
-* EVO Max 4T
-* HD Racer
-* Inspire 1
-* Inspire 2
-* Lemur 2
-* Loki Mkii
-* Matrice 200
-* Matrice 30
-* Mavic Pro
-* Phantom 3
-* Phantom 4
-* Skydio 2
-* Syma X5C
-* Titan
-* Typhoon
-* X Star
-* X10
-* X2D
-
-</details>
-
-#### Missing Kayaker
-
-Find a missing Kayaker who was last heard from before they started down the nearby river. There are known small waterfalls and rapids in your search area..
+Two climbers have gone missing and were last seen climbing up the West side of the mountain. Go and search the surrounding areas and use SAR techniques to find BOTH the subjects as quickly as possible.
 
 <details>
 
@@ -389,28 +343,36 @@ Find a missing Kayaker who was last heard from before they started down the near
 
 </details>
 
-#### Orbit Practice 01
+#### Lost Hiker 01
+
+A hiker has gone missing and was last seen on the trail across the river on the Northeast side of the mountain. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
 
 <details>
 
 <summary>Drone Roster</summary>
 
 * 3DR Solo
+* AG-6A
 * Alta X
 * ANAFI USA
+* Arrowhead
 * Avata 2
 * Bebop 2
 * EVO II
 * EVO Max 4T
+* HD Racer
 * Inspire 1
 * Inspire 2
 * Lemur 2
+* Loki Mkii
 * Matrice 200
 * Matrice 30
 * Mavic Pro
 * Phantom 3
 * Phantom 4
 * Skydio 2
+* Syma X5C
+* Titan
 * Typhoon
 * X Star
 * X10
@@ -418,15 +380,17 @@ Find a missing Kayaker who was last heard from before they started down the near
 
 </details>
 
-#### Situational Awareness 01
+#### Lost Hiker 02
 
-A simple introductory module where you must navigate through a densely wooded area to reach the objective.
+A hiker has gone missing and was last seen on the loop trail going up to the waterfall on the South side of the mountain. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
 
 <details>
 
 <summary>Drone Roster</summary>
 
 * 3DR Solo
+* AG-6A
+* Alta X
 * ANAFI USA
 * Arrowhead
 * Avata 2
@@ -434,28 +398,36 @@ A simple introductory module where you must navigate through a densely wooded ar
 * EVO II
 * EVO Max 4T
 * HD Racer
+* Inspire 1
+* Inspire 2
 * Lemur 2
 * Loki Mkii
 * Matrice 200
+* Matrice 30
 * Mavic Pro
 * Phantom 3
 * Phantom 4
 * Skydio 2
 * Syma X5C
+* Titan
+* Typhoon
 * X Star
+* X10
 * X2D
 
 </details>
 
-#### Situational Awareness 02
+#### Lost Hiker 03
 
-A more complex module where you must navigate through a densely wooded area to reach multiple objectives and then return to the Launch Pad.
+A hiker has gone missing and was last seen on the trail going past the pond on the Northwest side of the mountain. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
 
 <details>
 
 <summary>Drone Roster</summary>
 
 * 3DR Solo
+* AG-6A
+* Alta X
 * ANAFI USA
 * Arrowhead
 * Avata 2
@@ -463,28 +435,36 @@ A more complex module where you must navigate through a densely wooded area to r
 * EVO II
 * EVO Max 4T
 * HD Racer
+* Inspire 1
+* Inspire 2
 * Lemur 2
 * Loki Mkii
 * Matrice 200
+* Matrice 30
 * Mavic Pro
 * Phantom 3
 * Phantom 4
 * Skydio 2
 * Syma X5C
+* Titan
+* Typhoon
 * X Star
+* X10
 * X2D
 
 </details>
 
-#### Situational Awareness 03
+#### Missing Person - Day
 
-A complex module where you must navigate through a different section of the wooded area to reach multiple objectives and then return to the Launch Pad.
+A hiker has gone missing somewhere on the mountain. It is unclear what trails they took. Go and search the surrounding areas and use SAR techniques to find the subject as quickly as possible.
 
 <details>
 
 <summary>Drone Roster</summary>
 
 * 3DR Solo
+* AG-6A
+* Alta X
 * ANAFI USA
 * Arrowhead
 * Avata 2
@@ -492,15 +472,21 @@ A complex module where you must navigate through a different section of the wood
 * EVO II
 * EVO Max 4T
 * HD Racer
+* Inspire 1
+* Inspire 2
 * Lemur 2
 * Loki Mkii
 * Matrice 200
+* Matrice 30
 * Mavic Pro
 * Phantom 3
 * Phantom 4
 * Skydio 2
 * Syma X5C
+* Titan
+* Typhoon
 * X Star
+* X10
 * X2D
 
 </details>

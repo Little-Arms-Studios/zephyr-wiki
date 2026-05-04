@@ -1,6 +1,0 @@
----
-icon: note
----
-
-# Patch Notes
-

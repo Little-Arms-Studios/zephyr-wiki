@@ -28,252 +28,305 @@ The Beach (Evening) scenario consists of 9 modules:
 
 ## Module Breakdowns&#x20;
 
-### Beach Tour&#x20;
+#### Free Flight
 
-#### Drone Roster
+(No description)
 
-| Drone Models  |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| Titan         |
-| ag6a          |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<details>
 
-#### Description
+<summary>Drone Roster</summary>
 
-Take a tour around the beach and see all that this scenario has to offer.&#x20;
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
 
-### Racing Circuit 01&#x20;
+</details>
 
-#### Drone Roster
+#### Beach Scavenger Hunt
 
-| Drone Model   |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+Search the beach area for hidden colored rubber ducks.
 
-#### Description
+<details>
 
-Race around the beach and boardwalk following the Path Objectives and try to complete the race circuit as quickly as possible.&#x20;
+<summary>Drone Roster</summary>
 
-### Racing Circuit 02&#x20;
+* 3DR Solo
+* Alta X
+* ANAFI USA
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
 
-#### Drone Roster
+</details>
 
-| Drone Model   |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+#### Beach Tour
 
-#### Description
+Take a tour around the beach.
 
-Race around the beach and down the main street following the Path Objectives and try to complete the race circuit as quickly as possible.&#x20;
+<details>
 
-### Racing Circuit 03&#x20;
+<summary>Drone Roster</summary>
 
-#### Drone Roster
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
 
-| Drone Model   |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+</details>
 
-#### Description
+#### Building Scavenger Hunt
 
-Race around the beach and through the 14th Street bathrooms following the Path Objectives and try to complete the race circuit as quickly as possible.&#x20;
+Search the street and building area for hidden colored rubber ducks.
 
-### Pier Slalom&#x20;
+<details>
 
-#### Drone Roster
+<summary>Drone Roster</summary>
 
-| Drone Models  |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| Titan         |
-| ag6a          |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+* 3DR Solo
+* Alta X
+* ANAFI USA
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
 
-#### Description
+</details>
 
-Slalom around the pier supports struts as quickly as you can and dash to the finish line.&#x20;
+#### Missing Person
 
-### Beach Scavenger Hunt&#x20;
+An adult female is reported missing and potentially injured in the area. She is fair-skinned and wearing an off-white crop top with dark gray jeans. Search the area and find her.
 
-#### Drone Roster
+<details>
 
-| Drone Model   |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| m200          |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<summary>Drone Roster</summary>
 
-#### Description
+* 3DR Solo
+* Alta X
+* ANAFI USA
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
 
-Search the beach area for hidden colored rubber ducks.&#x20;
+</details>
 
-### Building Scavenger Hunt&#x20;
+#### Pier Slalom
 
-#### Drone Roster
+Slalom around the pier supports struts as quickly as you can and dash to the finish line.
 
-| Drone Models  |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| m200          |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<details>
 
-#### Description
+<summary>Drone Roster</summary>
 
-Search the street and building area for hidden colored rubber ducks.&#x20;
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
 
-### Missing Person&#x20;
+</details>
 
-#### Drone Roster
+#### Racing Circuit 01
 
-| Drone Models  |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| m200          |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+Follow the Path Objectives and complete the race circuit as quickly as possible.
 
-#### Description
+<details>
 
-An adult female is reported missing and potentially injured in the area. She is fair-skinned and wearing an off-white crop top with dark gray jeans. Search the area and find her.&#x20;
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Racing Circuit 02
+
+Follow the Path Objectives and complete the race circuit as quickly as possible.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Racing Circuit 03
+
+Follow the Path Objectives and complete the race circuit as quickly as possible.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* X Star
+* X10
+* X2D
+
+</details>

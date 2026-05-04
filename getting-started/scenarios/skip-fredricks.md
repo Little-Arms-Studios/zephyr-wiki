@@ -3,11 +3,15 @@ cover: ../../.gitbook/assets/image (233).png
 coverY: 135.14666666666665
 ---
 
-# Skip Fredericks
+# Skip Fredricks
 
 ## Introduction
 
 Developed in collaboration with filmmaker Skip Fredericks, this scenario teaches and reinforces flight techniques used by drone operators in the film industry.
+
+{% hint style="warning" %}
+Enterprise-only scenario. Not for Individual use
+{% endhint %}
 
 The Skip Fredericks scenario consists of eight modules:Free Flight
 
@@ -25,32 +29,38 @@ The Skip Fredericks scenario consists of eight modules:Free Flight
 
 Every module in this scenario has the following drone roster:
 
-| Drone Model   |
-| ------------- |
-| Phantom3      |
-| Inspire1      |
-| ThreeDRSolo   |
-| Symax5c       |
-| XStar         |
-| Bebop2        |
-| Mavic         |
-| Phantom4      |
-| Inspire2      |
-| Typhoon       |
-| Titan         |
-| ag6a          |
-| HDRacer       |
-| m200          |
-| LokiMK2       |
-| Skydio\_2     |
-| Autel\_Evo\_2 |
-| alta\_x       |
-| arrowhead     |
-| anafi\_usa    |
-| Skydio\_X2D   |
-| m30           |
-| X10           |
-| DJI\_Avata2   |
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
 
 ## Module Breakdowns
 

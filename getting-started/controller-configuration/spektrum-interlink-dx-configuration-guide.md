@@ -20,7 +20,7 @@ Plugging the controller into an external USB hub can confuse the system and/or Z
 {% step %}
 ### Press the "Windows" key, type "game" in the search bar, and select "Set up USB game controllers"
 
-![](<../.gitbook/assets/image (330).png>)
+![](<../../.gitbook/assets/image (330).png>)
 {% endstep %}
 
 {% step %}
@@ -28,79 +28,79 @@ Plugging the controller into an external USB hub can confuse the system and/or Z
 
 Click the `+` below the step numbers or hit `Enter` twice to add another step to your stepper block. You can remove or change the style of the step header or step body if you wish.
 
-<figure><img src="../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### In the "InterLinkDX properties" menu, select the "Settings" tab and then click "Calibrate..."
 
-<figure><img src="../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### In the "Game Device Calibration" menu, cick "Next"
 
-<figure><img src="../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Make sure your controller's left stick is centered and then click "Next"
 
-<figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Move the left stick in several complete circles, return it to center, and then click "Next"
 
-<figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Ensure both sticks and rear sliders are centered and then click "Next"
 
-<figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Move the left rear slider all the way to the left and all the way to the right and then click "Next"
 
-<figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Move the right stick all the way to the left and right along its horizontal axis and then click "Next"
 
-<figure><img src="../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Move the right stick all the way up and down along its vertical axis and then click "Next"
 
-<figure><img src="../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Move the rear right slider all the way to the left and all the way to the right and then click "Next"
 
-<figure><img src="../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### There is no need to calibrate on the next menu, so click "Next"
 
-<figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Turn the R Knob all the way clockwise and all the way counterclockwise and then click "Next"
 
-<figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### Click "Finish"
 
-<figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -115,7 +115,7 @@ Click the `+` below the step numbers or hit `Enter` twice to add another step to
 * Your rear right slider reaches the max and min for Z Rotation
 * Your R Knob reaches max and min for Dial
 
-<figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -125,7 +125,7 @@ Click the `+` below the step numbers or hit `Enter` twice to add another step to
 
 In Zephyr, navigate to Main Menu > Controller and confirm your left and right sticks show a full range of motion in the "Calibration" screen.
 
-<figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

@@ -36,20 +36,32 @@ The Kids with Drones scenario consists of eleven modules:
 
 Every module in this scenario has the following drone roster:
 
-| Drone Model |
-| ----------- |
-| Bebop2      |
-| HDRacer     |
-| Inspire1    |
-| Inspire2    |
-| Matrice     |
-| Mavic       |
-| Phantom3    |
-| Phantom4    |
-| Symax5c     |
-| ThreeDRSolo |
-| Typhoon     |
-| XStar       |
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* X Star
+* X10
+* X2D
+
+</details>
 
 ## Module Breakdowns
 

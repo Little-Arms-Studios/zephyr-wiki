@@ -9,6 +9,10 @@ coverY: -48.266666666666666
 
 The NIST Open Lane Test is the only nationally recognized flight proficiency exam for small multi rotor UASs. It is widely used with first responders and being adopted in many other fields. The goal of this tutorial is to provide an overview of the Open Lane Test and the terminology used. For additional information please see the NIST documentation linked [here](https://www.nist.gov/el/intelligent-systems-division-73500/standard-test-methods-response-robots/aerial-systems).
 
+{% hint style="warning" %}
+Enterprise-only scenario. Not for Individual use
+{% endhint %}
+
 <div align="center"><figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Our NIST Scenarios
@@ -58,3 +62,1031 @@ Once you are aligned, press the capture button. By default, the capture button i
 ## Conclusion
 
 We’re excited to offer this as a solution to aid with establishing a national flight proficiency standard. If you wish to learn more about the NIST Open Lane test, please see the links below or if you have questions about the simulator you can contact us directly. Thank you, and enjoy the simulator.
+
+## Scenarios Breakdown
+
+### NIST Training Course
+
+* Free Flight
+* Nist Tutorial
+* Ten Foot Orbital
+* Ten Foot Position
+* Ten Foot Recon
+* Ten Foot Spiral
+* Ten Foot Traversal
+* Thirty Foot Orbital
+* Thirty Foot Position
+* Thirty Foot Recon
+* Thirty Foot Spiral
+* Thirty Foot Traversal
+* Twenty Foot Orbital
+* Twenty Foot Position
+* Twenty Foot Recon
+* Twenty Foot Spiral
+* Twenty Foot Traversal
+
+### Module Breakdowns
+
+#### Free Flight
+
+(No description)
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Nist Tutorial
+
+(No description)
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Ten Foot Orbital
+
+Complete the NIST 10ft Orbital lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Ten Foot Position
+
+Complete the NIST 10ft Positional lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Ten Foot Recon
+
+Complete the NIST 10ft Recon lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Ten Foot Spiral
+
+Complete the NIST 10ft Spiral lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Ten Foot Traversal
+
+Complete the NIST 10ft Traversal lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Thirty Foot Orbital
+
+Complete the NIST 30ft Orbital lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Thirty Foot Position
+
+Complete the NIST 30ft Positional lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Thirty Foot Recon
+
+Complete the NIST 30ft Recon lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Thirty Foot Spiral
+
+Complete the NIST 30ft Spiral lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Thirty Foot Traversal
+
+Complete the NIST 30ft Traversal lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Twenty Foot Orbital
+
+Complete the NIST 20ft Orbital lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Twenty Foot Position
+
+Complete the NIST 20ft Positional lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Twenty Foot Recon
+
+Complete the NIST 20ft Recon lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Twenty Foot Spiral
+
+Complete the NIST 20ft Spiral lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Twenty Foot Traversal
+
+Complete the NIST 20ft Traversal lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+
+
+## NIST Testing Course
+
+* Free Flight
+* Ten Foot Orbital Test
+* Ten Foot Position Test
+* Ten Foot Recon Test
+* Ten Foot Spiral Test
+* Ten Foot Traversal Test
+* Thirty Foot Orbital Test
+* Thirty Foot Position Test
+* Thirty Foot Recon Test
+* Thirty Foot Spiral Test
+* Thirty Foot Traversal Test
+* Twenty Foot Orbital Test
+* Twenty Foot Position Test
+* Twenty Foot Recon Test
+* Twenty Foot Spiral Test
+* Twenty Foot Traversal Test
+
+### Module Breakdowns
+
+#### Free Flight
+
+(No description)
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* AG-6A
+* Alta X
+* ANAFI USA
+* Arrowhead
+* Avata 2
+* Bebop 2
+* EVO II
+* EVO Max 4T
+* HD Racer
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Loki Mkii
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Syma X5C
+* Titan
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Ten Foot Orbital Test
+
+Complete the NIST 10ft Orbital lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Ten Foot Position Test
+
+Complete the NIST 10ft Positional lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Ten Foot Recon Test
+
+Complete the NIST 10ft Recon lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Ten Foot Spiral Test
+
+Complete the NIST 10ft Spiral lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Ten Foot Traversal Test
+
+Complete the NIST 10ft Traversal lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Thirty Foot Orbital Test
+
+Complete the NIST 30ft Orbital lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Thirty Foot Position Test
+
+Complete the NIST 30ft Positional lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Thirty Foot Recon Test
+
+Complete the NIST 30ft Recon lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Thirty Foot Spiral Test
+
+Complete the NIST 30ft Spiral lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Thirty Foot Traversal Test
+
+Complete the NIST 30ft Traversal lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Twenty Foot Orbital Test
+
+Complete the NIST 20ft Orbital lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Twenty Foot Position Test
+
+Complete the NIST 20ft Positional lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Twenty Foot Recon Test
+
+Complete the NIST 20ft Recon lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Twenty Foot Spiral Test
+
+Complete the NIST 20ft Spiral lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
+
+#### Twenty Foot Traversal Test
+
+Complete the NIST 20ft Traversal lane.
+
+<details>
+
+<summary>Drone Roster</summary>
+
+* 3DR Solo
+* ANAFI USA
+* Avata 2
+* EVO II
+* EVO Max 4T
+* Inspire 1
+* Inspire 2
+* Lemur 2
+* Matrice 200
+* Matrice 30
+* Mavic Pro
+* Phantom 3
+* Phantom 4
+* Skydio 2
+* Typhoon
+* X Star
+* X10
+* X2D
+
+</details>
