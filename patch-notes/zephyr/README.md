@@ -1,10 +1,12 @@
 ---
-icon: note
+icon: drone
 ---
 
-# 1.10.24
+# Zephyr
 
-## May 4, 2026
+## v1.10.24
+
+### May 4, 2026
 
 #### **New Features**
 
