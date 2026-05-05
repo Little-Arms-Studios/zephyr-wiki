@@ -4,18 +4,20 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.1.1
+## v2026.1.2
 
-### April 17, 2026
+### May 5, 2026
 
-New Features:
+New:
 
-* Admin-only: Organization Usage Stats UI
+* Added "How To" videos under "Resources"
+* Introduced new Individual license offerings and two-week trial license type
 
 Fixes:
 
-* Manage Students UI now detects and displays available license counts and prevents users from over-adding students to a course
+* Fixed SAR Fundamentals scenario image
 
 Enhancements:
 
-* Added "disabled" functionality to the "select items" UI
+* Redesigned Shop license cards
+* Redesigned Individuals page license cards and added Scenario cards at the bottom of the page with descriptions and links to their respective wiki pages

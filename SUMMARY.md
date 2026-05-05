@@ -45,6 +45,7 @@
   * [Zephyr Dashboard](patch-notes/zephyr-dashboard/README.md)
     * [💼 Archive](patch-notes/zephyr-dashboard/archive/README.md)
       * [💼 2026](patch-notes/zephyr-dashboard/archive/2026/README.md)
+        * [⭐ v2026.1.1](patch-notes/zephyr-dashboard/archive/2026/v2026.1.1.md)
         * [⭐ v2026.1.0](patch-notes/zephyr-dashboard/archive/2026/v2026.1.0.md)
         * [⭐ v2026.0.4](patch-notes/zephyr-dashboard/archive/2026/v2026.0.4.md)
         * [⭐ v2026.0.3](patch-notes/zephyr-dashboard/archive/2026/v2026.0.3.md)
