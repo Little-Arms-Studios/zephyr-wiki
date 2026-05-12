@@ -9,6 +9,7 @@
 * [Patch Notes](patch-notes/README.md)
   * [Zephyr](patch-notes/zephyr/README.md)
     * [💼 Archive](patch-notes/zephyr/archive/README.md)
+      * [⭐ 1.10.24](patch-notes/zephyr/archive/1.10.24.md)
       * [⭐ 1.10.7](patch-notes/zephyr/archive/1.10.7.md)
       * [⭐ v1.10.5](patch-notes/zephyr/archive/v1.10.5.md)
       * [⭐ v1.8.5](patch-notes/zephyr/archive/v1.8.5.md)
@@ -131,6 +132,8 @@
 
 ## 🚀 Getting Started
 
+* [Institution Onboarding](getting-started/institution-onboarding/README.md)
+  * [IT Departments](getting-started/institution-onboarding/it-departments.md)
 * [Create an Account](getting-started/create-an-account.md)
 * [Little Arms Launcher](getting-started/little-arms-launcher/README.md)
   * [Installation](getting-started/little-arms-launcher/installation/README.md)
@@ -286,6 +289,7 @@
 
 ## 🔎 Troubleshooting
 
+* [Mac "Zoom" Button Performance Issue](troubleshooting/mac-zoom-button-performance-issue.md)
 * [Controllers](troubleshooting/controllers/README.md)
   * [Vertical Drift Fix on Controller](troubleshooting/controllers/vertical-drift-fix-on-controller.md)
 

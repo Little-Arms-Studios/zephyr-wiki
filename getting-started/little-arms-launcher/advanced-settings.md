@@ -8,7 +8,7 @@ If you are on the Sign In screen, you will see a new link at the bottom of the S
 
 If you are signed in to the Launcher, you will see a new tab under the "Settings" window.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="279"><figcaption><p>Settings Page with Advanced Settings Enabled</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="279"><figcaption><p>Settings Page with Advanced Settings Enabled</p></figcaption></figure>
 
 To hide the Advanced Settings tab, press **Ctrl + L** again to disable it.
 

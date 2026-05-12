@@ -32,7 +32,7 @@ If we detect that you already have a Zephyr account with your SSO email, we will
    1. If you don't know your password, you can click "reset your password" and follow the instructions
    2. Once you reset your password, please follow the "[Link Existing Account](single-sign-on.md#link-existing-account)" instructions below
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Login to existing Zephyr account</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Login to existing Zephyr account</p></figcaption></figure>
 
 
 
