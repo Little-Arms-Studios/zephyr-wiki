@@ -9,5 +9,5 @@ We employ third party vendors and service providers on our behalf to perform ser
 | Auth0                     | Authentication service | United States |
 | Sendgrid                  | Email infrastructure   | United States |
 | Google Analytics          | Website Analytics      | United States |
-| Hotjar                    | Website Analytics      | United States |
+| Apollo.io                 | Sales and Marketing    | United States |
 
