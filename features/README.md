@@ -22,7 +22,7 @@ A more dynamic weather system can be turned on or off from the main menu. This w
 
 ## Thermal Camera
 
-_coming soon_
+See [thermal-camera.md](thermal-camera.md "mention") section for details.
 
 ## Payload System
 
