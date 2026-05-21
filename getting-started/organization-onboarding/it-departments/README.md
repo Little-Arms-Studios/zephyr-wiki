@@ -61,15 +61,11 @@ The key points about these applications and their interactions are as follows:
 
 [Deployment Strategy using Mapped Network Drive](deployment-strategy-using-mapped-network-drive.md)
 
-### Changing the Launcher's User Data Folder Location
+### Changing the Launcher's Data Folder Location
 
-The Launcher's configuration and other key files reside in AppData by default. Some organizations have had issues with this folder and its contents persisting between users sessions on the same computer. If you need to change this location, you can do so by following these directions:
+If you have permissions or persistence issues with installing the Little Arms Launcher and Zephyr on a computer used by multiple users (i.e. you install the Launcher and Simulator as an Admin, but when a student signs in they are prompted to install the Simulator again). It may have to do with the default AppData location of the User Data folder and settings files for the Launcher.
 
-1. Create an environment variable called `LITTLE_ARMS_LAUNCHER_USER_DATA` and its value to be the path to the desired location (for example `C:\Little Arms Launcher`)
-   1. **Note: it's important that the chosen location will not run into any permissions issues with reading/writing**
-2. Close the system's default browser before continuing (the browser needs to pick up the new environment variable in order for deep linking to work after signing in)
-3. Test installing/updating Zephyr on the computer and then signing in to the computer with another account
-   1. **Note: as a reminder, when installing Zephyr on a computer that is used by other users: whoever is installing Zephyr for a computer that will be used by other students has the same license as the students**
+Please refer to our guide here: [storing-little-arms-launcher-data-in-a-custom-folder.md](../../little-arms-launcher/storing-little-arms-launcher-data-in-a-custom-folder.md "mention")
 
 ## FAQ Troubleshooting
 

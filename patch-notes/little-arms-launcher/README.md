@@ -4,10 +4,10 @@ icon: rocket-launch
 
 # Little Arms Launcher
 
-## v0.12.9 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+## v0.12.10 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
 
-### April 14, 2026
+### May 21, 2026
 
-Fixes:
+New Feature:
 
-* Resolved issue that would prevent avalible app updates from being presented to the user.
+* **Configurable Launcher data location** for managed and lab environments via the **`LITTLE_ARMS_LAUNCHER_USER_DATA`** environment variable—set a **parent folder** (for example Documents or a network drive) and the Launcher automatically stores its data in the usual subfolder there (for example **`Little Arms Launcher`**).
