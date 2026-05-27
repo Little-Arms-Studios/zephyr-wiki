@@ -300,6 +300,8 @@
 
 ## &#x20; <a href="#help" id="help"></a>
 
+* [Marketing Materials](help/marketing-materials/README.md)
+  * [Zephyr Product Sheet](help/marketing-materials/zephyr-product-sheet.md)
 * [FAQs](help/faqs.md)
 * [Little Arms Studios](help/little-arms-studios.md)
 * [Support](https://support.zephyr-sim.com)
