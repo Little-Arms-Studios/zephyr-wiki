@@ -136,6 +136,7 @@
 ## 🚀 Getting Started
 
 * [Organization Onboarding](getting-started/organization-onboarding/README.md)
+  * [Student Onboarding](getting-started/organization-onboarding/student-onboarding.md)
   * [IT Departments](getting-started/organization-onboarding/it-departments/README.md)
     * [Distributing Little Arms Launcher and Zephyr](getting-started/organization-onboarding/it-departments/distributing-little-arms-launcher-and-zephyr.md)
     * [Microsoft's Configuration Manager](getting-started/organization-onboarding/it-departments/microsofts-configuration-manager.md)
