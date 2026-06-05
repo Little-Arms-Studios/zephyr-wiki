@@ -4,39 +4,48 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.1.3
+## v2026.2.0
 
-### May 27, 2026
+### June 5, 2026
 
 ### Highlights
 
-This release improves admin workflows on dashboards and in user management: shared utility buttons (including wiki links), a simulator time column on the Users table, and a more reliable Select Users and Report Request experience.
+This release introduces a guided Purchase Wizard as the primary way to buy Zephyr licenses online. Individual and Enterprise pages now route into the wizard instead of the legacy cart flow.
 
 ***
 
-### New features
+### New Features
 
-#### Dashboard utility buttons
+#### Purchase Wizard (`/purchase`)
 
-* Introduced a shared Utility card pattern via `DashboardUtilityButtons` and `useUtilityButtons`, supporting both in-app actions and external wiki links (with an external-link icon).
-* Institution Admin and Instructor dashboards now include an Organization Onboarding Documentation link to the wiki.
-* Instructor utility section updated to match Institution Admin styling (labeled card, outline pill buttons, wrapped layout).
+A new multi-step purchase experience replaces direct cart checkout on key marketing pages.
 
-#### Users table
+* Guided flow with progress tracking and session persistence (resume where you left off)
+* Individual licenses — choose a free trial or purchase, with Stripe embedded checkout
+* Organization / site licenses — collect org details, pilot count, and billing info before checkout
+* Pre-purchase assistance — flag paperwork or processing needs before purchase; optionally pay by check
+* Order summary with live pricing, discount display, and review before submission
+* Sales lead handling — non-checkout paths (trials, check payment, pre-purchase assistance, industry pricing) create HubSpot deals and follow-up tasks automatically
+* Contextual footer hints — sales contact on early steps, support portal link on later steps
 
-* Added Sim Time (hh:mm:ss) column showing each user’s simulator time, formatted as hours:minutes:seconds.
+#### Checkout & Organization Setup
+
+* New organization purchases now pass organization data through checkout and show a dedicated success message (“Your organization is ready”) with LMS onboarding instructions
+* Checkout sessions can be linked to HubSpot deals and new organization records on the backend
+* Purchase wizard state is cleared automatically after a successful checkout
 
 ***
 
 ### Improvements
 
-#### Select Users modal
+#### Marketing Pages
 
-* Search users by first name, last name, or email while picking recipients.
-* Selection is preserved when changing organization/course filters or updating the search query.
+* Individuals page — simplified layout; added a primary Purchase button linking to the wizard; removed inline cart/add-on purchase UI
+* Enterprise page — major refresh with Purchase Wizard CTAs throughout and integrated site license pack cards
+* Pack option cards — training scenario hover/focus flyouts on included features; improved site license variant support
+* Proud Partners — added Public Safety UAS partner logo
 
-#### Report Request modal
+#### UI & Forms
 
-* Modal opens at large size for easier use.
-* Start and End dates use the shared date/time picker with sensible bounds (up to 5 years back; end date cannot be in the future).
-* Default range: start date is one month ago at midnight; end date defaults to today.
+* Form field components (`FormFieldInput`, `FormFieldSelect`) — floating labels, improved styling, and shared form-field SCSS
+* App header/footer — hidden on Purchase Wizard routes for a focused checkout experience
