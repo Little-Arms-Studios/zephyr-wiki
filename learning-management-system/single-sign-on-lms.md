@@ -2,7 +2,7 @@
 icon: key
 ---
 
-# Single Sign On
+# Single Sign On (LMS)
 
 {% hint style="info" %}
 #### Zephyr currently supports Google and Microsoft SSO
@@ -71,3 +71,10 @@ They can link their SSO account by following instructions here: [#link-existing-
 
 </details>
 
+<details>
+
+<summary>The Little Arms Launcher is ignoring my "Stay Signed In" prompt from Microsoft</summary>
+
+The "Stay Signed In" prompt on the Microsoft login page is only honored in the browser itself and not passed back to the Launcher. If you want to stay signed in to the Launcher, click "Remember Me" before you click the "Sign In" button.
+
+</details>

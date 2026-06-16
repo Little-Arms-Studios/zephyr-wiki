@@ -239,7 +239,7 @@
 * [Site License](learning-management-system/site-license/README.md)
   * [Manual Assignment](learning-management-system/site-license/manual-assignment.md)
   * [Automatic Assignment](learning-management-system/site-license/automatic-assignment.md)
-* [Single Sign On](learning-management-system/single-sign-on.md)
+* [Single Sign On (LMS)](learning-management-system/single-sign-on-lms.md)
 * [Courses](learning-management-system/courses.md)
 * [Assignments](learning-management-system/assignments.md)
 * [Reports](learning-management-system/reports.md)

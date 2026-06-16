@@ -30,13 +30,13 @@ Currently, Zephyr supports two payload types, camera and flashlight. _Coming soo
 
 ## Learning Management System
 
-See [Broken link](/broken/pages/ub8PSM8EJDkBXghd9p9e "mention") section for details.
+See [Learning Management System](https://app.gitbook.com/s/b4gMJ8PjT5QccaZNi3oB/learning-management-system "mention") section for details.
 
 ## Certifications
 
-See [Broken link](/broken/pages/QHvR8q5FMbxjdqYhN2fZ "mention") section for details.
+See [Certifications](https://app.gitbook.com/s/b4gMJ8PjT5QccaZNi3oB/certifications "mention") section for details.
 
 ## Integrations
 
-See [Broken link](/broken/pages/HnfDTGet5w8Kg9ax5czY "mention") section for details.
+See [Integrations](https://app.gitbook.com/s/b4gMJ8PjT5QccaZNi3oB/integrations "mention") section for details.
 
