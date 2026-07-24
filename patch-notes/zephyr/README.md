@@ -10,6 +10,11 @@ icon: drone
 
 This release contains several major bug fixes as well as multiple under-the-hood improvements.
 
+#### **New Features**
+
+* New Controller Support
+  * Added support for the Futaba T6K and WSC-1 USB adapter
+
 #### **Improvements**
 
 * Updated performance specs of and removed camera zoom from the Brinc Lemur 2 to bring it more in line with its real-world counterpart

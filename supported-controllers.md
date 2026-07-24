@@ -31,6 +31,7 @@ Unfortunately Most DJI Controllers are not compatible with Zephyr at this time. 
 * Tactic InterLink X\*
 * Taranis\* (and possibly other OpenTX controllers)
 * Volantex RC Controller \[PC only]\*
+* Futaba T6K w/ WSC-1 USB adapter
 
 _\*must be used with a wired USB connection_
 
