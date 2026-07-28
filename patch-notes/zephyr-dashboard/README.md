@@ -4,39 +4,33 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.3.0
+## v2026.4.0
 
-### July 9, 2026
+### July 28, 2026
 
 ### Highlights
 
-* Added support to search by email and organizationName when searching Licenses
-* Build Pipeline UX updated to supported API calls to start, approve and deploy SIM builds
+* Modernized platform foundation - Zephyr has been upgraded to Vue 3, bringing a more stable, maintainable foundation for future features and smoother day-to-day use of the web app.
+* Accessibility improvements - This release includes a first major pass at WCAG-oriented accessibility work across the site and app: better keyboard focus handling in navigation, clearer structure in overlays and modals, improved screen-reader labeling, and respect for reduced-motion preferences on animated homepage sections. A Site Map page was also added (linked from the footer) so visitors have another way to find key pages, and the Accessibility statement remains available from the footer.
 
 ***
 
 ### New Features
 
-#### SIM Build Management
-
-* Added functions for listing, getting, approving, starting, and deploying builds in the builds module.
-* Introduced new types for build options and build status to enhance type safety.
-* Updated the build model to include additional properties such as operating system and release channel.
-* Refactored the router to include a new dashboard simulator route and removed the old unity modules view.
-* Integrated build modals and updated the store to manage build state.
+* Site Map — A new `/sitemap` page groups public product, industry, and support links for easier discovery.
 
 ***
 
 ### Improvements
 
-#### License Search Functions
+* Navigation and flyout menus are easier to use with keyboard and assistive tech.
+* Modals and overlays behave more consistently (focus, structure, and interaction).
+* Date and time pickers use clearer default formatting and locale handling.
+* Visual consistency across cards, tables, and modal chrome (spacing, disabled states, shared styling tokens).
+* Student and user management flows were cleaned up as part of the platform upgrade.
 
-* Added optional organizationName field to the LicenseSearch.Options interface.
-* Updated searchOptions in the Licenses module to accommodate organizationName in search filters.
-* Added optional email field to LicenseSearch.Options interface.
-* Updated Licenses module to include email in search options based on filter input.
+***
 
-#### Table Cell User Email
+### Fixes
 
-* Refactored TableCellUserEmail component to handle email resolution and display.
-* Integrated TableCellUserEmail component into the licenses table for owner and assigned users.
+* Users table - Delete Users - The delete option now only appears for users at organizations where deletion is actually permitted.
