@@ -49,6 +49,7 @@
   * [Zephyr Dashboard](patch-notes/zephyr-dashboard/README.md)
     * [💼 Archive](patch-notes/zephyr-dashboard/archive/README.md)
       * [💼 2026](patch-notes/zephyr-dashboard/archive/2026/README.md)
+        * [⭐ v2026.4.0](patch-notes/zephyr-dashboard/archive/2026/v2026.4.0.md)
         * [⭐ v2026.3.0](patch-notes/zephyr-dashboard/archive/2026/v2026.3.0.md)
         * [⭐ v2026.2.3](patch-notes/zephyr-dashboard/archive/2026/v2026.2.3.md)
         * [⭐ v2026.2.2](patch-notes/zephyr-dashboard/archive/2026/v2026.2.2.md)
@@ -305,12 +306,3 @@
 * [Mac "Zoom" Button Performance Issue](troubleshooting/mac-zoom-button-performance-issue.md)
 * [Controllers](troubleshooting/controllers/README.md)
   * [Vertical Drift Fix on Controller](troubleshooting/controllers/vertical-drift-fix-on-controller.md)
-
-## &#x20; <a href="#help" id="help"></a>
-
-* [Marketing Materials](help/marketing-materials/README.md)
-  * [Zephyr Product Sheet](help/marketing-materials/zephyr-product-sheet.md)
-* [FAQs](help/faqs.md)
-* [Little Arms Studios](help/little-arms-studios.md)
-* [Support](https://support.zephyr-sim.com)
-* [Status](https://status.zephyr-sim.com)

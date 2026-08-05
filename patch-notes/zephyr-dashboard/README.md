@@ -4,33 +4,25 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.4.0
+## v2026.5.0
 
-### July 28, 2026
+### August 5, 2026
 
 ### Highlights
 
-* Modernized platform foundation - Zephyr has been upgraded to Vue 3, bringing a more stable, maintainable foundation for future features and smoother day-to-day use of the web app.
-* Accessibility improvements - This release includes a first major pass at WCAG-oriented accessibility work across the site and app: better keyboard focus handling in navigation, clearer structure in overlays and modals, improved screen-reader labeling, and respect for reduced-motion preferences on animated homepage sections. A Site Map page was also added (linked from the footer) so visitors have another way to find key pages, and the Accessibility statement remains available from the footer.
+* New Admin feature for viewing and managing organizations, accessibility improvements, and ensuring referral codes are working in purchasing wizard.
 
 ***
 
-### New Features
+#### Improvements
 
-* Site Map — A new `/sitemap` page groups public product, industry, and support links for easier discovery.
+* Organizations table sorting — Sort organizations by Name and Next Invoice Date. Tables also support cleaner remote sorting/filtering behind the scenes.
+* Invite users — License availability updates as you add emails, with clearer prompts when you still need to pick an institution or role.
+* Referral links — Referral codes from purchase/landing URLs are saved and carried through checkout so affiliates are attributed correctly.
+* Cookie preferences — Tracking consent works more reliably with Google Consent Mode, and cookie preference checkboxes are clearer for screen readers.
+* Convert to site license — Confirmation copy now states that used seats transfer ownership to their assigned users until they expire (instead of only “remain” on those users).
 
-***
+#### Accessibility & polish
 
-### Improvements
-
-* Navigation and flyout menus are easier to use with keyboard and assistive tech.
-* Modals and overlays behave more consistently (focus, structure, and interaction).
-* Date and time pickers use clearer default formatting and locale handling.
-* Visual consistency across cards, tables, and modal chrome (spacing, disabled states, shared styling tokens).
-* Student and user management flows were cleaned up as part of the platform upgrade.
-
-***
-
-### Fixes
-
-* Users table - Delete Users - The delete option now only appears for users at organizations where deletion is actually permitted.
+* Better labels and controls in cookie preferences and table group actions.
+* Minor layout cleanup on the site licenses card.
