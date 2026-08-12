@@ -4,17 +4,17 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.5.1
+## v2026.5.2
 
-### August 7, 2026
+### August 12, 2026
 
 ### Highlights
 
-* Bug fixes on Add License form and added Pilot Institute to partners list.
+* Bug fixes on Managing Assignments and Products modals
 
 ***
 
-#### Improvements
+### Bug Fixes:
 
-* Added Pilot Institute to Proud Partners section
-* Various bug fixes in Add License modal
+* Creating/updating assignment and setting minimum score or minimum time requirements
+* Creating/updating product and setting cart limit and price data
