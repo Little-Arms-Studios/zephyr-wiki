@@ -22,7 +22,7 @@ Your organization users can sign in with their SSO account at any time
 
 ## 1. Create Your Course
 
-In order to invite students, you need to [create a course](courses.md) in Zephyr.
+In order to invite students, you need to [create a course](courses/) in Zephyr.
 
 ## 2. Invite Your Student(s)
 

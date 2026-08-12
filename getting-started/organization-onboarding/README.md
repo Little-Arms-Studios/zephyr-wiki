@@ -128,7 +128,7 @@ Please see [#automatice-site-license-invite-student-s-modal](./#automatice-site-
 
 ### Managing Courses
 
-Please see [courses.md](../../learning-management-system/courses.md "mention") for details.
+Please see [courses](../../learning-management-system/courses/ "mention") for details.
 
 ### Managing Assignments
 

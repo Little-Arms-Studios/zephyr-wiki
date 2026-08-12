@@ -21,7 +21,7 @@ There are two ways to get to the “Create a Course” interface:
 1. Click the “CREATE COURSE” button on your dashboard’s quick-links section
 2. Click “MANAGE” > “COURSES” to drop down the courses table. Then click the “Plus” symbol in the Courses table toolbar
 
-<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
 Four fields are required for creating a course:
 
@@ -45,7 +45,7 @@ Navigate to your Zephyr dashboard
 
 For the purposes of this example, we’ll call the course that we frequently reuse “Intro to Drones.” If you find yourself reusing the same course and assignments from course to course, it’s helpful to create it and give it a name such as “Intro to Drones \[TEMPLATE].”
 
-Now that your have your “TEMPLATE” course created, you can copy a course and all of its assignments by following instructions here: [Copy a Course (and Assignments)](https://littlearms.atlassian.net/wiki/spaces/ZW/pages/2430664707)
+Now that your have your “TEMPLATE” course created, you can copy a course and all of its assignments by following instructions here: [copying-a-course.md](copying-a-course.md "mention")
 
 During this process you can reassign the instructors, change the start/end dates, and even tweak assignments.
 

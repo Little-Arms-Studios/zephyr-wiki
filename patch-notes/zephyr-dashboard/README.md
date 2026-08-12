@@ -4,17 +4,20 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.5.2
+## v2026.5.3
 
 ### August 12, 2026
 
 ### Highlights
 
-* Bug fixes on Managing Assignments and Products modals
+* Bug fixes on Copy Assignments Modal
 
 ***
 
 ### Bug Fixes:
 
-* Creating/updating assignment and setting minimum score or minimum time requirements
-* Creating/updating product and setting cart limit and price data
+* Fixed a bug that prevented Copy Assignments Modal from spawning
+
+### Improvements:
+
+* Added error handling and UI polish to the Copy Assignments Modal
