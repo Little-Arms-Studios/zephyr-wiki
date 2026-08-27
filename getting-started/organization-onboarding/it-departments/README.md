@@ -61,6 +61,8 @@ The key points about these applications and their interactions are as follows:
 
 [Deployment Strategy using Mapped Network Drive](deployment-strategy-using-mapped-network-drive.md)
 
+[FileWave Deployment on a Mac Environment](filewave-deployment-on-a-mac-environment.md)
+
 ### Changing the Launcher's Data Folder Location
 
 If you have permissions or persistence issues with installing the Little Arms Launcher and Zephyr on a computer used by multiple users (i.e. you install the Launcher and Simulator as an Admin, but when a student signs in they are prompted to install the Simulator again). It may have to do with the default AppData location of the User Data folder and settings files for the Launcher.

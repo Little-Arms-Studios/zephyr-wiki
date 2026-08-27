@@ -154,6 +154,7 @@
     * [Distributing Little Arms Launcher and Zephyr](getting-started/organization-onboarding/it-departments/distributing-little-arms-launcher-and-zephyr.md)
     * [Microsoft's Configuration Manager](getting-started/organization-onboarding/it-departments/microsofts-configuration-manager.md)
     * [Deployment Strategy using Mapped Network Drive](getting-started/organization-onboarding/it-departments/deployment-strategy-using-mapped-network-drive.md)
+    * [FileWave Deployment on a Mac Environment](getting-started/organization-onboarding/it-departments/filewave-deployment-on-a-mac-environment.md)
 * [Create an Account](getting-started/create-an-account.md)
 * [Little Arms Launcher](getting-started/little-arms-launcher/README.md)
   * [Installation](getting-started/little-arms-launcher/installation/README.md)
