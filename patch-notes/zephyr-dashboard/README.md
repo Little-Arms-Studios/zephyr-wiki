@@ -4,24 +4,16 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.6.1
+## v2026.6.4
 
-#### August 27, 2026
+### **September 1, 2026**
 
-#### Highlights
+**Highlights**
 
-Added two new partners to the partners section - TCB Drones and Vets to Drones, bug fix on Report Request modal, and updates to Contact page and Partner Product page.
-
-***
-
-#### Improvements
-
-* Updated Contact page information
-* Added "click to enlarge" functionality to Partner Product page images and updated Lightbox modal
-* Added two new partners to the Proud Partners section: TCB Drones and Vets to Drones
+* Fixed the homepage Purchase button so it can be clicked again when the info panel overlaps the hero.
 
 ***
 
-#### Bug Fixes
+**Bug Fixes**
 
-* Report Request Modal - Added back button to summon select-list modal on key area of the form
+* Homepage — The Purchase button in the hero is no longer blocked by the overlapping info section. The info panel still sits slightly over the section above it, without covering the button.
