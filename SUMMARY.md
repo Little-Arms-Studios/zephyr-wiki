@@ -31,6 +31,7 @@
   * [Little Arms Launcher](patch-notes/little-arms-launcher/README.md)
     * [💼 Archive](patch-notes/little-arms-launcher/archive/README.md)
       * [💼 2026](patch-notes/little-arms-launcher/archive/2026/README.md)
+        * [⭐ v0.12.11](patch-notes/little-arms-launcher/archive/2026/v0.12.11.md)
         * [⭐ v0.12.10](patch-notes/little-arms-launcher/archive/2026/v0.12.10.md)
         * [⭐ v0.12.9](patch-notes/little-arms-launcher/archive/2026/v0.12.9.md)
         * [⭐ v0.12.8](patch-notes/little-arms-launcher/archive/2026/v0.12.8.md)
