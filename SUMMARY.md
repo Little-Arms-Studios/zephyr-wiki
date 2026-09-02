@@ -319,3 +319,12 @@
 * [Mac "Zoom" Button Performance Issue](troubleshooting/mac-zoom-button-performance-issue.md)
 * [Controllers](troubleshooting/controllers/README.md)
   * [Vertical Drift Fix on Controller](troubleshooting/controllers/vertical-drift-fix-on-controller.md)
+
+## ❓ Help
+
+* [Marketing Materials](help/marketing-materials/README.md)
+  * [Zephyr Product Sheet](help/marketing-materials/zephyr-product-sheet.md)
+* [FAQs](help/faqs.md)
+* [Little Arms Studios](help/little-arms-studios.md)
+* [Support](https://support.zephyr-sim.com/)
+* [Status](https://status.zephyr-sim.com/)
