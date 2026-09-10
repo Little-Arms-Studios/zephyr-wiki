@@ -21,6 +21,8 @@ Once you have created your account, sign in at [zephyr-sim.com](https://zephyr-s
 
 At the top of your dashboard you should see a blue banner with the invitation details and an "Accept" button. Click the "Accept" button. You should then be presented with a window that will let you select your new Student role.
 
+<figure><img src="../../.gitbook/assets/image (371).png" alt=""><figcaption><p>Example Invitation Notification</p></figcaption></figure>
+
 {% hint style="info" %}
 If you are not automatically shown the Select Role window, you can click "Change Role" under your portrait on the lefthand side of the dashboard or click the "Multi-User" icon in the top navbar.
 {% endhint %}
