@@ -4,16 +4,11 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.6.4
+## v2026.6.10
 
-### **September 1, 2026**
+### September 14, 2026
 
-**Highlights**
+### Updates
 
-* Fixed the homepage Purchase button so it can be clicked again when the info panel overlaps the hero.
-
-***
-
-**Bug Fixes**
-
-* Homepage — The Purchase button in the hero is no longer blocked by the overlapping info section. The info panel still sits slightly over the section above it, without covering the button.
+* Enterprise sales contact — The Contact Sales dialog now shows the proper representative, with an updated direct phone number.
+* Enterprise demo form — The business demo page lists a single primary sales contact for consistency.
