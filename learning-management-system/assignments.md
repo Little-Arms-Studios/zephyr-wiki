@@ -76,7 +76,7 @@ In order for a student to complete an assignment, they must:
 4. Click "Launch" on the Zephyr page
 5. When prompted, select their Student role for the course that has the assignment issued
 6. Navigate to the appropriate scenario and module
-7. Complete the module while meeting meet the assignment requirements
+7. Complete the module while meeting the assignment requirements
 8. When the student finishes their run (and they do not receive an error message stating their report could not be submitted), they may navigate back to the Zephyr-Sim.com website and refresh the page to see if their report satisfied the assignment requirements
 
 {% hint style="info" %}
