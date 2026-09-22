@@ -4,11 +4,16 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.6.10
+## v2026.7.0
 
-### September 14, 2026
+### September 22, 2026
 
-### Updates
+### Improvements
 
-* Enterprise sales contact — The Contact Sales dialog now shows the proper representative, with an updated direct phone number.
-* Enterprise demo form — The business demo page lists a single primary sales contact for consistency.
+* Migrated from Webpack to Vite v8
+* General performance improvements
+* SEO / GEO / AEO optimizations
+
+### Bug Fixes
+
+* Fixed broken links on Certifications page
