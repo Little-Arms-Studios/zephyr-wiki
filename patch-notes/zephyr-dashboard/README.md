@@ -4,16 +4,10 @@ icon: globe-pointer
 
 # Zephyr Dashboard
 
-## v2026.7.0
+## v2026.7.1
 
-### September 22, 2026
-
-### Improvements
-
-* Migrated from Webpack to Vite v8
-* General performance improvements
-* SEO / GEO / AEO optimizations
+### September 23, 2026
 
 ### Bug Fixes
 
-* Fixed broken links on Certifications page
+* Fixed mobile sizing and detection issues
