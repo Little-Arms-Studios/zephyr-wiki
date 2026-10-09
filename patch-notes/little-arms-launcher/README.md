@@ -4,18 +4,16 @@ icon: rocket-launch
 
 # Little Arms Launcher
 
-## v0.12.12 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
+## v0.12.13 <a href="#id-0.8.62-january-10-2024" id="id-0.8.62-january-10-2024"></a>
 
-\[mac-only]
+\[windows-only]
 
-### Sept 1, 2026
+### Oct 9, 2026
 
 #### Features
 
-* Show app download progress in the macOS Dock during installs and updates
-* Extend version history tooling to parse wiki archives
+* Add install and write progress tracking for app and DLC installations, with in-app progress feedback during unpack, disk image, and file-copy phases
 
 #### Bug Fixes
 
-* Improve disk image attachment error handling and parsing on macOS
-* Use available memory (not free memory) in runtime startup logging
+* Improve Windows DLC junction creation using a dedicated PowerShell helper with safer path and quoting handling
